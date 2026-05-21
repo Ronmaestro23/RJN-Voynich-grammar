@@ -1,4 +1,4 @@
-# RJN-Voynich-grammar-and-word-list
+# Voynich-Process-Operator-Grammar
 Full decipherment with grammar on all sections
 # Recursive Structural Decipherment of Voynichese
 
