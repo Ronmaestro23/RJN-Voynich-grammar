@@ -308,20 +308,15 @@ Working draft for public repository release and specialist review.
 
 The current model presents a complete structural decipherment of Voynichese as a recursive hierarchical functional process-operator grammar. The structural layer is mathematically and statistically derived. The historical recipe layer is presented as the strongest current interpretation of the derived functional roles.
 
----
-
 ## Author
 
-Ronny Juul Nielsen
+Ronny Juul Nielsen  
+May 2026
 
 ## License
 
 Code and analysis scripts are licensed under the MIT License.
 
-Text, paper drafts, diagrams, interpretive framework, and documentation are licensed under
-Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0),
-unless otherwise stated.
+Documentation, paper drafts, diagrams, interpretive framework, structural grammar model, and explanatory material are licensed under Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0), unless otherwise stated.
 
 © 2026 Ronny Juul Nielsen.
-
-May 2026
