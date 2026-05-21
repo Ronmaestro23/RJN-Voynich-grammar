@@ -1,0 +1,1811 @@
+A  Recursive Structural Decipherment of Voynichese as a Hierarchical Functional Process-Operator Grammar
+From primitive glyphs to macro-sequences, regime dispatch, and diagrammatic recipe systems
+
+Ronny Juul Nielsen
+
+Working draft for GitHub / Yale submission
+
+May 2026
+
+Draft status: This document separates the demonstrated structural parser from the functional 
+role model and the historical recipe interpretation. 
+
+Abstract
+
+This paper presents a complete structural decipherment of Voynichese as a recursive 
+hierarchical functional process-operator grammar. 
+The system was not derived from a prior linguistic, botanical, cryptographic, or alchemical theory. 
+It emerged after extensive computational testing of glyph behavior, token segmentation, positional constraints, macro
+sequence structure, witness variation, regime behavior, and key-page alignment. 
+More than one thousand scripts were used during the derivation process.
+
+The resulting parser reads Voynichese at three structural levels: primitive glyphs, 
+compositional tokens, and macro-sequences. A fourth interpretive layer, the regime dispatcher, 
+is required because PROCESS, HERBAL, BALNEO, PHARMA, ASTRO, SPECIAL, ROSETTES, STAR, 
+and ZODIAC pages organize the same operator inventory differently. 
+The parser produces a stable token-by-token structural translation, while distinguishing structural meanings from 
+historically precise substance names.
+
+The central A-claim is that Voynichese is a recursive hierarchical process script. Glyphs form 
+tokens, tokens form operator chains, operator chains form macro-sequences, and 
+macro-sequences are interpreted through diagrammatic regimes. 
+
+The B-claim is that the grammar yields stable process roles: transformation, transition, carrier, transfer, stabilization, 
+extraction, output, residue/base, phase, closure, grade, and regulation. 
+
+The C-claim is that the visual system is itself grammatical: roots, stems, leaves, flowers, stars, human figures, animal
+like structures, teeth, claws, bones, scales, and heads function as diagrammatic classifiers 
+rather than decorative anomalies. 
+
+The D-claim is that these process roles fit historical medical, 
+apothecary, and alchemical procedures such as maceration, filtration, fractionation, fixation, 
+extraction, residue formation, and possible distillation or decoction.
+The visual program is treated as a parallel diagrammatic grammar. Herbal plants are 
+compressed vertical process diagrams; balneo scenes unfold hydraulic reservoir logic; pharma 
+pages encode vessels and substance classes; astro and star pages use nodes, stars, labels, and 
+radial structures as process categories. Key pages such as f49v and f66r are treated as operator 
+demonstrations rather than ordinary prose.
+
+
+
+1. Claim hierarchy
+
+Level Claim Status
+
+A Complete structural decipherment of Voynichese as a recursive hierarchical process-operator grammar.
+
+B The grammar assigns stable functional roles to glyphs, tokens, macroforms, and sequence zones.
+
+C Roots, stems, leaves, flowers, stars, people, animals, teeth, claws, bones, heads, scales, and chambers are visual grammar.
+
+D The functional roles correspond strongly to technical medical/apothecary/alchemical processes.
+
+E The same grammar is diagrammed across herbal, balneo, pharma, astro, rosettes, and star regimes.
+
+Central demonstrated claim.
+
+Strongly supported functional model.
+
+Diagrammatic classifier claim; strongly supported visually.
+
+Historical interpretation; testable candidate layer.
+
+Cross-regime extension; strongly supported by case studies.
+
+The paper therefore does not begin by claiming a conventional lexical translation. It claims that 
+the structural grammar of Voynichese has been deciphered as a recursive technical notation. 
+
+Exact historical substance labels remain open to specialist refinement.
+
+
+
+2. Methodological origin: no prior language theory
+
+The investigation did not begin with a proposed language, cipher, botanical identification, or 
+alchemical doctrine. 
+The initial assumptions were minimal and material: the manuscript 
+appears visually planned; the text is coordinated with drawings; the parchment was costly; the 
+scribe was trained and confident; and the work therefore likely encoded a serious learned 
+technical system.
+
+The actual parser was derived after the initial computational phase. More than one thousand 
+scripts tested glyph positions, token starts and endings, token decomposition, mini-token reuse, 
+boundary roles, line roles, module discovery, recursive segmentation, grammar extraction, 
+surface parsing, generation models, closure behavior, operation phases, entry transitions, and 
+key-page signatures.
+
+This matters because the model was not fitted to a pre-existing theory. The 
+apothecary/alchemical interpretation became plausible only after the structural parser and 
+process roles had already emerged.
+
+3. Development pipeline
+The derivation passed through a staged computational pipeline. The uploaded script log 
+includes tests for boundary roles, line roles, module discovery, recursive segmentation, token 
+decomposition, grammar extraction, surface parsing, generation models, closure-terminal 
+behavior, operation phases, entry-transition matrices, and f49v margin-signature tests. 
+
+Representative script families include:
+• boundary_roles, line_roles, sequence_role_classifier, boundary_predictor;
+• module_discovery, module_validation, recursive_segmentation, 
+token_decomposition_engine;
+• grammar_extraction, corpus_validated_surface_parser, surface_split_constraints;
+• symbol_role_constraints, hierarchical_module_roles, rule induction from confirmed 
+module roles;
+• closure_terminal_model, operation_sequence_model, operation_phase_model;
+• entry_transition_matrix, entry_chain_trigram_model, line_phase_coherence_test;
+• f49v margin alignment, f49v margin signature, and manual margin glyph group tests.
+
+The consequence is a model that has both bottom-up statistical grounding and top-down 
+grammatical coherence. It is not merely a set of visual associations.
+
+
+
+
+4. Formal grammar overview
+The strongest version of the model is not merely token-compositional. It is sequence compositional and regime-dispatched.
+SYSTEM = REGIME_DISPATCHER(MACRO_SEQUENCE+)
+MACRO_SEQUENCE =
+P_START?
++ SETUP_BLOCK+
++ TRANSITION_BLOCK*
++ Q_CORE_BLOCK+
++ CLOSURE_BLOCK+
+TOKEN = PREFIX* + CORE + SUFFIX*
+Q_BLOCK =
+q + OPERATION_CLUSTER + LOCAL_CLOSURE*
+The logical unit is not necessarily a line or folio. Lines and folios are layout units. The sequence is the syntactic unit.
+
+LINE != syntactic unit
+
+FOLIO != syntactic unit
+
+SEQUENCE = primary syntactic unit
+
+
+
+
+5. Macro-sequence grammar
+The parse-tree diary identifies a recurring macrosequence structure. A full macro-sequence 
+normally contains setup, transition, active q-core, and closure. p frequently marks a macro
+start, while q marks internal active operations.
+Zone
+Typical signs
+Function
+P_START
+SETUP_BLOCK
+TRANSITION_BLOCK
+Q_CORE_BLOCK
+CLOSURE_BLOCK
+p + start cluster; often ch, sh, o, y, d-near forms, early stabilization
+ch, k, sh, local stable forms, early aiin/daiin
+mixed ch/q/y/ot forms qot-, qok-, qo- forms
+d + y/aiin/ar/ol/am and related closure modules
+
+CLOSURE_BLOCK = D_BLOCK+
+New macro-procedure, product branch, or recipe family.
+Preparation, local ordering, distribution into the system.
+Activation, pre-core passage, preparation for the main operation.
+Active motor, step start, restart, transformation.
+Zonal closure, stabilization, output, local closure, terminal base.
+D_BLOCK = d + (y | aiin | ar | ol | am | other_closure_module)
+
+Closure hierarchy:
+dy = transformation + end / closure
+daiin = transformation to second phase
+dar = transformation to output
+dol = transformation process into local carrier
+dam = transformation to terminal base
+This hierarchy is deliberately kept compositional. The initial d is not redefined in each 
+expression; it remains transformation/processing. The following element gives the target or 
+closure mode: y gives end, aiin gives phase, ar gives output, ol gives local carrier, and am gives 
+terminal base.
+
+
+
+
+6. Recursion
+The grammar is recursive. q-blocks can contain smaller q-blocks. Closure can occur locally and 
+globally. This explains why Voynichese often looks repetitive while still behaving as structured 
+process notation.
+Q_CORE = Q_BLOCK+
+Q_BLOCK = q + OPERATION + (Q_BLOCK?) + (CLOSURE?)
+Therefore: q-blocks can contain sub-q-blocks
+closure can be local or global macro-sequences can be nested
+
+
+
+
+7. Primitive operator inventory
+The primitive inventory must remain maximally consistent. The same sign should keep the 
+same functional role across tokens, unless a higher macro-binding is explicitly active. In 
+particular, d remains transformation/processing, a remains transition-to, and y remains 
+closure/end. Compound forms such as daiin, dar, dol, and dam are therefore not independent 
+lexical words; they are compositional target forms built from transformation plus a target.
+The three initiation signs are kept distinct:
+q = strong external initiation / process start / flow start
+p = operational initiation / procedure-init / subprocedure-start often internal or embedded
+f = material/preparatory/variant initiation often internal or embedded
+
+This distinction is important. q is the strong active process motor, p is more procedural or 
+subprocedural, and f marks a preparatory, material, or variant branch.
+Glyph / family
+Structural function
+Possible historical glosses
+q
+p
+f
+o
+a
+d
+y
+e
+i / ii
+strong external initiation / 
+process start / flow start
+operational initiation / 
+procedure-init / 
+subprocedure-start
+material/preparatory/
+variant initiation
+process field / node / base 
+field
+transition / to / open 
+movement toward
+transformation / 
+processing / closure trigger
+boundary / closure / 
+finalization
+grade / intensity / internal 
+differentiation
+phase or sequence marking
+initiate, activate, start a step, 
+start flow
+begin operation, 
+subprocedure, procedural 
+branch
+prepare material, variant 
+branch, fraction variant
+field, medium, process-space
+to, toward, into, transition
+transform, process, convert, 
+bring to state
+close, mark boundary, finish, 
+end
+degree, strength, refinement
+phase, count, inner sequence
+Glyph / family
+Structural function
+Possible historical glosses
+n
+l
+r
+ar
+m
+k
+t
+s
+h
+ch
+sh
+cth
+ckh
+cph
+cfh
+cht
+chk
+chp
+chf
+dy
+daiin
+dar
+phase boundary / stage 
+endpoint
+local carrier / locality
+relation / output direction
+output target / relation 
+target
+terminal mass / base / 
+residue
+stabilization / left-binding 
+connector
+transfer / routing
+regulated/status marker
+activation / execute / 
+internal activation binder
+active coupled frame / basal 
+operation
+activated regulation/status
+active coupled transfer
+active coupled stabilization
+active coupled 
+procedure/separation
+active coupled 
+variant/preparation
+active frame -> transfer
+active frame -> stabilization
+stage ending, boundary
+local field, vessel, carrier, 
+place
+relation, outflow, fraction, 
+target
+output, result, fraction target
+mass, sediment, base, residue
+stabilize, bind, fix, connect
+transfer, pass, route, filter
+regulated, controlled, status
+marked
+activate, execute, bind, 
+intensify
+active frame, coupled 
+operation
+regulated active frame, 
+controlled activation
+strong transfer, activated 
+transition
+activated stabilization, fixed 
+active frame
+specialized extraction, active 
+separation
+fraction variant, active 
+preparation
+sequential active transfer
+sequential active 
+stabilization
+active frame -> operation-init sequential active procedure
+active frame -> variant-init
+sequential active variant
+transformation + end / 
+closure
+transformation to second 
+phase
+transformation to output
+transformed and closed
+second phase, second 
+treatment
+transformed output, output 
+Glyph / family Structural function Possible historical glosses
+result
+dol transformation process into 
+local carrier
+transformed local 
+carrier/process
+dam transformation to terminal 
+base
+transformed base, residue, 
+terminal mass
+
+
+
+
+8. h-rule V6.44: activation, embedded forms, and remainder classes
+The sign h means activation or execution. It must not be reduced to a mere component of ch, 
+sh, cth, ckh, cph, or cfh. It can stand in four ways:
+1. free primitive h
+2. free macro with ch / sh
+3. embedded c-form: cth / ckh / cph / cfh
+4. rare non-c h-pair remainder: th / kh / ph / fh-rest
+
+
+8.1 Free h
+h is an independent activation operator.
+Examples:
+hy = h + y
+   = activation finalized
+oheol = o + h + e + ol
+      = nodebase -> activation -> grade -> local carrier
+qoiheey = q + o + i + h + ee + y
+        = initiate nodebase/phase
+          -> activation
+          -> grade 2
+          -> finalized
+Therefore, h is not only something bound inside ch, sh, cth, ckh, cph, or cfh.
+
+
+8.2 Primary free h-macros
+ch = c + h
+   = active coupled frame
+sh = s + h
+   = activated regulation/status
+
+
+8.3 Embedded c-forms
+cth = c + t + h
+= active coupled transfer
+ckh = c + k + h
+= active coupled stabilization
+cph = c + p + h
+= active coupled procedure/separation
+cfh = c + f + h
+= active coupled variant/preparation
+
+
+8.4 Sequential ch-forms
+cht = ch + t
+= active coupled frame -> transfer
+chk = ch + k
+= active coupled frame -> stabilization
+chp = ch + p
+= active coupled frame -> operation-init
+chf = ch + f
+= active coupled frame -> variant-init
+Therefore:
+cth != cht
+ckh != chk
+cph != chp
+cfh != chf
+
+
+8.5 Non-c h-pair remainder
+th, kh, ph, and fh are not primary free macroblocks by default. Rare non-c-embedded 
+occurrences are registered as a remainder class:
+FREE_H_PAIR_REMAINDER
+NON_C_EMBEDDED_H_EXCEPTION
+Examples:
+aithy
+khy
+pho
+theody
+doithy
+taikhy
+khe
+koaiphhy
+They are first parsed by primitive split:
+aithy  = a + i + t + h + y
+khy    = k + h + y
+pho    = p + h + o
+theody = t + h + e + o + d + y
+doithy = d + o + i + t + h + y
+and marked:
+FREE_H_PAIR_REMAINDER
+If the access conditions are not met, they remain:
+UNRESOLVED_H_REMAINDER
+
+
+
+
+9. Token composition and example translations
+TOKEN = PREFIX* + CORE + SUFFIX*
+Strong prefixes: p, q, a, y, k, o
+Core elements: ch, cth, cph, ok, ot, ol, or
+Strong suffixes: dy, aiin, ar, al, am, ol
+Token Structural split
+Structural translation
+Historical candidate
+qotedy 
+qokedy 
+daiin
+otam
+opchedy
+q + ot + e + d + y
+q + ok + e + d + y
+d + a + ii + n
+ot + am
+op + ch + e + d + y
+initiated transfer, 
+graded/intensified, transformed, 
+closed
+initiated fixed/stabilized phase, 
+graded, transformed, closed
+transform toward/into phase
+stage
+transfer into terminal 
+base/residue
+extraction in active frame, graded, 
+transformed, closed
+finished filtrate / transferred 
+fraction / distillate candidate
+fixed residue / salt-like product
+second treatment / phase transition
+routed terminal residue / base 
+fraction
+finished extract / active fraction / 
+oil candidate
+olke ol + k + e local carrier stabilized, intensified, stabilized macerate/carrier fraction
+Token Structural split
+Structural translation
+Historical candidate
+edy + d + y
+transformed, closed
+
+
+
+
+10. Functional role classes
+Role 
+class
+Main families
+Structural meaning
+Historical candidates
+CARRIER
+TRANSFER
+FIXED
+EXTRACT
+RESIDUE
+OUTPUT
+ol, qol, chol, shol, 
+qokal, okal
+
+ot, qot, oty, otedy, 
+qotedy, otar
+
+ok, qok, ke, okedy, 
+qokedy, okeedy
+
+op, qop, cph, cfh, of, 
+qof
+
+am, om, dam, otam, 
+okam
+
+ar, or, dar, otar, 
+qotar, okar
+
+PHASE aiin, daiin, qokaiin, 
+otaiin
+
+CLOSURE
+y, dy, edy, chedy, 
+shedy, qokedy
+
+GRADE e, ee, eee, eedy, 
+cheey, keey
+
+REGULATED
+s, sh, shedy, shol, 
+sheol
+local carrier / field / 
+vessel / substrate
+transfer / routing / 
+moved phase
+stabilized / fixed / held 
+phase
+extraction / separation / 
+active fraction
+terminal mass / base / 
+residue
+output / routed result / 
+fraction
+phase / stage / second 
+treatment
+closure / finished state
+degree / intensity / 
+refinement
+regulated/status 
+activation
+
+
+
+
+11. Distributional evidence carrier, vessel, pool, tissue, substrate, solvent
+filtrate, transferred fluid, distillate candidate fixed residue, salt-like product, 
+stable extract extract, oil candidate, active fraction sediment, pulp, base, heavy 
+residue fraction, outflow, filtrate output
+phase 1/2, next fraction, second operation finished, closed, fixed, 
+completed concentration, strength, grade controlled treatment, regulated state
+
+The parse-tree diary records positional asymmetries that strongly support operator roles. In a 
+tested token set, starts are dominated by o, c, q, s, y, and d; endings are dominated by y, r, l, n, s, 
+m, and o. 
+The most important result is that y is the leading terminal form, while o is a dominant 
+start field that systematically forms ot-, ok-, and ol- families.
+
+Start glyph Count Percent
+o 2213 22.6%
+c 1583 16.2%
+q 994  10.1%
+s 979  10.0%
+  
+Start glyph Count Percent
+y 745 7.6%
+d 734 7.5%
+a 444 4.5%
+l 426 4.3%
+t 419 4.3%
+k 391 4.0%
+
+End glyph Count Percent
+y 3427 35.0%
+r 1280 13.1%
+l 1074 11.0%
+n 945 9.6%
+s 633 6.5%
+m 476 4.9%
+o 406 4.1%
+d 392 4.0%
+i 265 2.7%
+a 208 2.1%
+
+o-start second glyph Count Percent of o-start tokens Interpretation
+t 527 24% ot = transfer field
+k 468 21% ok = stabilized/fixed field
+l 349 16% ol = local carrier field
+p 198 9% op = procedure/extraction field
+c 119 5% oc/ch activation variants
+e 117 5% grade/intensity field
+
+The combined ot/ok/ol families account for approximately 61% of o-start tokens in the recorded sample. 
+This supports the claim that o is not simply a phonetic vowel-like sign. It forms systematic process-field families.
+
+
+
+
+12. Regime dispatcher
+Token-splitting alone is not sufficient. The same operator inventory is reorganized by section, 
+layout, and visual context. The parser therefore requires a regime dispatcher.
+def interpret(parsed, section, visual_context=None):
+if section == “PROCESS”: return interpret_process(parsed)
+if section == “HERBAL”: return interpret_vertical_process_diagram(parsed, visual_context)
+if section == “BALNEO”: return interpret_flow_reservoir(parsed, visual_context)
+if section == “PHARMA”: return interpret_vessel_substance(parsed, visual_context)
+if section == “ASTRO”: return interpret_radial_node_graph(parsed, visual_context)
+if section == “SPECIAL”: return interpret_operator_demo(parsed)
+if section == “ROSETTES”: return interpret_masterdiagram(parsed)
+if section == “STAR”: return interpret_star_block(parsed)
+if section == “ZODIAC”: return interpret_figure_zodiac(parsed, visual_context)
+
+Thus, the same parsed token can be a process step in PROCESS mode, a vessel/fraction label in 
+PHARMA mode, a node label in ASTRO mode, or a diagrammatic key in SPECIAL mode.
+
+
+
+
+13. Validation layers and anti-overfitting controls
+The parser does not simply decompose every form and declare success. It distinguishes multiple layers of validity.
+Layer
+Question
+Glyph legality
+Macro legality
+Token coherence
+Line coherence
+Can the form be decomposed into legal primitives?
+Do macro-bindings such as ch, sh, cth, cph behave correctly?
+Does the token form a coherent instruction under the parser?
+Does the token fit the local sequence role?
+Regime coherence Does the token fit the page/section mode?
+Witness status
+Is the reading stable across witnesses or visually correctable?
+Visual support
+Does the illustration independently support the role?
+Almost every form can be decomposed into primitive glyphs, but decomposition alone is not 
+sufficient. A token may be glyph-legal while failing token, line, regime, witness, or visual coherence.
+
+14. Witness variation and rescue classes
+Witness variation is treated explicitly. The parser uses strict rescue classes rather than free 
+correction. It may flag suspicious places, but it may not correct them merely to fit the model.
+
+• FREE_H_PAIR_REMAINDER
+• POSSIBLE_E_I_TRANSCRIPTION_AMBIGUITY
+• OPEN_A_TERMINAL_FLAG
+• MISSING_INITIAL_CLOSURE_GLYPH
+• PARSER_GUIDED_VISUAL_CORRECTION
+• WITNESS_REPLACED
+• SHORT_LABEL
+• H_STACK / repeated activation validation
+
+Locked correction rule:
+The parser may flag structurally suspicious places.
+It may not correct them merely to fit the model.
+Correction requires independent visual, witness, or local graphical confirmation.
+
+
+
+
+15. Visual grammar
+The illustrations behave as process diagrams. They are not random decoration, nor are the 
+herbal drawings primarily botanical realism. The same operator roles appear in visual form.
+Visual element Structural function
+Historical candidate
+green
+blue
+red/orange
+brown
+white aperture
+circles/dots
+carrier, matrix, pool, local 
+process field
+transfer, moved liquid, output
+active, heavy, reactive, or fixed 
+fraction
+base, root, terminal mass, 
+conduit
+opening, chamber, collector, 
+filter point
+discrete fraction units
+scale/membrane separator/filter/fractionating 
+interface
+star
+solvent, substrate, maceration field
+filtrate, distillate candidate, transferred 
+fraction
+active extract, fixed phase, oil candidate
+sediment, pulp, residue, base
+aperture, reaction center, outlet
+droplets, granules, precipitates, 
+particles
+membrane, filter, separator 
+process label / component node process class, operation label
+human figure in vessel
+animal-like plant parts
+local process node / operator 
+position classifier / process category marker
+vessel-state or process-position marker
+material family, operation type, class sign
+
+
+
+
+16. Key pages and vertical operator sequences
+Special pages are not ordinary text. They function as operator demonstrations, grammatical 
+keys, vertical tables, relation/split frames, macro-sequence displays, and regime transitions. 
+Several key pages are especially important: f49v, f66r, the balneo key pages f75v/f76r/f83v, and 
+the Rosettes masterdiagram.
+16.1 f49v: PROCESS/operator demonstration
+f49v has three important layers: a vertical guide column, five y-closed sequences, and main text 
+that expands the operator logic. The vertical guide is read as five closure-delimited 
+demonstrations:
+Sequ
+ence Vertical form
+Structural reading
+1
+2
+3
+4
+5
+
+f -> o -> r -> y
+ch -> o -> k -> s -> p -> o -> r -> y
+e -> o -> s -> p -> o -> r -> y
+ch -> o -> d -> y
+ch -> k -> y
+
+preparation / variant start -> field -> output -> closure
+active frame -> field -> stabilize -> regulate -> initiate operation -> field -> output -> closure
+grade -> field -> regulate -> initiate operation -> field -> output -> closure
+active frame -> field -> transform -> closure
+active frame -> stabilize -> closure
+
+This is a key claim: f49v appears to contain five y-delimited operator demonstrations. 
+It is not ordinary prose. It behaves like a vertical key page.
+
+
+16.2 f66r: ASTRO/SPECIAL layered operator key
+
+f66r appears to contain at least three layers: margin primitives/relations, compact left labels, 
+and expanded main-text operation. The observed margin sequence is:
+
+y | o | s | sh | y | d | o | f | x | air | d | sh | y | f | f | y | o | d | r | f | c/r | x | t | o | l | r | t | o | x | p | d
+
+Two items are especially important: sh and air. Both are decomposable at primitive level, but 
+macro-bound at label level.
+Form 
+Primitive 
+level
+Macro level
+Importance
+sh
+air
+x
+s + h
+a + i + r
+special 
+split/separat
+or
+regulated active 
+frame
+macro-bound 
+relation/phase
+output tag
+framed syntax markershows that decomposable forms can also be macro-bound
+one of the rare required three-part forms; a 
+decisive confirmation of the parser
+supports a SPECIAL/ASTRO split-zone rather than global free value
+The importance of air is methodological. The system is primarily built from one-glyph 
+meanings, but air is one of the places where a three-part form became structurally necessary. 
+
+That need was derived before the page was fully understood, making f66r a confirmation rather 
+than the origin of the rule.
+
+
+16.3 Balneo key pages: f75v, f76r, and f83v
+The balneo section contains more than one key-like structure, but they are not all the same 
+kind of key. The correction is important:
+
+f75v = preceding balneo demonstration / test sequence
+
+f76r = actual balneo marginal letter-key column
+
+f83v = visual fractionation demonstration, not the letter-column key
+
+Thus f83v should not be described as the balneo letter-key column. It is instead a visual 
+demonstration of carrier reservoirs, separation, liquid flow, and discrete particle output. 
+The actual left-margin letter-label column belongs to f76r.
+
+
+16.3.1 f75v: preceding balneo demonstration / test sequence
+
+f75v behaves as a large matrix/distribution scene and also contains a short key-like 
+demonstration sequence. It shows that balneo figures are not merely bathers, but process 
+positions in a carrier system. The green field, repeated human nodes, and vessel-like enclosure 
+make it a demonstration of how local process nodes are embedded in a shared 
+carrier/reservoir.
+
+The f75v key-like labels are not fully aligned with ordinary text lines; this is one reason to read 
+them as a demonstration or test sequence rather than normal running text. The sequence is:
+f75v.K:
+s -> l -> l -> o -> r -> s?
+
+The final s is not written as an ordinary aligned label in the same way. Grove noted that the 
+final s of f75v.P1.5 may belong to the sequence. Under the present parser this matters, because 
+the sequence then becomes a compact demonstration of regulated/status marking, local 
+carrier, carrier repetition, process field, output/relation, and final regulation.
+Working structural reading:
+s  = regulated/status marker
+l  = local carrier
+l  = repeated local carrier / carrier reinforcement
+o  = process field
+r  = output / relation
+s? = final regulated/status marker
+
+Functional reading:
+regulated carrier-field demonstration-> repeated local carrier-> process field-> output/relation-> final regulated/status closure or tag
+This f75v sequence should be treated as the demonstration immediately before the true f76r 
+balneo letter-key column.
+
+
+16.3.2 f76r: actual balneo marginal letter-key column
+
+The actual balneo letter-label key column is on f76r, not f83v. The f76r left-margin labels are 
+transcribed separately from the main text as f76r.L and align with selected lines of f76r.R. 
+The H/C/F/V/U witnesses agree strongly on the key labels, except for a small ambiguity at label 24 
+where H/F/V/U read r while C reads k.
+The f76r.L column is:
+f76r.L:
+
+s -> d -> q -> s -> o -> l -> k -> r/k -> s
+
+Preferred H-based reading:
+
+s -> d -> q -> s -> o -> l -> k -> r -> s
+
+Structural reading:
+s = regulated/status marker
+d = transformation
+q = strong external initiation / process start / flow start
+s = regulated/status marker
+o = process field / node-base
+l = local carrier
+k = stabilization / fixation
+r = output / relation
+s = regulated/status marker
+
+Functional reading:
+regulated transformation-> strong process initiation-> regulated process field-> local carrier-> stabilization-> output/relation-> final regulated/status tag
+
+This is an important grammatical key because it displays primitive operators vertically as line labels. 
+It is not merely decoration. It looks like a balneo-specific operator column that teaches 
+or indexes how the main text should be segmented by process role.
+The r/k ambiguity at f76r.L.24 should not be silently normalized. It is best recorded as:
+f76r.L.24 = r in H/F/V/U; k in C
+preferred = r
+status = witness ambiguity / possible graphic confusion
+In the present grammar, this ambiguity is meaningful: k would mark stabilization, while r 
+marks output/relation. The majority and the position in the sequence favor r, especially 
+because it follows local carrier + stabilization and precedes final s.
+
+
+16.3.3 f83v: visual balneo fractionation demonstration
+f83v remains a key page, but in a different sense. It is not the letter-column key. It is a local 
+visual demonstration of balneo fractionation. The visual grammar is:
+woman/vessel node-> green carrier reservoir-> central scale/filter membrane-> liquid streams + discrete circle outputs-> green carrier reservoir-> woman/vessel node
+This page clarifies the balneo circle system:
+wavy lines = liquid transfer / flow
+small circles = discrete fraction output / precipitate / granulate / droplets
+scale-like membrane = separator / filter / fractionating interface
+green chambers = carrier reservoirs
+woman in vessel = local process node / operator-position
+
+16.3.4 Balneo vertical/flow grammar
+The balneo key is therefore both textual and diagrammatic, but split over several folios:
+Folio
+Key type
+Sequence / visual 
+grammar
+Structural reading
+f75v
+f76r
+f83v
+demonstration/test
+true letter-key 
+column
+s -> l -> l -> o -> r -> 
+s?
+s -> d -> q -> s -> o -> 
+l -> k -> r -> s
+visual demonstration vessel -> reservoir -> 
+membrane -> waves 
++ circles -> reservoir 
+regulated local 
+carrier field -> 
+output/relation -> 
+regulated tag
+regulated 
+transformation -> 
+init -> regulated field -> carrier -> 
+stabilization -> 
+output -> regulation
+carrier reservoir -> 
+separator -> liquid 
+transfer + 
+Folio
+Key type
+Sequence / visual 
+grammar
+Structural reading-> vessel
+particle/fixed 
+fraction output
+This correction strengthens rather than weakens the model: f75v shows a balneo 
+demonstration, f76r gives a genuine marginal operator column, and f83v visually demonstrates 
+how carrier, separator, liquid output, and particle output work in the balneo regime.
+
+
+16.4 Rosettes as masterdiagram
+Rosettes are treated as a special regime: an abstract process map or macro-process diagram. 
+Circles are heavy in o-family forms such as o, ot, ol, ok, or, op, otar, okar, okal, okedy, otedy, 
+odaiin, and otdaiin. Channels and routes contain target-routing and output forms such as dar, 
+dary, dal, otdar, otedar, opdar, opchdar, and xar. This supports the interpretation of Rosettes as 
+an operator-landscape, not a literal map alone.
+
+
+
+
+17. Herbal diagram-animal classifier system and f1r index hypothesis
+A central C-claim of this paper is that the herbal section is not a failed botanical atlas. Roots, 
+stems, leaves, and flowers frequently carry diagrammatic animal or body-part themes. These 
+themes include snake-like roots, fish-scale roots, claws, teeth, bones, insect-like leaves, bird-like 
+leaves, human heads, animal heads, tentacles, shells, scales, and chamber-like flowers. They are 
+treated as classifiers of process type, material behavior, or fraction role.
+This claim explains why many herbal images look like “Frankenstein plants”. The images are 
+not malformed botanical copies; they are visual operator diagrams. The plant body is used as a 
+conventional frame for a process map.
+Working anatomical/diagrammatic mapping:
+
+Plant part
+
+Diagrammatic function
+
+Frequent animal/body 
+
+classifier themes
+
+root
+
+stem
+
+leaf
+
+flower
+
+animal/human motif
+
+base, residue, input matrix, 
+conduit, manifold
+carrier conduit, transfer line, 
+phase path
+local carrier, chamber, 
+intermediate process, side 
+fraction
+output head, collector, 
+aperture, final fraction
+classifier, process label, 
+material family marker
+snakes, claws, tentacles, fish 
+scales, bones, tails
+tubes, splits, colored 
+conduits, double stems
+insects, claws, bird wings, 
+centipedes, scales
+stars, mouths, teeth, crowns, 
+chambers, shells
+heads, women, animals, 
+bones, teeth, claws
+
+
+17.1 f1r as an herbal index / classifier page
+f1r should be treated as a probable opening index or classifier page for the herbal section, not as 
+an ordinary running recipe page. The page is divided into four major textual blocks. Each block 
+ends in a marked right-positioned coda, with conspicuous margin displacement and a shared 
+terminal-line function.
+The corrected four-part ending sequence is:
+
+Block I:   ydar aishy
+
+Block II:  ain
+
+Block III: aiiin
+
+Block IV:  aiin
+
+This is significant because the first ending is not merely ydar aish; visual inspection supports final y, giving:
+ydar aishy
+= y + dar + a + i + sh + y
+= finished transformation to output-> to phase 1 / entry-> regulated activation closed
+Thus the first block appears to be a master coda or classifier label, while the following three 
+blocks end in phase-coded forms:
+
+ain   = phase 1 / simple phase
+
+aiiin = phase 3 / extended phase
+
+aiin  = phase 2 / standard phase 2
+
+The resulting order is not a simple numerical list but a functional classifier sequence:
+master-output label -> phase 1 -> phase 3 -> phase 2
+
+This non-linear order is difficult to explain as ordinary prose, but fits an index-like page 
+introducing categories or process branches for the herbal diagram system.
+
+Block I: f1r.1-6 - Master / meta-output declaration
+The first block contains dense setup, output, carrier, transfer, phase, and procedure operators. 
+Its lines repeatedly combine regulated carrier forms, transfer-output structures, and 
+procedure/variant operations. The block closes with the visually corrected ydar aishy, which 
+reads structurally as a finished output transformation followed by a regulated phase-1 
+activation closure.
+Representative internal structure:
+dair chear cthaiin cphar cfhaiin
+= transform-to-output
++ active graded output frame
++ active transfer-to-phase
++ active procedure/separation-to-output
++ active variant/preparation-to-phase
+This behaves almost like a miniature operator inventory. The first block therefore appears to 
+define or declare the master category of the page.
+
+Block II: f1r.7-10 - Phase-1 branch
+The second block is shorter and appears to introduce the first undercategory. It combines 
+output transformation, regulated local carrier, procedure/separation closure, 
+variant/preparation-to-phase, and transfer closure.
+Representative line:
+odar shol cphoy oydar sh cfhoaiin shodary
+= process-field transformation-to-output
++ regulated local carrier
++ active procedure/separation closed
++ finished transform-output
++ regulated activation
++ active variant/preparation-to-phase
++ regulated process-output closed
+The coda is read as ain, i.e. phase 1 / simple phase. Functionally, this block behaves as the first 
+phase branch.
+
+Block III: f1r.11-21 - Extended phase-3 branch
+The third block is the longest and densest. It contains repeated procedure/separation (cph), 
+stabilization (ok/k/ckh), regulated activation (sh), local carrier (ol/chol), transfer (ot/cth), 
+output (ar/or/dar), and phase forms (daiin, aiin). This fits its coda aiiin, interpreted as an 
+extended or third phase.
+Representative structures include:
+ydain cphesaiin ol cphey ytain shoshy cphodal es
+= closed transformation-to-phase
++ active procedure/separation with grade/status to phase
++ local carrier
++ active procedure/separation graded closed
++ closed transfer-to-phase
++ regulated process/status closed
++ procedure/separation carried to local carrier
+and:
+dchar shcthaiin okaiir chey rchy potol cthols dloct
+= active transform-to-output
++ regulated active transfer-to-phase
++ stabilized process-field phase/output relation
++ active graded closure
++ output active closure
++ procedure-init transfer/local carrier
++ active transfer-local carrier/status
++ local transfer transformation
+The block closes with a transfer-local carrier and extended phase marker:
+otol daiiin / aiiin
+= transfer to local carrier -> transformed into extended phase 3
+This supports the reading of Block III as the complex or extended phase branch.
+
+Block IV: f1r.22-28 - Phase-2 consolidation branch
+The fourth block contains procedure/separation, regulated phase, stabilization, active carrier, 
+transfer closure, material/variant output, and fixed local carrier endpoints. It ends with the 
+phase-2 coda aiin, possibly embedded in the corpus form dchaiin:
+dchaiin
+= d + ch + aiin
+= transform through active frame into phase 2
+Representative structure:
+cho kaiin shoaiin okol daiin far cthol daiin ctholdar
+= active process field
++ stabilized phase
++ regulated process-field-to-phase
++ stabilized local carrier
++ transform-to-phase
++ variant/material-init to output
++ active transfer to local carrier
++ transform-to-phase
++ active transfer-local transform-output
+
+The fourth block therefore appears to consolidate the page into a standard phase-2 category 
+after the master label, phase-1 branch, and extended phase-3 branch.
+Interpretation
+f1r is best treated as a probable herbal index/classifier page. Its four-block structure, right
+positioned terminal codas, margin displacement, red visual markers, and phase-coded endings 
+support a meta-structural function.
+
+The page’s global sequence is:
+ydar aishy -> ain -> aiiin -> aiin
+master regulated output closure -> phase 1 -> phase 3 -> phase 2
+This strongly supports the larger claim that Voynichese is not ordinary prose. It is a 
+hierarchical process notation in which layout, terminal forms, and visual markers participate 
+in the grammar.
+
+
+
+
+18. Visual-section progression
+The manuscript’s section sequence becomes logical under the model:
+HERBAL = vertical plant-like process diagrams
+BALNEO = hydraulic/personified reservoir and flow diagrams
+PHARMA = vessel/substance/fraction diagrams
+ASTRO = radial process graphs and component-node diagrams
+STAR PAGES = compressed process/category indexes
+ROSETTES = masterdiagram / system architecture
+The so-called Frankenstein plants are no longer a problem. Their animal heads, claws, teeth, 
+bones, roots, tubes, scales, and impossible hybrid forms become diagrammatic classifiers and 
+process signs. Similar motifs recur across herbal and balneo in different regimes.
+
+
+
+
+19. Case studies
+Folio Class
+Visual structure
+Historical candidate
+f16v
+f40v
+f44r
+f52r
+f83v
+RED-TO-BLUE 
+FRACTION 
+HIERARCHY
+RED PHASE-2 
+FIXATION
+SEPARATION 
+FAN / 
+TERMINAL 
+CONDUIT
+RED BASE
+RESIDUE 
+MANIFOLD 
+WITH OUTPUT 
+COLLECTOR
+BALNEO 
+FRACTIONATING 
+RESERVOIR
+base/root -> multiple red active 
+fraction heads -> one large blue 
+top collector
+red/fixed matrix -> phase-2 
+stabilization -> output/base 
+fractions
+chambered head -> blue/green 
+fractionation fan -> red/orange 
+hooked conduit
+red/brown base manifold with 
+apertures -> green carrier -> 
+blue/white output
+green reservoirs -> scale-like 
+separator -> liquid and circle 
+outputs
+active extract or red fraction 
+transferred to 
+filtrate/distillate-like output
+fixed extract, salt-like residue, 
+stabilized red product
+separated active fraction 
+routed through carrier and 
+terminal conduit
+sediment/pulp/base 
+processed into transferred 
+output fraction
+carrier-reservoir separation 
+producing filtrate and 
+particulate/fixed fraction
+Folio Class
+Visual structure
+Historical candidate
+f43r -> 
+f81v
+f84r
+HERBAL 
+COMPRESSION / 
+BALNEO 
+UNFOLDING
+
+
+
+
+20. Procedure types
+Procedure 
+type
+Text profile
+herbal root-to-output process 
+becomes sequential balneo 
+carrier-to-output progression
+same process motif expressed 
+in two regimes
+Structural reading
+Historical 
+candidate
+Carrier / 
+maceration
+Filtration / 
+transfer
+output
+Distillate 
+candidate
+Fixation / 
+salt-like 
+product
+Extraction / 
+active 
+fraction
+Residue/
+base 
+formation
+high ol/qol/chol/shol; 
+qokal/okal; low 
+transfer/output
+carrier source + ot/qot + 
+otedy/qotedy + 
+otar/qotar/dar
+high ot/qot/otar with 
+blue/top/droplet output
+high 
+ok/qok/keedy/qokedy + 
+closure
+op/cph/of/qof + 
+red/orange + ar/dar + 
+dy/edy
+terminal am/om/dam, 
+brown/red base 
+structures
+material held in 
+carrier/substrate/pool and 
+closed/stabilized
+carrier routed through 
+transfer to output fraction
+moved or lifted liquid 
+fraction collected as output
+phase stabilized, fixed, and 
+closed
+active fraction separated and 
+finalized
+maceration, 
+soaking, solvent
+held extract
+filtrate, routed 
+extract
+distillate, spirit, 
+volatile fraction
+fixed residue, salt
+like product
+extract, oil 
+candidate, active 
+fraction
+terminal mass/base/residue sediment, pulp, 
+residue, base mass
+
+
+
+
+21. Corpus-ranked candidate folios
+Class
+High-value candidate folios
+Carrier / maceration
+Transfer / filtration
+Fixed / salt-like
+Extract / active 
+fraction
+Residue / base
+Red-to-blue fraction
+Separation fan / 
+conduit
+f99v, f84v, f99r, f102r1, f83v, f75v, f80v, f81v
+f71r, f70v2, f71v, f68r1, f73r, f72v1, f72r1, f10r, f28r, f85r2
+f41r, f108r, f84v, f78r, f50v, f41v, f82r, f40v, f75r, f108v
+f26v, f68r1, f17r, f16v, f85r1, f65v, f13r, f9v, f43r
+f3r, f52r, f3v, f67v2, f54v, f57r, f46v, f17r, f6v, f24r
+f68r1, f26v, f71r, f73v, f69v, f84r, f16v, f85r1, f48v, f50v
+f71v, f36v, f68r1, f113v, f71r, f72v1, f37r, f105v, f33r, f86v6, f16v, f44r
+
+
+
+
+22. What is and is not claimed
+The paper claims a structural decipherment, not a final conventional dictionary. It is legitimate 
+to say that d functions as transformation and a functions as transition-to in the parser. It is less 
+safe to claim that a specific historical scribe would have used precisely the modern word 
+“transformation” or “transition”. The historical word may be “processing,” “bringing into,” 
+“conversion,” “phase movement,” or another close equivalent. The semantic operator role is the 
+claim.
+Similarly, ol is not claimed to literally and always mean water; rather, ol-class is a local carrier 
+or field. In BALNEO it may often correspond to pool, vessel, or aqueous carrier. In HERBAL it 
+may correspond to tissue, substrate, or local carrier. ok/qok is not claimed to always mean salt; 
+it is a fixed/stabilized phase, with salt-like product as a strong historical candidate in relevant 
+profiles.
+
+
+
+
+23. Falsification criteria
+
+1. If q does not behave as an initial micro-operation marker in independent transcriptions, the model is weakened.
+
+2. If y/dy/edy do not behave as closure/finalization forms, the closure model is weakened.
+
+3. If ot/ok/ol/op families do not show distinct distributions, the o-field family model is weakened.
+
+4. If f49v does not contain five y-closed vertical operator demonstrations, the key-page claim is weakened.
+
+5. If f66r margin/label/main-text layers do not match operator layers, the SPECIAL/ASTRO key claim is weakened.
+
+6. If Rosettes circles are not o-family heavy and channels are not routing-heavy, the masterdiagram claim is weakened.
+
+7. If blue fields do not correlate with transfer/output families, the visual color role is weakened.
+
+8. If green fields do not correlate with carrier families, the carrier visual rule is weakened.
+
+9. If op/of/cph do not correlate with separation/output elements, the extraction role is weakened.
+
+10. If randomized or shuffled token controls preserve the same behavior, the structural claim is weakened.
+
+
+
+
+24. Reproducibility package for GitHub
+
+A public repository should include:
+• source corpus and witness files, with documentation of witness priority;
+• tokenization scripts and normalization rules;
+• primitive-split parser;
+• macro-overlay detector;
+• h-stack and witness validation modules;
+• role classifier for carrier, transfer, fixed, extract, residue, output, phase, closure;
+• macro-sequence parser;
+• regime dispatcher;
+• case-study notebooks;
+• negative controls: shuffled tokens, random tokens, line randomization, image-text 
+mismatch tests;
+• key-page notebooks for f49v, f66r, Rosettes, and radial ASTRO pages;
+• PDF and Markdown versions of the paper.
+
+25. Conclusion
+
+Voynichese is best explained as a recursive hierarchical process-operator grammar. The system 
+is not merely token-compositional; it is sequence-compositional and regime-dispatched. Glyphs 
+form mini-tokens, mini-tokens form operator chains as tokens, tokens operator chains form macro-sequences, 
+and macro-sequences are interpreted through visual and section-specific regimes.
+The strongest conservative claim is that the structural grammar of Voynichese has been deciphered. 
+The functional role model explains carriers, transfers, stabilizations, extractions, 
+outputs, residues, phases, and closures. 
+The visual classifier model explains why roots, stems, leaves, flowers, animals, people, stars, claws, teeth, scales, and chambers recur as diagram elements. 
+The historical interpretation is that these roles correspond to technical medical, apothecary, or alchemical process notation.
+If reproduced and not falsified, this model provides a coherent explanation for the text, images, 
+key pages, section progression, cross-sectional motif recurrence, and the manuscript’s unusual 
+visual logic.
+
+Appendix A: Short parser glossary
+q      = strong external initiation / process start / flow start
+p      = operational initiation / procedure-init / subprocedure-start
+f      = material/preparatory/variant initiation
+o      = process field / node / base field
+a      = to / toward / transition
+d      = transform / process / closure trigger
+y      = boundary / closure / end
+e/e/e  = grade / intensity
+i/i/i  = phase count / sequence marker
+n      = phase boundary
+l      = local carrier / vessel / field
+r      = relation / output direction
+ar     = output target / relation target
+m      = terminal mass / base / residue
+k      = stabilize / fix / bind left
+t      = transfer / route
+s      = regulate / sta= transfer / routetus-mark
+h      = activate / execute / bind internally
+ch     = active coupled frame
+sh     = activated regulation/status
+cth    = active coupled transfer
+ckh    = active coupled stabilization
+cph    = active coupled procedure/separation
+cfh    = active coupled variant/preparation
+cht    = ch + t = active frame -> transfer
+chk    = ch + k = active frame -> stabilization
+chp    = ch + p = active frame -> procedure-init
+chf    = ch + f = active frame -> variant-init
+ol     = local carrier field
+ot     = transfer field
+ok     = stabilized/fixed field
+op/cph = extraction/separation operation
+ar/or  = output/relation/fraction
+am/om  = terminal base/residue/mass
+aiin   = to second phase
+dy     = transformation + end / closure
+daiin  = transformation to second phase
+dar    = transformation to output
+dol    = transformation process into local carrier
+dam    = transformation to terminal base
+edy    = graded transform-closure
+
+Appendix B: Vertical key-page sequences
+Page
+Sequence
+Reading
+f49v
+f -> o -> r -> y
+variant/preparation -> field -> output -> closure
+Page
+Sequence
+Reading
+f49v
+f49v
+f49v
+f49v
+f66r
+f75v.K
+f76r.L
+f83v
+ch -> o -> k -> s -> p -> o -> r -> y
+e -> o -> s -> p -> o -> r -> y
+ch -> o -> d -> y
+ch -> k -> y
+y o s sh y d o f x air d sh y f f y 
+o d r f c/r x t o l r t o x p d
+s -> l -> l -> o -> r -> s?
+s -> d -> q -> s -> o -> l -> k -> r -> s
+vessel node -> green 
+reservoir -> separator 
+membrane -> wavy flow + 
+circle outputs -> reservoir -> 
+vessel node
+active frame -> field -> 
+stabilize -> regulate -> 
+procedure -> field -> output -> closure
+grade -> field -> regulate -> 
+procedure -> field -> output -> closure
+active frame -> field -> 
+transform -> closure
+active frame -> stabilize -> 
+closure
+layered primitive/macro 
+relation sequence with sh, 
+air, ar/r output logic, and x 
+split markers
+preceding balneo 
+demonstration/test: 
+regulated carrier repetition -> process field -> 
+output/relation -> possible 
+final regulated tag
+actual balneo letter-key 
+column: regulation -> 
+transformation -> strong 
+initiation -> regulation -> 
+field -> carrier -> 
+stabilization -> 
+output/relation -> regulation
+visual balneo fractionation 
+demonstration; liquid 
+transfer and discrete fraction 
+output; not the letter-column 
+key
+The f49v and f66r sequences are primarily textual/operator keys. f75v is a preceding balneo 
+demonstration/test sequence. f76r is the actual balneo marginal letter-key column. f83v is a 
+visual balneo fractionation demonstration that explains reservoirs, separators, waves, and 
+circle outputs.
+Appendix C: Internal source basis
+This working draft was prepared from the user-provided development materials and corpus 
+files, including parse tree.txt, voynich_corpus.txt, update scripts april 5.txt, and earlier 
+parser drafts. 
+The paper should be accompanied by the repository scripts and reproducible notebooks before public submission.
+
+
+
+
+Appendix D: Preliminary Test Results, N-Gram Behavior, and Why the Results Support the Model
+
+This appendix reports a set of preliminary falsification-oriented tests performed on the H witness of the Voynich corpus. The purpose is not to replace the full reproducibility package, but to show that the main structural claims of the model produce the expected empirical behavior.
+
+The tests are designed around the actual claims of the model. The model does not claim that Voynichese is a normal lexical language best modeled by raw word n-grams. It claims that Voynichese is a structural-functional operator script in which primitive glyphs carry semantic operator values, tokens are compact procedural instructions, and larger sequences are organized by macro-grammar and regime dispatch. The correct tests must therefore examine operator position, target formation, closure behavior, field-family formation, token compactness, and the difference between raw surface-token n-grams and functional role n-grams.
+
+D.1 Corpus Basis
+
+The test base used here is the H witness only. This avoids mixing multiple transcription witnesses in the same measurement and provides a consistent internal baseline.
+
+Measure	Result
+H-witness lines	5,137
+H-witness tokens	38,375
+Unique H-witness token forms	7,435
+Maximum token length	12 glyphs
+Mean token length	4.91 glyphs
+Median token length	5 glyphs
+One-glyph running-text tokens	0
+Tokens of 16 glyphs or more	0
+
+These results support the model’s claim that Voynich tokens are not ordinary lexical words but compact procedural instructions. A five-glyph token is not “short” in this system; it may encode a complete micro-instruction because each glyph contributes a semantic operator value. Conversely, the absence of one-glyph tokens in running text is expected: a single glyph is normally an operator, not a complete instruction.
+
+This distinction also explains why key pages are so important. In ordinary running text, operators are normally composed into multi-glyph tokens. On key pages, however, primitive operators may be exposed directly in vertical, radial, or marginal diagrammatic form. This is consistent with the paper’s treatment of f49v, f66r, f69r, f75v, f76r, and f83v as grammatical or diagrammatic key environments rather than ordinary prose. The paper already defines the model as one in which glyphs form tokens, tokens form operator chains, and operator chains form macro-sequences interpreted through diagrammatic regimes.
+
+D.2 Test 1: q as Initiation
+
+The model assigns q the value of strong external initiation, process start, or flow start.
+
+The correct test is therefore not whether closure follows q. That would test the wrong claim. The correct test is whether q, when present in a token, behaves like an initiation operator by occupying initial position.
+
+Test	Result
+Tokens containing q	5,411
+Tokens where q is initial	5,387
+Initial-position rate	99.56%
+Internal character-shuffle baseline	approx. 18.23%
+
+This is one of the strongest results. If q were a normal phonetic or freely distributed character, it should occur in many internal positions. Instead, it is almost always initial. This is exactly the behavior predicted by the model.
+
+Result:
+
+q behaves as an initiation operator.
+
+This directly supports the operator inventory, where q is defined as strong external initiation / process start / flow start, distinct from p as procedure-initiation and f as material or variant initiation.
+
+D.3 Test 2: y as Boundary / Closure / Finalization
+
+The model assigns y the value of boundary, closure, or finalization.
+
+The correct test is whether y, when present, strongly prefers terminal position.
+
+Test	Result
+Tokens containing y	16,355
+Tokens where y is terminal	15,246
+Terminal-position rate when y is present	93.22%
+Global terminal y among all tokens	39.73%
+Internal character-shuffle baseline	approx. 21.31%
+
+This result strongly supports the interpretation of y as closure. It is not merely a frequent glyph; it behaves as a terminal operator.
+
+The corpus-wide behavior matches the explicit grammar of f49v. The f49v key page contains five vertical operator demonstrations, each closed by y:
+
+f  -> o -> r -> y
+ch -> o -> k -> s -> p -> o -> r -> y
+e  -> o -> s -> p -> o -> r -> y
+ch -> o -> d -> y
+ch -> k -> y
+
+The page therefore shows in explicit diagrammatic form what the corpus statistics show distributionally: y is the closure/finalization glyph. The paper already identifies f49v as a vertical operator key rather than ordinary prose.
+
+Result:
+
+y behaves as a closure/finalization operator.
+
+D.4 Test 3: a as Directionality / Toward / Transition-to
+
+The model assigns a the value of directionality: toward, into, or transition-to.
+
+The correct test is whether tokens beginning with a usually continue into target families such as output/relation, locality, phase, or terminal base.
+
+Test	Result
+Tokens beginning with a	2,261
+a followed by recognized target/family	2,192
+Target-family rate	96.95%
+
+Main target families:
+
+Family	Count	Structural function
+ar	569	toward output / relation
+al	565	toward local / locality
+aiin	561	toward phase
+ai	225	toward phase / phase-entry
+am	117	toward mass / base
+aii / aiii	106	counted or extended phase
+ain	49	phase endpoint
+
+This strongly supports the claim that a is not a random prefix. It opens a directional relation toward a target.
+
+The key-page confirmation is f66r, where air = a + i + r occurs as a macro-bound relation/phase-output tag. This is important because air combines the directional operator a, the phase marker i, and the relation/output operator r. The paper already identifies air as one of the rare required three-part forms and as a decisive confirmation of the parser.
+
+Result:
+
+a behaves as a directional transition-to operator.
+
+D.5 Test 4: d as Transformation / Processing Toward a Target
+
+The model assigns d the value of transformation or processing. It is not merely a closure sign. Instead, d combines with targets to form transformation-toward constructions such as dy, daiin, dar, dol, and dam.
+
+The correct test is therefore whether d forms target-directed families.
+
+Test	Result
+Tokens beginning with d	3,823
+Core d target-family tokens	2,807
+Target-family rate	73.42%
+
+Main d families:
+
+Family	Count	Structural function
+daiin	914	transform toward phase
+dal	436	transform toward local
+dar	425	transform toward output
+dy	421	transform + closure
+dol	169	transform into local carrier
+dair	144	transform toward phase/output relation
+dam	110	transform toward base / mass
+dain	106	transform toward phase endpoint
+daii / daiii	82	transform toward counted or extended phase
+
+This supports the paper’s compositional d hierarchy. The important point is that d itself is not redefined in each expression. It remains transformation/processing, while the following element gives the target or closure mode. This is already stated in the macro-sequence grammar section: dy, daiin, dar, dol, and dam are compositional forms built from d plus target.
+
+Result:
+
+d behaves as a transformation/processing operator that combines with target modules.
+
+D.6 Test 5: o as Process Field / Node / Base Field
+
+The model assigns o the value of process field, node, or base field.
+
+The correct test is whether o systematically forms field families when it occurs initially.
+
+Test	Result
+Tokens beginning with o	8,690
+Tokens beginning with ok / ot / ol / or / op	7,682
+Field-family rate	88.40%
+
+Main o families:
+
+Family	Count	Structural function
+ok	2,490	stabilized / fixed field
+ot	2,433	transfer field
+ol	1,729	local carrier field
+or	670	output / relation field
+op	360	procedure / extraction field
+
+This strongly supports the claim that o is not a vowel-like phonetic sign. It behaves as a field base that is specified by the following operator.
+
+The paper already identifies the ot / ok / ol families as a major distributional result, noting that these families account for a large proportion of o-initial tokens and support the interpretation of o as a systematic process-field glyph.
+
+Result:
+
+o behaves as a process-field base that forms systematic field families.
+
+D.7 Raw Surface Token N-Grams Are Expected to Be Weak
+
+A raw token n-gram model treats Voynich tokens as if they were ordinary words in a normal word sequence. That is not the model proposed in this paper. The paper claims that tokens are productive compact instructions built from semantic operators.
+
+Therefore, raw surface-token trigrams and four-grams are expected to be sparse.
+
+Raw surface-token n-gram sparsity:
+
+N-gram	Total	Unique	Unique ratio
+1-token	38,375	7,435	19.37%
+2-token	33,238	27,750	83.49%
+3-token	28,792	28,614	99.38%
+4-token	24,591	24,588	99.99%
+
+Raw surface-token holdout coverage:
+
+N	Holdout coverage
+1-token	86.22%
+2-token	20.81%
+3-token	0.86%
+4-token	0.047%
+
+These results show that almost every raw token trigram and four-gram is unique. This does not weaken the operator-grammar model. It supports it.
+
+Why?
+
+Because the model predicts productive surface variation. Small changes in field, target, phase, closure, regulation, or output create many surface-distinct tokens while preserving functional structure. For example, forms such as:
+
+qokaiin
+qokedy
+qokar
+qokchy
+
+are different surface tokens, but they belong to the same broader initiated/stabilized process-field family. A raw surface-token n-gram model sees them as different words. The operator parser sees them as related instructions.
+
+Result:
+
+Weak raw 3-/4-token n-gram performance is expected if Voynichese is a productive operator-instruction system.
+
+D.8 Functional Role N-Grams Are the Correct Comparison
+
+The correct comparison is not raw token n-gram versus raw token n-gram. The correct comparison is surface-token behavior versus functional-role behavior.
+
+When tokens are reduced to functional roles, the structure generalizes much better.
+
+Role/operator n-gram sparsity:
+
+N-gram	Total	Unique	Unique ratio
+1-role	38,375	36	0.09%
+2-role	33,238	1,082	3.26%
+3-role	28,792	8,385	29.12%
+4-role	24,591	17,380	70.68%
+
+Role/operator holdout coverage:
+
+N	Holdout coverage
+1-role	100%
+2-role	99.48%
+3-role	81.17%
+4-role	37.40%
+
+This is the crucial contrast.
+
+Raw token trigrams have less than 1% holdout coverage, while role trigrams retain more than 81% coverage. Raw token four-grams are almost entirely unique, while role four-grams still retain substantial structure.
+
+This is exactly the pattern predicted by a structural-functional operator grammar:
+
+Surface tokens are productive and highly variable.
+Primitive operators are stable.
+Functional role sequences generalize better than surface token sequences.
+The grammar lives at the operator/role level, not at the raw word n-gram level.
+
+Result:
+
+The weakness of raw token 3-/4-grams and the relative strength of role/operator n-grams support the model’s claim that Voynichese is compositional and functional rather than a flat surface-token sequence.
+
+D.9 Why These Are the Correct Falsification Tests
+
+A falsification test must test the model actually being proposed. The model does not claim that Voynichese is best explained as a normal lexical language with repeated surface-word trigrams. It claims that Voynichese is a structural-functional operator script.
+
+Therefore, the correct falsification tests are:
+
+Model claim	Correct test	Reason
+q = initiation	Is q almost always initial in q-containing tokens?	An initiation operator should appear at the beginning of an instruction.
+y = closure	Is y terminal when present?	A closure operator should occur at boundary/final position.
+a = toward / transition-to	Does a lead into target families?	Directionality requires a target.
+d = transformation	Does d form target-directed families?	Transformation requires a target or closure mode.
+o = process field	Does o form field families such as ok / ot / ol / or / op?	A field base should be specified by the next operator.
+Tokens = compact instructions	Are running-text tokens short but multi-glyph, with no one-glyph tokens?	A complete instruction requires more than one operator.
+Grammar is compositional	Are raw 3-/4-token n-grams weak while role n-grams generalize better?	Stable structure should appear below the surface-token layer.
+Regime dispatcher is necessary	Do key pages show different operator organizations by regime?	The same inventory should be reorganized by section and diagram type.
+
+These tests are therefore not arbitrary. They are direct tests of the structural-functional claims.
+
+D.10 Key Pages Match the Statistical Results
+
+The key pages provide explicit grammatical demonstrations that match the corpus tests.
+
+f49v
+
+f49v shows five vertical operator demonstrations closed by y. This directly matches the corpus result that y is overwhelmingly terminal when present.
+
+f66r
+
+f66r contains the important form air = a + i + r, supporting the interpretation of a as directional transition-to, i as phase, and r as relation/output. This directly matches the corpus result that a-initial tokens overwhelmingly continue into target families.
+
+f75v / f76r / f83v
+
+The BALNEO key pages show that s can function as a regulated/status frame in the balneo regime. The f76r marginal key sequence:
+
+s -> d -> q -> s -> o -> l -> k -> r -> s
+
+is structurally read as:
+
+regulated transformation
+-> strong process initiation
+-> regulated process field
+-> local carrier
+-> stabilization
+-> output/relation
+-> final regulated/status tag
+
+This confirms that the model is not mechanically claiming that every sequence must end in y. Rather, y is process closure, while s can function as a regulated/status dispatcher in BALNEO. That distinction supports the regime-dispatcher model.
+
+D.11 Summary of Results
+
+The preliminary tests support the model because they produce exactly the pattern predicted by a structural-functional operator grammar.
+
+Finding	Interpretation
+q is initial in 99.56% of q-containing tokens	q behaves as initiation.
+y is terminal in 93.22% of y-containing tokens	y behaves as closure/finalization.
+a-initial tokens enter target families at 96.95%	a behaves as toward / transition-to.
+d forms target-directed families	d behaves as transformation/processing toward target.
+o forms ok / ot / ol / or / op field families at 88.40%	o behaves as process field / node base.
+Running text has no one-glyph tokens	Single glyphs are operators, not complete instructions.
+Median token length is 5	Tokens are compact but instruction-dense.
+Raw 3-/4-token n-grams are extremely sparse	Surface tokens are productive, not ordinary repeated words.
+Role/operator n-grams generalize much better	The stable grammar lies at the operator-role level.
+Key pages explicitly expose operator behavior	Diagrammatic keys confirm the corpus-level patterns.
+D.12 Conclusion
+
+The results do not merely avoid falsifying the model. They positively support it.
+
+The operator assignments behave as expected:
+
+q = initiate
+y = close / finalize
+a = toward / transition-to
+d = transform / process toward target
+o = process field / node base
+
+The n-gram results also support the model. Raw surface-token trigrams and four-grams are naturally weak because Voynichese tokens are productive compact instructions. This is not a failure of the model; it is what the model predicts. When tokens are reduced to their functional operator roles, the structure generalizes far better.
+
+The correct conclusion is therefore:
+
+Raw surface-token n-grams are expected to fail at length 3 and 4 because Voynichese tokens are productive compact instructions. The relevant test is whether the functional operator layer generalizes. It does. Primitive operators show strong positional and compositional behavior, and role-level n-grams retain far more structure than raw token n-grams. This is the empirical pattern predicted by a structural-functional operator grammar.
