@@ -33,19 +33,13 @@ SEQUENCE = primary syntactic unit
 
 ## Claim Hierarchy
 
-The model separates structural decipherment from historical interpretation.
-
-| Level | Claim                                                                                                    | Status                                |
-| ----- | -------------------------------------------------------------------------------------------------------- | ------------------------------------- |
-| A     | Voynichese is a recursive hierarchical process-operator grammar.                                         | Central demonstrated structural claim |
-| B     | Glyphs, tokens, macroforms, and sequence zones carry stable functional roles.                            | Strongly supported functional model   |
-| C     | The visual system is grammatical and acts as a parallel classifier system.                               | Strongly supported diagrammatic claim |
-| D     | The functional roles correspond to technical medical, apothecary, and alchemical procedures.             | Historical interpretation layer       |
-| E     | The same grammar is diagrammed across herbal, balneo, pharma, astro, rosettes, zodiac, and star regimes. | Cross-regime extension                |
-
-This distinction is essential. The structural parser is the core result. Historical substance names and exact procedural identifications remain open to specialist refinement.
-
----
+| Level | Claim | Status |
+|---|---|---|
+| A | Voynichese is a recursive hierarchical process-operator grammar. | Central demonstrated structural claim |
+| B | Glyphs, tokens, macroforms, and sequence zones carry stable functional roles. | Strongly supported functional model |
+| C | The visual system is grammatical and acts as a parallel classifier system. | Strongly supported diagrammatic claim |
+| D | The functional roles correspond to technical medical, apothecary, and alchemical procedures. | Historical interpretation layer |
+| E | The same grammar is diagrammed across herbal, balneo, pharma, astro, rosettes, zodiac, and star regimes. | Cross-regime extension |
 
 ## Methodological Origin
 
