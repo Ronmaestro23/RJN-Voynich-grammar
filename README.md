@@ -184,23 +184,22 @@ The primitive inventory is kept maximally consistent. A glyph retains its functi
 
 Core examples:
 
-| Glyph / family | Structural role                                               |
-| -------------- | ------------------------------------------------------------- |
-| q              | strong external initiation / process start / flow start       |
-| p              | operational initiation / procedure start / subprocedure start |
-| f              | material, preparatory, or variant initiation                  |
-| o              | process field / node / base field                             |
-| a              | transition toward a state or phase                            |
-| d              | transformation / processing / closure trigger                 |
-| y              | boundary / closure / finalization                             |
-| e              | grade, intensity, internal differentiation                    |
-| i / ii         | phase or sequence marking                                     |
-| ch             | basal operator                                                |
-| cth            | strengthened or full operator                                 |
-| cph            | specialized parallel operator                                 |
-| k              | prefix binder / left connector                                |
-| h              | internal binder                                               |
-
+| Glyph / family | Structural role |
+|---|---|
+| q | Strong external initiation / process start / flow start |
+| p | Operational initiation / procedure start / subprocedure start |
+| f | Material, preparatory, or variant initiation |
+| o | Process field / node / base field |
+| a | Transition toward a state or phase |
+| d | Transformation / processing / closure trigger |
+| y | Boundary / closure / finalization |
+| e | Grade, intensity, internal differentiation |
+| i / ii | Phase or sequence marking |
+| ch | Basal operator |
+| cth | Strengthened or full operator |
+| cph | Specialized parallel operator |
+| k | Prefix binder / left connector |
+| h | Internal binder |
 Compound forms are treated compositionally rather than as isolated lexical words.
 
 For example:
