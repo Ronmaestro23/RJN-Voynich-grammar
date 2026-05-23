@@ -1496,7 +1496,7 @@ Current documentation status. This paper is a working draft by an independent no
 
 Appendix D: Preliminary Test Results, N-Gram Behavior, and Why the Results Support the Model
 
-This appendix reports a set of internal preliminary falsification-oriented tests performed on the H witness of the Voynich corpus.. The purpose is not to replace the full reproducibility package, but to show that the main structural claims of the model produce the expected empirical behavior.
+This appendix reports a set of internal preliminary falsification-oriented tests performed on the H witness of the Voynich corpus. The purpose is not to replace the full reproducibility package, but to show that the main structural claims of the model produce the expected empirical behavior.
 
 The tests are designed around the actual claims of the model. The model does not claim that Voynichese is a normal lexical language best modeled by raw word n-grams. It claims that Voynichese is a structural-functional operator script in which primitive glyphs carry semantic operator values, tokens are compact procedural instructions, and larger sequences are organized by macro-grammar and regime dispatch. The correct tests must therefore examine operator position, target formation, closure behavior, field-family formation, token compactness, and the difference between raw surface-token n-grams and functional role n-grams.
 
