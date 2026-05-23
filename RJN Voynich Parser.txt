@@ -2148,3 +2148,6 @@ visual structures and textual operators describe the same process system.
 The strongest formulation is:
 
 The special pages do not merely illustrate the model. They expose the grammar directly: f49v exposes y-closed process chains; f66r exposes layered primitive/macro relation syntax; f69r exposes radial ASTRO single-glyph operators; f75r, f75v, and f76r expose BALNEO flow and dispatcher grammar; and f83v exposes the visual fractionation logic.
+
+Authorship and priority note
+This repository documents the original Voynich structural-functional grammar, parser model, operator inventory, role mapping, and decipherment claim developed by Ronny Juul Nielsen. The files are published to establish authorship, priority, and the current working state of the solution. The project may be opened for scholarly inspection and reproducibility work, but the author should be credited in any discussion, testing, reuse, quotation, or derivative analysis of the grammar, parser, word list, or translation framework.
