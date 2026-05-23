@@ -300,6 +300,14 @@ Voynichese is parsed sequence-by-sequence.
 Working draft for public repository release and specialist review.
 
 The current model presents a complete structural decipherment of Voynichese as a recursive hierarchical functional process-operator grammar. The structural layer is mathematically and statistically derived. The historical recipe layer is presented as the strongest current interpretation of the derived functional roles.
+This repository documents the author’s original public disclosure of the structural-functional Voynich parser, operator inventory, grammar model, and working word list.
+
+## How to cite
+
+Ronny Juul Nielsen. A Recursive Structural Decipherment of Voynichese as a Hierarchical Functional Process-Operator Grammar. Working draft, May 2026. GitHub repository: Ronmaestro23/RJN-Voynich-grammar-and-word-list.
+
+Use, testing, criticism, or derivative work based on this structural-functional Voynich parser, operator grammar, word list, or interpretive framework should cite the author and repository.
+
 
 ## Author
 
