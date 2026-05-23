@@ -1488,6 +1488,9 @@ files, including parse tree.txt, voynich_corpus.txt, update scripts april 5.txt,
 parser drafts. 
 The paper should be accompanied by the repository scripts and reproducible notebooks before public submission.
 
+This working draft was prepared from the user-provided development materials and corpus files, including parse tree.txt, voynich_corpus.txt, update scripts april 5.txt, and earlier parser drafts. The paper should be accompanied by the repository scripts and reproducible notebooks before public submission.”
+
+Current documentation status. This paper is a working draft by an independent non-professional researcher. The current claim is based on the author’s parser paper, corpus files, parse-tree diary, and development script log. The computational development process is extensive but not yet organized as a polished research software repository. The author’s intention is to make the underlying materials available for inspection and, if there is serious scholarly interest, to prepare a cleaned reproducibility package with professional help. Until then, the numerical test results should be read as internal working results and reproducibility targets, not as third-party replicated results
 
 
 
