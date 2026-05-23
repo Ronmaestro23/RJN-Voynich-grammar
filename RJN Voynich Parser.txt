@@ -1365,7 +1365,7 @@ mismatch tests;
 
 Voynichese is best explained as a recursive hierarchical process-operator grammar. The system 
 is not merely token-compositional; it is sequence-compositional and regime-dispatched. Glyphs 
-form mini-tokens, mini-tokens form operator chains as tokens, tokens operator chains form macro-sequences, 
+form mini-tokens, mini-tokens form operator chains as tokens, tokens form operator chains, and operator chains form macro-sequences, 
 and macro-sequences are interpreted through visual and section-specific regimes.
 The strongest conservative claim is that the structural grammar of Voynichese has been deciphered. 
 The functional role model explains carriers, transfers, stabilizations, extractions, 
@@ -1393,7 +1393,7 @@ ar     = output target / relation target
 m      = terminal mass / base / residue
 k      = stabilize / fix / bind left
 t      = transfer / route
-s      = regulate / sta= transfer / routetus-mark
+s      = regulate / status-mark
 h      = activate / execute / bind internally
 ch     = active coupled frame
 sh     = activated regulation/status
