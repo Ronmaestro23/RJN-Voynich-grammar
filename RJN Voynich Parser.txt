@@ -45,6 +45,7 @@ compressed vertical process diagrams; balneo scenes unfold hydraulic reservoir l
 pages encode vessels and substance classes; astro and star pages use nodes, stars, labels, and 
 radial structures as process categories. Key pages such as f49v and f66r are treated as operator 
 demonstrations rather than ordinary prose.
+The key-page evidence is summarized in Appendix E, where f49v, f66r, f69r, f75r, f75v, f76r, and f83v are treated as grammar-exposure environments rather than ordinary prose.
 
 
 
@@ -1809,3 +1810,339 @@ The n-gram results also support the model. Raw surface-token trigrams and four-g
 The correct conclusion is therefore:
 
 Raw surface-token n-grams are expected to fail at length 3 and 4 because Voynichese tokens are productive compact instructions. The relevant test is whether the functional operator layer generalizes. It does. Primitive operators show strong positional and compositional behavior, and role-level n-grams retain far more structure than raw token n-grams. This is the empirical pattern predicted by a structural-functional operator grammar.
+
+Appendix E: Key-Page Grammar and Operator Exposure
+
+This appendix explains the key-page evidence for the structural-functional parser. These pages are not treated as ordinary prose. They are treated as grammar-exposure environments: places where the manuscript exposes the operator system directly through vertical, radial, marginal, or diagrammatic arrangements.
+
+The distinction is essential:
+
+Running text = compact multi-glyph instructions
+Key pages = exposed operator grammar
+Vertical/radial labels = primitive operators or compressed operator chains
+Visual diagrams = operator diagrams in regime-specific form
+
+In running text, tokens are normally complete procedural instructions built from several semantic operators. A single glyph is usually an operator, not a full instruction. This explains why one-glyph tokens are absent or rare in ordinary running text, while single-glyph labels can appear in key-page contexts. Key pages therefore do not contradict the token model; they reveal the primitive operator inventory and its combinatory rules.
+
+E.1 Why Key Pages Matter
+
+The parser is built on the claim that primitive glyphs have stable functional values. In ordinary text, those glyphs are usually compressed into multi-glyph instructions. Key pages expose the lower level of the system.
+
+A key page may therefore show:
+
+primitive glyphs as isolated labels;
+short operator chains;
+vertical closure sequences;
+marginal dispatcher columns;
+radial operator cycles;
+visual carrier/transfer/output diagrams;
+regime-specific closure or status markers.
+
+The special pages do not merely illustrate the model. They provide direct grammatical evidence for it.
+
+E.2 f49v: Five Vertical PROCESS Operator Chains
+
+f49v is treated as a PROCESS/operator demonstration. It contains a vertical guide structure with five closure-delimited operator sequences:
+
+1. f  -> o -> r -> y
+2. ch -> o -> k -> s -> p -> o -> r -> y
+3. e  -> o -> s -> p -> o -> r -> y
+4. ch -> o -> d -> y
+5. ch -> k -> y
+
+Structural readings:
+
+1. variant/preparation -> field -> output -> closure
+2. active frame -> field -> stabilize -> regulate -> procedure-init -> field -> output -> closure
+3. grade -> field -> regulate -> procedure-init -> field -> output -> closure
+4. active frame -> field -> transform -> closure
+5. active frame -> stabilize -> closure
+
+This is one of the clearest key-page demonstrations in the manuscript. All five sequences close with y. This is not merely terminal frequency. It is an explicit grammatical demonstration that y closes completed operator chains.
+
+The page therefore supports:
+
+y = boundary / closure / finalization
+o = process field
+r = output / relation
+k = stabilize / bind
+s = regulated/status marker
+p = procedure-initiation
+d = transformation / processing
+
+f49v is not ordinary prose. It behaves like a vertical grammar table.
+
+E.3 f66r: SPECIAL/ASTRO Layered Operator Key
+
+f66r is treated as a SPECIAL/ASTRO layered operator key. It appears to contain at least three layers:
+
+margin primitives and relation labels;
+compact left labels;
+expanded main-text operations.
+
+The observed margin/operator sequence is:
+
+y | o | s | sh | y | d | o | f | x | air | d | sh | y | f | f | y | o | d | r | f | c/r | x | t | o | l | r | t | o | x | p | d
+
+The most important forms are sh, ar, air, and x.
+
+sh = s + h
+s = regulated/status marker
+h = activation / execution
+sh = regulated activation / active status frame
+
+This shows that decomposable forms can also function as macro-bound operator blocks.
+
+air = a + i + r
+a = toward / into / transition-to
+i = phase marker
+r = relation / output direction
+air = toward phase-bearing relation/output
+
+This is a key confirmation of the parser. air supports the ar/r output logic while showing that a remains directional even inside a macro-bound label. It is not a random string. It is a compact three-part functional form:
+
+toward -> phase -> relation/output
+
+This matters because air confirms the same operator values used throughout the parser:
+
+a = transition-to
+i = phase
+r = output/relation
+
+The page therefore supports both primitive split and macro-binding. The system is built from one-glyph meanings, but some forms become macro-bound at the label level.
+
+x as SPECIAL/ASTRO split marker
+
+The x signs on f66r should not be treated as globally free lexical values. They are best handled as SPECIAL/ASTRO split or separator markers inside a framed key syntax. Their value is therefore regime-bound.
+
+f66r supports the claim that key pages expose grammar in a layered way:
+
+primitive glyphs -> macro labels -> expanded text operations
+E.4 f69r: Radial ASTRO Single-Glyph Operator Key
+
+f69r is important because it presents operator labels in a radial ASTRO context rather than as a vertical PROCESS key. The central disk sector labels are transcribed approximately as:
+
+d -> o -> l -> s -> ed/em -> y
+
+There is witness uncertainty concerning the fifth label, read either as ed or em. The rest of the sequence is stable:
+
+d, o, l, s, y
+
+Structural reading:
+
+d  = transformation / processing
+o  = process field / node-base
+l  = local carrier / locality
+s  = regulated/status marker
+ed = graded transformation, if read as ed
+em = grade + terminal mass/base, if read as em
+y  = closure / boundary
+
+Functional reading:
+
+transformation -> field -> local carrier -> regulation/status -> graded transformation or terminal mass -> closure
+
+This page is important because it supports the single-glyph operator claim. In ordinary running text, a single glyph is usually not a complete token. In key-page mode, however, single glyphs can appear as primitive operator labels.
+
+f69r therefore supports:
+
+primitive glyphs have semantic operator values
+radial ASTRO diagrams can expose operator sequences directly
+y again functions as final closure in a non-PROCESS regime
+E.5 f75r: Serial BALNEO Flow and dainy
+
+f75r should be treated as a serial BALNEO flow page. It is important because it connects the token parser directly to visual process flow.
+
+The token dainy is structurally read as:
+
+dainy = d + a + i + n + y
+
+Operator reading:
+
+d = transformation / processing
+a = toward / into
+i = phase marker
+n = phase endpoint
+y = closure / finished state
+
+Functional translation:
+
+transformation toward phase endpoint, closed
+
+or more idiomatically:
+
+transformation to phase endpoint, finished
+
+This reading fits BALNEO serial flow because the page is not merely a list of bathers. The figures function as process positions in a regulated carrier/flow system. In this context, dainy is not an ordinary word. It is a compact instruction marking a completed phase transformation.
+
+f75r therefore supports:
+
+d = transformation
+a = toward / into
+i/n = phase structure
+y = finished closure
+BALNEO figures = process nodes, not decorative bathers
+E.6 f75v: BALNEO Matrix Demonstration
+
+f75v behaves as a preceding BALNEO demonstration or test sequence. It appears to show a carrier/reservoir matrix with human figures as local process nodes.
+
+The key-like sequence is:
+
+s -> l -> l -> o -> r -> s?
+
+Structural reading:
+
+s  = regulated/status marker
+l  = local carrier
+l  = repeated local carrier / carrier reinforcement
+o  = process field
+r  = output / relation
+s? = final regulated/status tag
+
+Functional reading:
+
+regulated carrier-field demonstration
+-> repeated local carrier
+-> process field
+-> output/relation
+-> final regulated/status tag
+
+This sequence is important because it does not behave like a normal PROCESS closure chain. It is BALNEO-specific. It emphasizes regulation, carrier repetition, field, output, and status marking.
+
+f75v therefore supports:
+
+BALNEO = regulated carrier/reservoir matrix
+s = regulated/status marker
+l = local carrier
+o = process field
+r = output/relation
+E.7 f76r: Actual BALNEO Marginal Letter-Key Column
+
+f76r is the actual BALNEO marginal letter-key column. Its left-margin labels form a vertical dispatcher sequence:
+
+s -> d -> q -> s -> o -> l -> k -> r -> s
+
+Structural reading:
+
+s = regulated/status marker
+d = transformation / processing
+q = strong external initiation / process start / flow start
+s = regulated/status marker
+o = process field / node-base
+l = local carrier
+k = stabilization / fixation
+r = output / relation
+s = regulated/status marker
+
+Functional reading:
+
+regulated transformation
+-> strong process initiation
+-> regulated process field
+-> local carrier
+-> stabilization
+-> output/relation
+-> final regulated/status tag
+
+This page is crucial because it shows that BALNEO does not simply use the same closure grammar as PROCESS. In f49v, y closes completed process chains. In f76r, the BALNEO key is framed by s.
+
+This is not an exception. It is a regime distinction:
+
+PROCESS / SPECIAL / ASTRO closure = often y
+BALNEO dispatcher/status framing = often s
+
+In BALNEO, the system is not only asking whether an operation is finished. It is organizing a regulated hydraulic/status matrix. Therefore s can function as a final status tag or dispatcher frame.
+
+f76r therefore supports:
+
+s = regulation/status
+q = initiation
+d = transformation
+o/l/k/r = field -> carrier -> stabilization -> output
+BALNEO uses status-framing, not only y-closure
+E.8 f83v: Visual BALNEO Fractionation Demonstration
+
+f83v is not the BALNEO letter-key column. It is a visual fractionation demonstration.
+
+Visual grammar:
+
+woman/vessel node
+-> green carrier reservoir
+-> central scale/filter membrane
+-> liquid streams + discrete circle outputs
+-> green carrier reservoir
+-> woman/vessel node
+
+Structural interpretation:
+
+green reservoirs = carrier fields
+wavy lines = liquid transfer / flow
+small circles = discrete fraction outputs / droplets / granules / precipitates
+scale-like membrane = separator / filter / fractionating interface
+woman in vessel = local process node / operator-position
+
+f83v is therefore a visual key rather than a letter-column key. It explains how the BALNEO regime diagrams carrier reservoirs, separation, transfer, and discrete output.
+
+f83v supports:
+
+BALNEO diagrams are process diagrams
+human figures are process nodes
+circles are discrete outputs
+waves are transfer/flow
+membranes are separators
+green chambers are carrier reservoirs
+E.9 Key-Page Grammar Summary
+Page	Key type	What it demonstrates
+f49v	Vertical PROCESS/operator key	Five y-closed operator chains; explicit y = closure grammar
+f66r	SPECIAL/ASTRO layered key	Primitive + macro levels; sh; air = a+i+r; split zones
+f69r	Radial ASTRO operator key	Single-glyph operator exposure; d-o-l-s-ed/em-y; radial closure
+f75r	Serial BALNEO flow	dainy as completed phase transformation in a visual flow context
+f75v	BALNEO matrix demonstration	s-l-l-o-r-s?; regulated carrier-field matrix
+f76r	BALNEO vertical dispatcher	s-d-q-s-o-l-k-r-s; status-regulated flow grammar
+f83v	Visual BALNEO fractionation	Reservoirs, membranes, waves, circles = carrier/transfer/output logic
+E.10 Why This Supports the Parser
+
+The key pages support the parser because they expose the same operator values in different regimes.
+
+The same primitive meanings recur:
+
+q = initiation
+d = transformation / processing
+a = toward / into
+i/n = phase structure
+y = closure / finalization
+s = regulated/status marker
+o = process field
+l = local carrier
+k = stabilization
+r = output / relation
+h = activation
+
+But the pages organize them differently:
+
+f49v = vertical closure chains
+f66r = layered relation/split syntax
+f69r = radial ASTRO operator sequence
+f75r/f75v/f76r = BALNEO flow and dispatcher grammar
+f83v = visual fractionation grammar
+
+This is exactly what the regime-dispatcher model predicts. The same operator inventory is preserved, but each section organizes it according to its diagrammatic regime.
+
+E.11 Conclusion
+
+The key pages should not be treated as decorative anomalies or marginal curiosities. They are grammar-exposure environments.
+
+They show that:
+
+primitive glyphs have functional operator values;
+running-text tokens are compact instructions;
+vertical and radial key contexts can expose operators directly;
+y functions as closure in PROCESS/SPECIAL/ASTRO contexts;
+s can function as status framing in BALNEO contexts;
+air = a+i+r on f66r confirms directional phase-output logic;
+dainy = d+a+i+n+y confirms phase-transformation closure in BALNEO flow;
+visual structures and textual operators describe the same process system.
+
+The strongest formulation is:
+
+The special pages do not merely illustrate the model. They expose the grammar directly: f49v exposes y-closed process chains; f66r exposes layered primitive/macro relation syntax; f69r exposes radial ASTRO single-glyph operators; f75r, f75v, and f76r expose BALNEO flow and dispatcher grammar; and f83v exposes the visual fractionation logic.
