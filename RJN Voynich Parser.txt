@@ -1844,6 +1844,8 @@ The special pages do not merely illustrate the model. They provide direct gramma
 
 E.2 f49v: Five Vertical PROCESS Operator Chains
 
+The numbered 1–5 structure on f49v is significant because it corresponds to the five y-closed vertical operator chains on the same page. This was not the origin of the y-closure rule. The closure value of y had already been derived from the parser and corpus behavior before f49v was interpreted in this way. f49v therefore functions as a confirmation environment: the page independently exposes the same closure grammar by arranging five operator chains, each terminating in y.
+
 f49v is treated as a PROCESS/operator demonstration. It contains a vertical guide structure with five closure-delimited operator sequences:
 
 1. f  -> o -> r -> y
