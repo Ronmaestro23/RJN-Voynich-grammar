@@ -717,7 +717,7 @@ material family, operation type, class sign
 
 16. Key pages and vertical operator sequences
 Special pages are not ordinary text. They function as operator demonstrations, grammatical 
-keys, vertical tables, relation/split frames, macro-sequence displays, and regime transitions. 
+keys, vertical tables, relation/split frames, macro-sequence displays, and regime transitions. The key-page argument is not based on one isolated page. It is based on cross-regime convergence: different key environments expose different parts of the same operator grammar. f49v exposes numbered y-closed PROCESS chains; f66r exposes SPECIAL/ASTRO relation and macro-binding syntax; f69r exposes radial single-glyph ASTRO operators; f75v, f76r, and f83v expose BALNEO status, flow, carrier, stabilization, and output logic. These pages are structurally different, but the same operator inventory produces coherent readings across them.
 Several key pages are especially important: f49v, f66r, the balneo key pages f75v/f76r/f83v, and 
 the Rosettes masterdiagram.
 16.1 f49v: PROCESS/operator demonstration
@@ -1841,6 +1841,9 @@ visual carrier/transfer/output diagrams;
 regime-specific closure or status markers.
 
 The special pages do not merely illustrate the model. They provide direct grammatical evidence for it.
+The force of the key-page evidence lies in convergence. The model does not rely on one page being made to fit after the fact. Several structurally different key environments independently expose the same operator inventory. f49v exposes five numbered y-closed process chains. f66r exposes layered SPECIAL/ASTRO syntax, including sh, air, relation/output logic, and split markers. f69r exposes radial single-glyph operator labels. The BALNEO pages expose a different regime, where s, d, q, o, l, k, and r form a coherent status-flow-carrier-stabilization-output sequence, while f83v gives the corresponding visual fractionation diagram.
+
+This cross-regime convergence is difficult to explain as accidental. The same operator grammar accounts for corpus-level positional behavior, key-page exposure, numerical structure, visual diagrams, and section-specific semantic organization. The result is not a single-page match, but a repeated alignment between independently derived parser values and heterogeneous manuscript structures.
 
 E.2 f49v: Five Vertical PROCESS Operator Chains
 
@@ -2149,7 +2152,7 @@ visual structures and textual operators describe the same process system.
 
 The strongest formulation is:
 
-The special pages do not merely illustrate the model. They expose the grammar directly: f49v exposes y-closed process chains; f66r exposes layered primitive/macro relation syntax; f69r exposes radial ASTRO single-glyph operators; f75r, f75v, and f76r expose BALNEO flow and dispatcher grammar; and f83v exposes the visual fractionation logic.
+The special pages do not merely illustrate the model. They expose the grammar directly: f49v exposes y-closed process chains; f66r exposes layered primitive/macro relation syntax; f69r exposes radial ASTRO single-glyph operators; f75r, f75v, and f76r expose BALNEO flow and dispatcher grammar; and f83v exposes the visual fractionation logic. The strongest evidence for the model is therefore convergent: the same structural-functional grammar accounts for running text, key pages, numerical structures, visual diagrams, and section-specific regimes without requiring a separate explanation for each environment.
 
 Authorship and priority note
 This repository documents the original Voynich structural-functional grammar, parser model, operator inventory, role mapping, and decipherment claim developed by Ronny Juul Nielsen. The files are published to establish authorship, priority, and the current working state of the solution. The project may be opened for scholarly inspection and reproducibility work, but the author should be credited in any discussion, testing, reuse, quotation, or derivative analysis of the grammar, parser, word list, or translation framework.
