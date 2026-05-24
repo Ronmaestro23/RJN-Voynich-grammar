@@ -165,7 +165,22 @@ The function of the page is therefore practical. It appears to remind an initiat
 
 This makes f49v the natural bridge between the parser paper and the first normal herbal-page translation.
 
-## 5.3 Transcription status of the vertical column
+## 5.3 Visual and layout context
+
+The page combines four elements that should be read together:
+
+```text
+1. ordinary running text;
+2. a left-side vertical numbered/operator column;
+3. a large herbal/process diagram;
+4. a small star/index marker near the top of the visual structure.
+```
+
+The large plant-like figure is not treated as botanical decoration alone. Under the present model it functions as a vertical process diagram: root/base at the bottom, carrier/stem rising upward, branching conduits, large green carrier/leaf fields, white openings or channels, and a small star-like marker as an index or class sign. The visual field therefore supports the idea that the page is teaching how text, diagram, and operator grammar work together.
+
+The left-side column is especially important because it stands apart from normal running text. It behaves like a grammatical guide or crib-sheet rather than a normal prose line. The nearby numbers and the repeated y-closures make it plausible that the column is meant to be read as a sequence of operator examples.
+
+## 5.4 Transcription status of the vertical column
 
 The vertical column is not completely uniform across modern transcriptions. Individual glyph readings differ in a few places. In particular, Stolfi/Zandbergen-style readings do not always agree on whether a glyph should be read as `e`, `ch`, `s`, `p`, or another close form in the column.
 
@@ -182,7 +197,7 @@ A vertical-column glyph may be preferred when:
 
 Thus, the page is not used as a free source for inventing new meanings. It is used as a confirmation environment for meanings already derived from the corpus-level parser.
 
-## 5.4 Raw vertical-column record
+## 5.5 Raw vertical-column record
 
 The working record of the f49v vertical column is:
 
@@ -217,7 +232,7 @@ The working record of the f49v vertical column is:
 
 The numbered markers 1–5 are significant because they align with the five closure-delimited operator chains. The column is therefore not read as a random vertical list, but as a numbered grammatical demonstration.
 
-## 5.5 Preferred five-chain grammatical reading
+## 5.6 Preferred five-chain grammatical reading
 
 Despite local glyph uncertainty, the column resolves into five coherent closure-delimited chains:
 
@@ -241,7 +256,7 @@ A slightly conservative notation should retain the uncertain first signs where r
 
 However, the functional structure remains stable because the chains still terminate in `y`, and the internal operators fall into already established roles: field, output, stabilization, regulation, procedure-initiation, and transformation.
 
-## 5.6 Structural-functional translation
+## 5.7 Structural-functional translation
 
 ```text
 1. f/p -> o -> r -> y
@@ -281,7 +296,7 @@ However, the functional structure remains stable because the chains still termin
    -> closure
 ```
 
-## 5.7 Plain functional rendering
+## 5.8 Plain functional rendering
 
 The page demonstrates five completed process chains.
 
@@ -298,7 +313,7 @@ activate and transform a field to closure;
 activate and stabilize to closure.
 ```
 
-## 5.8 Why this helps the herbal reading
+## 5.9 Why this helps the herbal reading
 
 f49v is not simply another page to be translated. It is a reading aid for the surrounding regime. It shows how the manuscript expects tokens and sequences to be understood in this section.
 
@@ -311,7 +326,7 @@ f49v = how to read the operator grammar
 normal herbal page = the operator grammar used in an actual recipe/process page
 ```
 
-## 5.9 Demonstration value
+## 5.10 Demonstration value
 
 f49v supports the model in four ways:
 
