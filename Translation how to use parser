@@ -1,6 +1,6 @@
 # Voynich Structural-Functional Translation Demonstration
 
-## A direct demonstration of five folios under the recursive process-operator parser
+## A direct demonstration of five translation environments under the recursive process-operator parser
 
 **Ronny Juul Nielsen**
 Working side paper for GitHub / Yale submission
@@ -129,11 +129,11 @@ This side paper is not a new parser paper. It is a demonstration of how the exis
 
 The recommended five demonstrations are:
 
-1. **f49v** — PROCESS/operator key page. This shows how the internal reading aids work and why key pages matter.
-2. **A normal HERBAL folio** — a regular herbal page, preferably one with strong visual/process correspondence, to show how the parser reads ordinary herbal recipe notation rather than only key material.
-3. **A BALNEO folio** — a normal balneo recipe/flow page, preferably f75r or a related page where `dainy` and visual process-state logic can be demonstrated.
-4. **A PHARMA or vessel/substance folio** — to show how the same grammar reads vessel, carrier, substance, residue, and output notation in a non-herbal and non-balneo regime.
-5. **A final text/star-page folio** — one of the last, text-heavy pages with minimal star marking, to demonstrate the most compressed form of the notation: almost pure structural text with only a small diagrammatic/index marker.
+1. f49v — HERBAL/PROCESS grammatical key and applied process demonstration
+2. f22v–f23r — normal HERBAL process continuation across folio boundary
+3. f76r + f78r — BALNEO key and applied flow/reservoir process
+4. f99r — PHARMA/vessel-substance process
+5. f105v — final STAR/TEXT compressed notation
 
 ASTRO key pages such as f66r or f69r remain important in the main parser paper, because they show their own radial/circular grammar. They are not necessary as full translation demonstrations here, because this side paper should focus on how the parser reads actual procedural pages and compressed recipe notation.
 
