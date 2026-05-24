@@ -1844,6 +1844,7 @@ The special pages do not merely illustrate the model. They provide direct gramma
 The force of the key-page evidence lies in convergence. The model does not rely on one page being made to fit after the fact. Several structurally different key environments independently expose the same operator inventory. f49v exposes five numbered y-closed process chains. f66r exposes layered SPECIAL/ASTRO syntax, including sh, air, relation/output logic, and split markers. f69r exposes radial single-glyph operator labels. The BALNEO pages expose a different regime, where s, d, q, o, l, k, and r form a coherent status-flow-carrier-stabilization-output sequence, while f83v gives the corresponding visual fractionation diagram.
 
 This cross-regime convergence is difficult to explain as accidental. The same operator grammar accounts for corpus-level positional behavior, key-page exposure, numerical structure, visual diagrams, and section-specific semantic organization. The result is not a single-page match, but a repeated alignment between independently derived parser values and heterogeneous manuscript structures.
+The evidential force is combinatorial. The model must be correct not only in isolated sign meanings, but in sign order, positional behavior, key-page regime, visual correspondence, and semantic coherence across thousands of tokens. The repeated success of the same operator inventory across these independent constraints is unlikely under a random or purely post-hoc interpretation.
 
 E.2 f49v: Five Vertical PROCESS Operator Chains
 
