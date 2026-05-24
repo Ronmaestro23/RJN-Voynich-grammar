@@ -3123,3 +3123,985 @@ base/residue
 -> output/closure
 
 This makes f22v a strong applied translation page: it shows the parser working not as an abstract theory, but as a practical reading method for ordinary herbal/process text.
+
+
+f22v–f23r — Two-Folio HERBAL/PROCESS Continuation Test
+1. Purpose of this demonstration
+
+f22v and f23r are read here as a two-folio HERBAL/PROCESS demonstration. The purpose is to test whether the structural-functional parser can read a procedural sequence across a folio boundary.
+
+The model does not treat a folio as the primary syntactic unit. A folio is a layout unit. The primary syntactic unit is the sequence.
+
+LINE != syntactic unit
+FOLIO != syntactic unit
+SEQUENCE = primary syntactic unit
+
+The transition from f22v to f23r is therefore important. f22v ends with repeated local-carrier transformation:
+
+f22v.16:
+saiin chy daldalol
+
+= regulated phase
+-> active closure
+-> repeated transformation toward local carrier
+
+f23r then opens with repeated local-carrier, output, transfer, phase, base, and branch-connection forms:
+
+ololdy
+dal
+daiin
+dam
+qokchol
+chol
+olchar
+olfchor
+olol
+dol
+dar
+
+This suggests that the process does not simply reset at the folio boundary. Instead, f23r appears to continue and unfold the local-carrier transformation that f22v closes into.
+
+2. Visual comparison: f22v to f23r
+f22v visual structure
+
+f22v shows a single vertical herbal/process diagram:
+
+red-brown base/root
+-> pale extraction/carrier conduits
+-> green vertical stem
+-> segmented green local carrier fields
+-> upper flower/output head
+
+The visual function is:
+
+base/residue
+-> carrier/conduit
+-> repeated local carrier chambers
+-> phase/output collector
+
+This matches the text of f22v, which repeatedly uses transfer, carrier, stabilized field, terminal base, phase, and closure forms:
+
+ot
+ok
+chol
+shol
+daiin
+dam
+dy
+saiin
+daldalol
+f23r visual structure
+
+f23r is visually different. It does not show one simple vertical plant. It shows multiple upper plant/process systems rising from a shared lower base or root manifold.
+
+The lower structure is one long horizontal root/base with repeated circular nodes, side roots, and conduit-like extensions. From this shared lower structure, multiple stems rise upward into separate leaf and flower systems. The upper systems are partly independent, but they are visually connected through shared branching and common base structure.
+
+The visual logic is therefore:
+
+shared root/base manifold
+-> multiple rising carrier stems
+-> separated local process branches
+-> shared or crossing upper branch structure
+-> blue flower/output nodes
+
+This is exactly the kind of page that can test whether the “plant” is really a diagram. If the text describes shared carrier/base, repeated local carrier, branch output, and phase/output transformation, then the image and text strongly support each other.
+
+3. f22v closing line as handoff
+
+The final line of f22v is:
+
+f22v.16:
+saiin chy daldalol
+
+Structural split:
+
+saiin = s + aiin
+      = regulated phase
+
+chy = ch + y
+    = active closure
+
+daldalol = dal + dal + ol
+         = repeated transformation toward local carrier + local carrier
+
+Structural-functional translation:
+
+regulated phase
+-> active closure
+-> repeated transformation into local carrier
+
+Plain functional rendering:
+
+The sequence closes a regulated phase and carries the process through repeated transformation into local carrier.
+
+This does not necessarily mean the recipe ends absolutely. It can function as a handoff: a regulated phase is closed, and the transformed material is placed into local carrier, ready to be unfolded in the next sequence.
+
+This makes f23r the correct continuation test.
+
+f23r — Structural-Functional Translation and Image Analysis
+4. Page function
+
+f23r is read as a HERBAL/PROCESS continuation page. It appears to unfold the local-carrier transformation prepared at the end of f22v.
+
+The visual structure is central to the reading:
+
+one shared lower root/base system
+-> multiple local carrier stems
+-> separated upper process branches
+-> shared or linked higher branch structure
+-> blue flower/output nodes
+
+Under the parser, this corresponds to:
+
+shared base/residue
+-> repeated local carrier
+-> branch separation
+-> output routing
+-> phase transformation
+-> local recombination or shared carrier logic
+
+The page is therefore a strong test of the diagrammatic plant hypothesis. If the text repeatedly uses local-carrier and branch-output forms, then the image is not merely decorative. It is a process diagram.
+
+5. Dominant visual elements on f23r
+5.1 Shared horizontal root/base
+
+The lower root is long, horizontal, and shared by all upper plant systems. It contains repeated circular nodes and many small rootlets.
+
+shared root/base
+= common base manifold / residue matrix / distributed carrier source
+
+Functional interpretation:
+
+Multiple process branches arise from a shared base or material matrix.
+
+This fits the repeated text forms involving ol, chol, dol, dal, dam, and qokchol.
+
+5.2 Repeated circular root nodes
+
+The circular forms in the root look like marked nodes, not ordinary botanical detail.
+
+root circles
+= local nodes / stored fractions / carrier pockets / process points
+
+Functional interpretation:
+
+The lower base contains repeated material nodes or fraction points that feed the upper process branches.
+5.3 Multiple rising stems
+
+Several stems rise from the same base into separate plant structures.
+
+multiple stems
+= parallel local carrier paths
+
+Functional interpretation:
+
+The shared base is divided into more than one process branch.
+5.4 Shared upper branch connection
+
+The upper structures are partly separated but visually linked by branching lines. This is important.
+
+shared upper branch
+= branch connection / carrier-output coordination / parallel process link
+
+Functional interpretation:
+
+The separate process branches remain part of one larger operation and may share output or phase logic.
+5.5 Blue flowers/output nodes
+
+The upper flowers contain blue petal/output elements and pale centers with small dot-like marks.
+
+blue flower nodes
+= output nodes / collected fractions / classified result fields
+
+Functional interpretation:
+
+The process branches terminate in visible output or classified fraction nodes.
+6. Line-by-line translation of f23r
+
+The translation uses H as the base witness unless otherwise noted.
+
+f23r.1
+pydchdom chy fcholdy oty otchol shy opyaiin yfchy daiin ololdy dal
+
+Structural split and reading:
+
+pydchdom
+= p + y + d + ch + d/o/m
+= procedure-initiation + closure/boundary + transformation + active frame + terminal/base element
+= procedure begins from a closed transformed active base
+
+chy
+= ch + y
+= active closure
+
+fcholdy
+= f + chol + dy
+= preparatory/material active local carrier transformed and closed
+
+oty
+= ot + y
+= transfer field closed
+
+otchol
+= ot + chol
+= transfer into active local carrier
+
+shy
+= sh + y
+= regulated activation closed
+
+opyaiin
+= op + y + aiin
+= procedure/extraction closed toward phase
+
+yfchy
+= y + f + ch + y
+= closed preparatory active frame closed
+
+daiin
+= transformation toward phase
+
+ololdy
+= ol + ol + dy
+= repeated local carrier transformed and closed
+
+dal
+= d + al
+= transformation toward local carrier
+
+Structural-functional translation:
+
+A procedure begins from a closed transformed active base.
+Active closure is marked.
+A preparatory active local carrier is transformed and closed.
+The transfer field is closed.
+Transfer enters the active local carrier.
+Regulated activation is closed.
+A procedure/extraction is closed toward phase.
+The preparatory active frame is closed.
+The process is transformed toward phase.
+Repeated local carrier is transformed and closed.
+The result is transformed toward local carrier.
+
+Plain functional rendering:
+
+The folio opens by taking a closed transformed base into procedure.
+A preparatory local carrier is processed and closed.
+Transfer is closed and redirected into active local carrier.
+The regulated activation is closed, and the extraction/procedure moves toward phase.
+The sequence ends by transforming repeated local carrier and directing it further into local form.
+
+Continuation note:
+
+This is the clearest link to f22v. f22v ends with daldalol, repeated transformation into local carrier. f23r.1 opens and develops the same local-carrier logic through otchol, daiin, ololdy, and dal.
+
+f23r.2
+to ar chor daiin chk dain otchy lolchor daiin dam okchol dain
+
+Structural split and reading:
+
+to
+= t + o
+= transfer field
+
+ar
+= output/relation target
+
+chor
+= ch + o + r
+= active field-output
+
+daiin
+= transformation toward phase
+
+chk
+= ch + k
+= active frame -> stabilization
+
+dain
+= transformation toward phase endpoint
+
+otchy
+= ot + ch + y
+= active transfer field closed
+
+lolchor
+= l + ol + chor
+= local carrier + local carrier + active field-output
+
+daiin
+= transformation toward phase
+
+dam
+= transformation toward terminal base/mass
+
+okchol
+= ok + chol
+= stabilized active local carrier
+
+dain
+= transformation toward phase endpoint
+
+Structural-functional translation:
+
+Transfer field moves toward output.
+Active field-output is established.
+The process transforms toward phase.
+Active frame stabilizes.
+The process transforms toward phase endpoint.
+Active transfer field is closed.
+Repeated local carrier routes to active field-output.
+The process transforms toward phase.
+The process transforms toward terminal base/mass.
+A stabilized active local carrier is established.
+The process transforms toward phase endpoint.
+
+Plain functional rendering:
+
+The sequence routes transfer toward output, stabilizes the active frame, and closes the transfer field.
+Repeated local carrier is then routed toward active output.
+The material passes through phase, terminal base, stabilized local carrier, and phase endpoint.
+
+Visual correspondence:
+
+This line fits the shared root/base and multiple branch structure: output and local-carrier forms are combined with dam, indicating that the upper output branches remain tied to a terminal base or common root-manifold.
+
+f23r.3
+dchar ykor kaiin daiin ctho
+
+Structural split and reading:
+
+dchar
+= d + ch + ar
+= transform active frame toward output
+
+ykor
+= y + k + or
+= closed stabilized output/relation field
+
+kaiin
+= k + aiin
+= stabilization toward phase
+
+daiin
+= transformation toward phase
+
+ctho
+= cth + o
+= active transfer field
+
+Structural-functional translation:
+
+Transform the active frame toward output.
+Close and stabilize the output/relation field.
+Stabilize toward phase.
+Transform toward phase.
+Establish active transfer field.
+
+Plain functional rendering:
+
+The active branch is transformed toward output, stabilized as a closed output field, then moved into phase and re-opened as active transfer.
+f23r.4
+qokoldy okaiir ykaiil qokeey ofchol dain yfchor olfchor otchald
+
+Structural split and reading:
+
+qokoldy
+= q + ok + ol + dy
+= initiate stabilized local carrier and transform-close it
+
+okaiir
+= ok + a + ii + r
+= stabilized field toward phase-output relation
+
+ykaiil
+= y + k + a + ii + l
+= closed stabilized phase-local carrier
+
+qokeey
+= q + ok + ee + y
+= initiate stabilized graded field and close
+
+ofchol
+= o + f + chol
+= field/preparatory active local carrier
+
+dain
+= transformation toward phase endpoint
+
+yfchor
+= y + f + chor
+= closed preparatory active field-output
+
+olfchor
+= ol + f + chor
+= local carrier + preparatory active field-output
+
+otchald
+= ot + ch + al + d
+= transfer active frame toward local transformation
+
+Structural-functional translation:
+
+Initiate stabilized local carrier and transform-close it.
+Move stabilized field toward phase-output relation.
+Close stabilized phase-local carrier.
+Initiate and close stabilized graded field.
+Prepare active local carrier.
+Transform toward phase endpoint.
+Close preparatory active field-output.
+Prepare active output from local carrier.
+Transfer active frame toward local transformation.
+
+Plain functional rendering:
+
+A stabilized local carrier is initiated and closed by transformation.
+The process moves toward phase-output relation and closed local phase.
+A graded stabilized field is initiated and closed.
+Preparatory active carrier-output is then formed and transferred toward local transformation.
+
+Visual correspondence:
+
+This line strongly matches the image: local carriers and preparatory field-output forms correspond to multiple plant branches rising from the same base.
+
+f23r.5
+ychor qokchol ytom chol dair chol ar ol ol dol dain
+
+Witness variants:
+
+C: ytym ... dain instead of dair
+F: ytam ... of ol ...
+
+Structural split and reading:
+
+ychor
+= y + chor
+= closed active field-output
+
+qokchol
+= q + ok + chol
+= initiate stabilized active local carrier
+
+ytom
+= y + t + om
+= closed transfer toward terminal base/mass
+
+chol
+= active local carrier
+
+dair
+= d + a + i + r
+= transform toward phase-output relation
+
+chol
+= active local carrier
+
+ar
+= output/relation target
+
+ol ol
+= repeated local carrier
+
+dol
+= d + ol
+= transform into local carrier
+
+dain
+= transform toward phase endpoint
+
+Structural-functional translation:
+
+Closed active output is marked.
+A stabilized active local carrier is initiated.
+A closed transfer moves toward terminal base/mass.
+Active local carrier is established.
+The process transforms toward phase-output relation.
+Active local carrier is established again.
+Output target is marked.
+Repeated local carrier follows.
+The process transforms into local carrier.
+The process transforms toward phase endpoint.
+
+Plain functional rendering:
+
+The branch begins from a closed active output.
+A stabilized local carrier is initiated.
+A closed transfer connects to terminal base/mass.
+The local carrier is repeated and routed toward phase-output.
+Output is marked, repeated carrier is established, and the process is transformed into local carrier and phase endpoint.
+
+Visual correspondence:
+
+This is one of the strongest text-image correspondences on f23r. The text explicitly repeats local carrier forms:
+
+qokchol
+chol
+chol
+ol ol
+dol
+
+This matches the visual structure of repeated plant branches sharing a lower base while forming separate upper output paths.
+
+f23r.6
+tshol ykor qokaiin yky dar okol dchey daiidal dam ytcho dals
+
+Witness variant:
+
+F: daindal instead of daiidal
+
+Structural split and reading:
+
+tshol
+= t + shol
+= transfer regulated local carrier
+
+ykor
+= closed stabilized output/relation field
+
+qokaiin
+= initiate stabilized phase
+
+yky
+= closed stabilization closed
+
+dar
+= transformation toward output
+
+okol
+= stabilized local carrier field
+
+dchey
+= transform active grade closure
+
+daiidal / daindal
+= transform toward phase/local endpoint and then local target
+
+dam
+= transformation toward terminal base/mass
+
+ytcho
+= closed transfer active field
+
+dals
+= d + al + s
+= transform toward local carrier with regulation/status
+
+Structural-functional translation:
+
+Transfer regulated local carrier.
+Close stabilized output/relation field.
+Initiate stabilized phase.
+Close stabilization.
+Transform toward output.
+Establish stabilized local carrier.
+Transform active grade and close.
+Transform toward phase/local target.
+Transform toward terminal base/mass.
+Close transfer active field.
+Transform toward regulated local carrier.
+
+Plain functional rendering:
+
+The regulated carrier is transferred.
+Output is stabilized and closed.
+A stabilized phase is initiated, closed, and directed toward output.
+The process returns to stabilized local carrier, closes a graded active transformation, touches terminal base/mass, and ends by transforming into regulated local carrier.
+f23r.7
+okar olchar shaiin qokchol dar qokchol dairo ol daiin alg
+
+Witness variants:
+
+C/F: final alm instead of alg
+C: chaiin instead of shaiin
+
+Structural split and reading:
+
+okar
+= ok + ar
+= stabilized output target
+
+olchar
+= ol + ch + ar
+= local carrier active output target
+
+shaiin
+= sh + aiin
+= regulated activation toward phase
+
+qokchol
+= q + ok + chol
+= initiate stabilized active local carrier
+
+dar
+= transformation toward output
+
+qokchol
+= initiate stabilized active local carrier again
+
+dairo
+= d + a + i + r + o
+= transform toward phase-output field
+
+ol
+= local carrier
+
+daiin
+= transformation toward phase
+
+alg / alm
+= a + l + uncertain g/m
+= toward local terminal sign / toward local mass if m
+
+Structural-functional translation:
+
+Stabilized output target is marked.
+Local carrier moves toward active output.
+Regulated activation moves toward phase.
+A stabilized active local carrier is initiated.
+The process transforms toward output.
+A second stabilized active local carrier is initiated.
+The process transforms toward phase-output field.
+Local carrier is marked.
+The process transforms toward phase.
+The sequence moves toward local terminal/mass.
+
+Plain functional rendering:
+
+This line reads like a branching statement.
+One stabilized output target is formed from local carrier.
+Then a stabilized local carrier is initiated, transformed toward output, and followed by a second stabilized local carrier.
+The sequence then moves toward phase-output and local terminal/mass.
+
+Visual correspondence:
+
+This is a very strong match to the image. The repeated qokchol can be read as two initiated stabilized local carrier branches. Visually, the folio shows multiple upper plant systems rising from one shared base. The text and image both describe parallel local carrier branches coordinated through output.
+
+f23r.8
+qokshy char daiir qokaiin olol qoaiin ykchy diil okchy
+
+Witness variants:
+
+C/F: da instead of diil
+
+Structural split and reading:
+
+qokshy
+= q + ok + sh + y
+= initiate stabilized regulated activation and close
+
+char
+= ch + ar
+= active output target
+
+daiir
+= d + a + ii + r
+= transform toward phase-output relation
+
+qokaiin
+= initiate stabilized phase
+
+olol
+= repeated local carrier
+
+qoaiin
+= q + o + aiin
+= initiate field toward phase
+
+ykchy
+= closed stabilized active closure
+
+diil / da
+= transformation toward phase/local count or open transform
+
+okchy
+= stabilized active field closed
+
+Structural-functional translation:
+
+Initiate and close stabilized regulated activation.
+Mark active output target.
+Transform toward phase-output relation.
+Initiate stabilized phase.
+Establish repeated local carrier.
+Initiate field toward phase.
+Close stabilized active state.
+Transform toward internal phase/local target.
+Close stabilized active field.
+
+Plain functional rendering:
+
+A stabilized regulated activation is closed.
+The branch is directed toward output and phase-output relation.
+A stabilized phase is initiated, repeated local carrier is established, and the field is initiated toward phase.
+The active stabilized state is closed again.
+
+Visual correspondence:
+
+olol is again important: repeated local carrier corresponds to the repeated branching and shared stem/root structure.
+
+f23r.9
+okol ok shy qokol dy dal dshe qokeees oly daiin dal
+
+Witness variant:
+
+C: dsho instead of dshe
+
+Structural split and reading:
+
+okol
+= ok + ol
+= stabilized local carrier
+
+ok
+= stabilized field
+
+shy
+= regulated activation closed
+
+qokol
+= q + ok + ol
+= initiate stabilized local carrier
+
+dy
+= transformation + closure
+
+dal
+= transform toward local carrier
+
+dshe / dsho
+= transform regulated activation grade/field
+
+qokeees
+= q + ok + eee + s
+= initiate stabilized highly graded regulated field
+
+oly
+= local carrier closed
+
+daiin
+= transform toward phase
+
+dal
+= transform toward local carrier
+
+Structural-functional translation:
+
+Stabilized local carrier.
+Stabilized field.
+Regulated activation closed.
+Initiate stabilized local carrier.
+Transform and close.
+Transform toward local carrier.
+Transform regulated activation/field.
+Initiate stabilized highly graded regulated field.
+Close local carrier.
+Transform toward phase.
+Transform toward local carrier.
+
+Plain functional rendering:
+
+The local carrier is stabilized.
+A regulated activation is closed.
+A new stabilized local carrier is initiated, transformed, closed, and directed locally.
+A highly graded regulated stabilized field is then initiated, closed into local carrier, and moved toward phase and local form.
+f23r.10
+qok okaiin chkchy yteair odal chal dy dar ykain
+
+Witness variants:
+
+C: omits qok at beginning and reads yteain.
+F: qyk at beginning and reads yteain.
+
+Structural split and reading:
+
+qok
+= initiate stabilized field
+
+okaiin
+= stabilized phase
+
+chkchy
+= ch + k + ch + y
+= active stabilization active closure
+
+yteair / yteain
+= closed transfer grade toward phase-output or phase endpoint
+
+odal
+= o + dal
+= field transformed toward local carrier
+
+chal
+= ch + al
+= active frame toward local
+
+dy
+= transform + closure
+
+dar
+= transform toward output
+
+ykain
+= closed stabilized phase endpoint
+
+Structural-functional translation:
+
+Initiate stabilized field.
+Establish stabilized phase.
+Close active stabilization.
+Move closed transfer-grade toward phase-output or phase endpoint.
+Transform field toward local carrier.
+Move active frame toward local carrier.
+Transform and close.
+Transform toward output.
+Close stabilized phase endpoint.
+
+Plain functional rendering:
+
+The sequence initiates a stabilized field and phase,
+closes active stabilization,
+moves through a closed transfer/phase endpoint,
+transforms into local carrier,
+then closes and routes toward output and stabilized phase endpoint.
+f23r.11
+ykyka dalory
+
+Witness variant:
+
+C: ykyko
+
+Structural split and reading:
+
+ykyka / ykyko
+= y + k + y + k/o + a/o
+= repeated closure-stabilization boundary form
+
+dalory
+= d + al + or + y
+= transform toward local carrier and output/relation, closed
+
+Structural-functional translation:
+
+Repeated closed stabilization boundary is marked.
+The process transforms toward local carrier and output/relation, then closes.
+
+Plain functional rendering:
+
+The folio closes by marking repeated stabilized closure and transforming the result toward both local carrier and output, then closing it.
+
+Final line function:
+
+This is a strong ending because it combines closure, stabilization, local carrier, output/relation, and final closure in one compact closing formula.
+
+7. Continuous f23r structural-functional rendering
+
+In continuous form, f23r reads as follows:
+
+The sequence continues from the local-carrier transformation at the end of f22v.
+
+A closed transformed base is taken into procedure.
+Preparatory active local carrier is transformed and closed.
+Transfer enters active local carrier.
+The process moves through phase, repeated local carrier, and local transformation.
+
+Transfer is routed toward output.
+Active field-output is stabilized.
+The process moves through phase endpoint, transfer closure, terminal base/mass, and stabilized active local carrier.
+
+Multiple local carrier branches are then initiated.
+Closed output, repeated local carrier, transformed local carrier, and phase endpoints recur.
+The process repeatedly forms active local carriers, directs them toward output, returns them to local carrier, and transforms them toward phase or terminal base.
+
+The visual image matches this structure:
+one shared base/root system gives rise to several local carrier branches and upper output nodes.
+The text repeatedly uses qokchol, chol, olchar, olfchor, olol, dol, dal, dar, dam, and daiin,
+which correspond to shared base, repeated local carrier, branch output, phase transformation, and terminal residue/mass.
+
+The folio closes by marking repeated stabilization/closure and transforming the result toward local carrier and output/relation.
+8. f22v–f23r sequence conclusion
+
+The f22v–f23r pair is a strong demonstration of sequence continuity across a folio boundary.
+
+f22v closes with:
+
+saiin chy daldalol
+= regulated phase
+-> active closure
+-> repeated transformation into local carrier
+
+f23r opens and develops the same grammar:
+
+pydchdom ... daiin ololdy dal
+= procedure from transformed base
+-> phase transformation
+-> repeated local carrier
+-> transformation toward local carrier
+
+This is not a random reset. The second folio continues the local-carrier logic of the first.
+
+The image supports this continuity. f22v shows one vertical process moving from base/root through carrier and segmented fields toward output. f23r then shows a shared base/root manifold feeding several upper process branches. The visual sequence is therefore:
+
+f22v:
+single process stem
+from base to segmented carrier/output
+
+f23r:
+shared base
+unfolding into multiple carrier/output branches
+
+The text follows the same pattern:
+
+f22v:
+regulated phase
+active closure
+repeated local-carrier transformation
+
+f23r:
+repeated local carrier
+stabilized active carrier
+branch output
+terminal base/mass
+phase-output transformation
+local carrier closure
+
+This strongly supports the claim that the herbal images are not merely plant drawings. They function as process diagrams.
+
+9. Why this supports the larger model
+
+The f22v–f23r demonstration supports five central claims:
+
+1. The parser reads ordinary herbal pages, not only key pages.
+2. A procedure can continue across folio boundaries.
+3. Plant images function as process diagrams.
+4. Shared roots and branches correspond to carrier/base/output grammar.
+5. The same operator inventory remains stable across the whole sequence.
+
+The most important point is that the text and image independently support the same reading.
+
+On f23r, the image shows:
+
+shared root/base
+multiple carrier stems
+branching local process fields
+upper blue output flowers
+
+The text gives:
+
+dam   = terminal base/mass
+ol    = local carrier
+chol  = active local carrier
+qokchol = initiated stabilized active local carrier
+olol  = repeated local carrier
+dol   = transformation into local carrier
+dal   = transformation toward local carrier
+dar   = transformation toward output
+daiin = transformation toward phase
+
+This is a strong text-image convergence. The page looks like two or more process-plants sharing a root and branching toward output, and the text repeatedly describes shared local carrier, output routing, phase transformation, and terminal base logic.
+
+Therefore, f22v–f23r should be presented as:
+
+a two-folio HERBAL/PROCESS sequence,
+showing how a recipe or procedure can unfold across folio boundaries.
+
+This makes the demonstration stronger than a single-page reading. It shows that the parser is not merely assigning meanings token by token. It is reading a larger process sequence.
