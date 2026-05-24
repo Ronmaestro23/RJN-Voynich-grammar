@@ -1,0 +1,457 @@
+# Voynich Structural-Functional Translation Demonstration
+
+## A direct demonstration of five folios under the recursive process-operator parser
+
+**Ronny Juul Nielsen**
+Working side paper for GitHub / Yale submission
+May 2026
+
+---
+
+## Draft status
+
+This side paper is a translation-demonstration companion to *A Recursive Structural Decipherment of Voynichese as a Hierarchical Functional Process-Operator Grammar*. It does not replace the parser paper. Its purpose is to show how selected Voynich folios are read directly and consistently under the structural-functional model.
+
+The demonstrations below are not intended as conventional word-for-word translations into a known historical vernacular. They are structural-functional translations: each token is read as a compact procedural instruction built from primitive operators, macro-bound forms, closure forms, field families, and regime-specific interpretation.
+
+The claim tested here is simple:
+
+> If the parser is correct, a selected page should be readable from beginning to end without changing the operator values ad hoc, without inventing new meanings for each token, and without correcting transcription problems unless a strict witness/visual rule justifies the correction.
+
+---
+
+# 1. Purpose of this demonstration
+
+The main paper presents the full structural parser, operator inventory, falsification criteria, key-page evidence, and visual-regime model. This document isolates the act of reading.
+
+Its purpose is to demonstrate:
+
+1. that Voynich tokens can be translated consistently as structural-functional instructions;
+2. that the same operator values can be applied across different regimes;
+3. that key pages function as internal reading aids or operator crib-sheets;
+4. that visual diagrams and text can be read together without changing the grammar;
+5. that apparent irregularities can be handled by explicit transcription and witness rules rather than free correction.
+
+---
+
+# 2. Translation standard used in this paper
+
+Each folio demonstration should use the same four-layer format.
+
+## 2.1 Original token sequence
+
+The Voynich tokens are given in the selected transcription witness, normally H unless otherwise stated.
+
+## 2.2 Structural split
+
+Each token is split into primitive operators and macro-bound forms, for example:
+
+```text
+dainy = d + a + i + n + y
+qokedy = q + ok + e + d + y
+air = a + i + r
+```
+
+## 2.3 Structural-functional reading
+
+Each token is rendered as a compact procedural instruction, for example:
+
+```text
+dainy = transform toward phase endpoint, closed/finalized
+qokedy = initiated stabilized field, graded, transformed, closed
+air = toward phase-bearing relation/output
+```
+
+## 2.4 Plain functional rendering
+
+The sequence is then rendered in ordinary explanatory English, without claiming a final historical vernacular word-for-word translation.
+
+Example:
+
+```text
+The process is transformed into a phase endpoint and finalized.
+```
+
+---
+
+# 3. Operator rules used consistently
+
+The following operator values are fixed for all demonstrations in this paper.
+
+```text
+q  = strong external initiation / process start / flow start
+p  = operational initiation / procedure-init / subprocedure-start
+f  = material/preparatory/variant initiation
+o  = process field / node / base field
+a  = transition / to / toward / into
+d  = transformation / processing
+y  = boundary / closure / finalization
+e  = grade / intensity / internal differentiation
+i  = phase marker / sequence marker
+n  = phase boundary / stage endpoint
+l  = local carrier / locality
+r  = relation / output direction
+m  = terminal mass / base / residue
+k  = stabilization / fixation / left-binding connector
+t  = transfer / routing
+s  = regulated/status marker
+h  = activation / execution / internal activation binder
+ch = active coupled frame
+sh = activated regulation/status
+cth = active coupled transfer
+ckh = active coupled stabilization
+cph = active coupled procedure/separation
+cfh = active coupled variant/preparation
+```
+
+Closure and target forms:
+
+```text
+dy    = transformation + closure
+daiin = transformation toward second phase
+dar   = transformation toward output/relation
+dol   = transformation into local carrier
+dam   = transformation toward terminal base/mass
+ar    = toward output/relation
+ol    = local carrier field
+ot    = transfer field
+ok    = stabilized/fixed field
+op    = procedure/extraction field
+```
+
+These values may not be redefined during the translation of a folio.
+
+---
+
+# 4. Selected folios for demonstration
+
+This side paper is not a new parser paper. It is a demonstration of how the existing parser is used for translation. For that reason, the selected pages should include both key-page material and ordinary recipe-like pages.
+
+The recommended five demonstrations are:
+
+1. **f49v** — PROCESS/operator key page. This shows how the internal reading aids work and why key pages matter.
+2. **A normal HERBAL folio** — a regular herbal page, preferably one with strong visual/process correspondence, to show how the parser reads ordinary herbal recipe notation rather than only key material.
+3. **A BALNEO folio** — a normal balneo recipe/flow page, preferably f75r or a related page where `dainy` and visual process-state logic can be demonstrated.
+4. **A PHARMA or vessel/substance folio** — to show how the same grammar reads vessel, carrier, substance, residue, and output notation in a non-herbal and non-balneo regime.
+5. **A final text/star-page folio** — one of the last, text-heavy pages with minimal star marking, to demonstrate the most compressed form of the notation: almost pure structural text with only a small diagrammatic/index marker.
+
+ASTRO key pages such as f66r or f69r remain important in the main parser paper, because they show their own radial/circular grammar. They are not necessary as full translation demonstrations here, because this side paper should focus on how the parser reads actual procedural pages and compressed recipe notation.
+
+This gives the side paper a better balance:
+
+```text
+one key page
++ one normal herbal page
++ one balneo page
++ one pharma/vessel page
++ one final compressed star/text page
+```
+
+The key page explains how the system is used. The other pages show that the system actually reads manuscript content as recipe/procedure notation.
+
+---
+
+# 5. Demonstration I: f49v — PROCESS/operator key
+
+## 5.1 Regime
+
+PROCESS / operator demonstration.
+
+## 5.2 Why this folio was selected
+
+f49v is selected because it appears to expose the closure grammar directly. It contains a numbered 1–5 structure corresponding to five y-closed vertical operator chains. The value of y as closure was derived before f49v was interpreted in this way; f49v therefore functions as a confirmation environment rather than the origin of the rule.
+
+## 5.3 Vertical operator chains
+
+```text
+1. f  -> o -> r -> y
+2. ch -> o -> k -> s -> p -> o -> r -> y
+3. e  -> o -> s -> p -> o -> r -> y
+4. ch -> o -> d -> y
+5. ch -> k -> y
+```
+
+## 5.4 Structural-functional translation
+
+```text
+1. variant/preparation -> field -> output/relation -> closure
+2. active frame -> field -> stabilize -> regulate -> procedure-init -> field -> output/relation -> closure
+3. grade/intensity -> field -> regulate -> procedure-init -> field -> output/relation -> closure
+4. active frame -> field -> transform/process -> closure
+5. active frame -> stabilize/fix -> closure
+```
+
+## 5.5 Plain functional rendering
+
+The page demonstrates five completed process chains. Each chain presents a short operator path and terminates in y, the closure/finalization operator. The first chain moves from preparatory/variant initiation through field and output to closure. The second and third chains demonstrate regulated field-output procedures. The fourth chain demonstrates active transformation to closure. The fifth chain demonstrates active stabilization to closure.
+
+## 5.6 Demonstration value
+
+This page shows that y is not merely a frequent final sign. It functions as the explicit closure of completed operator chains. The numbered structure strengthens the reading because the page appears to expose five closure-delimited demonstrations in a visible sequence.
+
+---
+
+# 6. Demonstration II: normal HERBAL folio
+
+## 6.1 Regime
+
+HERBAL vertical process diagram / recipe notation.
+
+## 6.2 Why this folio type is needed
+
+A normal herbal page is necessary because this document should not only demonstrate key pages. The main claim is that ordinary manuscript pages can be read as structural-functional recipe/procedure notation. A herbal folio is therefore the best place to show the parser reading a regular page where plant imagery, token structure, and process logic interact.
+
+The selected herbal folio should ideally have:
+
+```text
+clear root/stem/leaf/flower process structure
+visible carrier/output/fraction features
+several tokens from established families such as ol, ot, ok, op, ar, dy, daiin, dar
+minimal dependence on uncertain transcription corrections
+```
+
+Possible candidates include strong visual/process pages already discussed in the main paper, such as f16v, f40v, f44r, f52r, or another folio with clear text-image correspondence.
+
+## 6.3 Translation format
+
+For the selected herbal page, each line should be rendered in three layers:
+
+```text
+Original line:
+[Voynich tokens]
+
+Structural-functional token reading:
+[token 1] = ...
+[token 2] = ...
+[token 3] = ...
+
+Plain functional rendering:
+[ordinary explanatory rendering of the procedure]
+```
+
+## 6.4 Expected demonstration value
+
+This page should demonstrate that the parser reads ordinary herbal material, not only special key environments. The visual plant form should be treated as a vertical process diagram: root/base/residue, stem/carrier/transfer, leaves/local process branches, and flower/output or collector structures.
+
+The purpose is to show how an initiated user could read the page as a practical compressed recipe or procedure, not merely as botanical description.
+
+---
+
+# 7. Demonstration III: BALNEO folio — radial ASTRO single-glyph operator key
+
+## 7.1 Regime
+
+BALNEO flow/reservoir/process endpoint.
+
+## 7.2 Why this folio was selected
+
+A balneo page is necessary because BALNEO reorganizes the same operator inventory into hydraulic, reservoir, carrier, body-position, and flow logic. This shows that the parser is regime-dispatched rather than mechanically identical across all sections.
+
+A strong candidate is f75r or a related BALNEO page where `dainy` can be demonstrated in visual context.
+
+## 7.3 Key token example
+
+```text
+dainy
+```
+
+## 7.4 Structural split
+
+```text
+dainy = d + a + i + n + y
+```
+
+## 7.5 Structural-functional translation
+
+```text
+d = transformation / processing
+a = toward / into
+i = phase marker
+n = phase boundary / stage endpoint
+y = closure / finalization
+```
+
+Full reading:
+
+```text
+dainy = transformation toward a phase endpoint, closed/finalized
+```
+
+## 7.6 Plain functional rendering
+
+The process is brought into a phase endpoint and finalized. In BALNEO context, this may correspond to a completed local process state, finished flow stage, or closed phase transition.
+
+## 7.7 Visual correspondence
+
+The visual context is read as a balneo flow/reservoir system. Under the model, the figure associated with `dainy` is not a decorative bather but a process-position marker showing a completed or endpoint state within the hydraulic/regime logic.
+
+## 7.8 Demonstration value
+
+This folio shows how a five-glyph token can be a complete compact instruction. It also shows why one-glyph tokens are normally absent in running text: the complete instruction requires a sequence of operators.
+
+---
+
+# 8. Demonstration IV: PHARMA / vessel-substance folio — BALNEO flow and dainy
+
+## 8.1 Regime
+
+PHARMA / vessel-substance / carrier-output notation.
+
+## 8.2 Why this folio type is needed
+
+A PHARMA or vessel page should be included because it demonstrates a third ordinary recipe regime beyond HERBAL and BALNEO. It should show how the same operator grammar reads vessel, carrier, substance class, residue, stabilization, extraction, and output notation.
+
+The selected page should ideally contain strong examples of:
+
+```text
+ol / qol / chol / shol = carrier or local vessel field
+ot / qot / otedy = transfer or routed output
+ok / qok / okedy = stabilized or fixed field
+op / cph / cfh = procedure, extraction, separation, or variant preparation
+am / om / dam = terminal mass, base, residue
+ar / or / dar = output, relation, fraction target
+```
+
+## 8.3 Translation format
+
+The page should be translated line by line using the same format as the HERBAL demonstration:
+
+```text
+Original line:
+[Voynich tokens]
+
+Token-by-token structural-functional reading:
+[token] = structural split = functional reading
+
+Plain procedural rendering:
+[ordinary explanatory rendering]
+```
+
+## 8.4 Demonstration value
+
+This page should show that the parser does not merely explain plant images or balneo figures. It also reads vessel/substance pages as compact technical recipe notation. This strengthens the claim that the manuscript is a cross-regime procedural system rather than a single-section visual interpretation.
+
+---
+
+# 9. Demonstration V: final compressed star/text folio — BALNEO reading key and visual fractionation
+
+## 9.1 Regime
+
+Final text-heavy / star-labelled compressed notation.
+
+## 9.2 Why this folio type is needed
+
+A page from the final part of the manuscript is essential because these pages appear to represent the most compressed form of the system. Compared with the heavily visual sections, the final pages use mostly text with minimal star or small diagrammatic markers.
+
+Under the present model, this is not a different script. It is the same notation in a more compressed state:
+
+```text
+maximum structural encoding
+minimal visual support
+small star/index marker as classifier or process label
+```
+
+## 9.3 Working interpretation
+
+The final text/star pages may function as advanced or summary-level procedural entries. They would make sense only after the reader has learned the operator inventory, regime conventions, and key-page logic elsewhere in the manuscript.
+
+In this view, the final section may be the closest thing to pure recipe text: compact procedural records with minimal visual scaffolding.
+
+## 9.4 Translation format
+
+The selected final folio should be translated continuously, with emphasis on whether the parser can sustain semantic coherence without relying heavily on images.
+
+```text
+Original line:
+[Voynich tokens]
+
+Structural-functional reading:
+[token-by-token reading]
+
+Plain procedural rendering:
+[continuous recipe/procedure rendering]
+```
+
+## 9.5 Demonstration value
+
+This is the strongest test of practical readability. If the parser can read a final text-heavy page coherently, it shows that the model is not dependent on rich illustrations. It also supports the hypothesis that the manuscript is a training and application guide for a compact internal recipe notation.
+
+---
+
+# 10. Transcription errors, witness variation, and correction rules
+
+This demonstration does not freely correct the text. Corrections are allowed only under explicit rules.
+
+## 10.1 Locked correction rule
+
+```text
+The parser may flag structurally suspicious places.
+It may not correct them merely to fit the model.
+Correction requires independent visual, witness, or local graphical confirmation.
+```
+
+## 10.2 Permitted correction classes
+
+```text
+POSSIBLE_E_I_TRANSCRIPTION_AMBIGUITY
+OPEN_A_TERMINAL_FLAG
+MISSING_INITIAL_CLOSURE_GLYPH
+PARSER_GUIDED_VISUAL_CORRECTION
+WITNESS_REPLACED
+SHORT_LABEL
+H_STACK / repeated activation validation
+FREE_H_PAIR_REMAINDER
+NON_C_EMBEDDED_H_EXCEPTION
+```
+
+## 10.3 What counts as evidence for correction
+
+A correction may be proposed only when at least one of the following applies:
+
+1. another witness preserves a more coherent or visually plausible reading;
+2. the glyph shape visibly supports the correction;
+3. the local graphical environment supports the reading independently;
+4. the correction resolves a known ambiguity class such as e/i or r/k;
+5. the uncorrected form is structurally isolated while the corrected form fits an independently established pattern.
+
+## 10.4 What is not allowed
+
+The following are not allowed:
+
+1. changing a glyph because the preferred meaning would be more convenient;
+2. changing operator values inside a token to force a translation;
+3. treating every ambiguous form as confirmation;
+4. silently normalizing witness disagreement;
+5. using the visual image as the only justification for a textual correction.
+
+## 10.5 Example: f76r r/k ambiguity
+
+At f76r.L.24, H/F/V/U read r while C reads k. The preferred reading is r, but the ambiguity must be recorded.
+
+```text
+f76r.L.24 = r in H/F/V/U; k in C
+preferred = r
+status = witness ambiguity / possible graphic confusion
+```
+
+This matters because k would mark stabilization, while r marks output/relation. The majority reading and the position after local carrier + stabilization favor r.
+
+---
+
+# 11. Why this is a direct demonstration rather than a new theory
+
+This document does not introduce new operator meanings. It applies the existing parser to selected folios. The same values are used across PROCESS, SPECIAL/ASTRO, ASTRO, and BALNEO contexts.
+
+The evidential force is combinatorial. The model must be correct not only in isolated sign meanings, but also in sign order, positional behavior, key-page regime, visual correspondence, and semantic coherence across running text. A free-association model would have to explain why the same inventory repeatedly produces coherent readings across different key-page types and visual regimes.
+
+---
+
+# 12. Provisional conclusion
+
+This side paper is not a new parser. It demonstrates how the established parser is used for translation.
+
+The selected demonstrations should therefore balance explanation and application: one key page to show the internal reading aid, and several ordinary or recipe-like pages to show that the parser works as a direct reading system. A normal herbal folio, a balneo folio, a pharma/vessel folio, and a final compressed star/text folio together provide a stronger demonstration than key pages alone.
+
+The strongest conservative conclusion is that the manuscript contains both internal reading aids and applied recipe/procedure pages. The key pages show how an initiated reader should apply the grammar. The ordinary pages show the grammar in use. The final text-heavy pages may represent the most compressed form of the notation: minimal visual support, maximum structural encoding.
+
+The demonstration therefore supports the central claim of the main paper: Voynichese is complete at the structural-functional level, while remaining incomplete or refinable at the historical-lexical level.
