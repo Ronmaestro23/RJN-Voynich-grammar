@@ -1048,3 +1048,1226 @@ a page that teaches how to apply the operator grammar to the surrounding recipe/
 
 The next demonstration should be a normal herbal folio, because f49v gives the rule and the normal herbal folio shows the rule in actual use.
 
+
+
+f49v — Structural-Functional Translation and Image Analysis
+1. Page function
+
+f49v is read here as a HERBAL/PROCESS grammatical key page with applied process demonstration.
+
+The page is not treated as ordinary prose alone. It combines four elements:
+
+1. a left-side vertical operator column;
+2. ordinary running text;
+3. a large plant-like process diagram;
+4. a small star/index marker near the upper visual structure.
+
+Under the structural-functional parser, f49v functions as an internal reading aid. It shows how the operator grammar should be applied in this regime: preparation, field, carrier, transfer, stabilization, regulation, procedure-initiation, transformation, output, phase, residue/base, and closure.
+
+The page therefore does not provide a conventional alphabetic key. It provides a functional operator key. It demonstrates how an initiated reader should understand and apply the same operator inventory in ordinary herbal/process text.
+
+2. Visual and layout analysis
+
+The illustration is not read primarily as botanical realism. It is read as a vertical process diagram.
+
+The lower root-like mass functions as a base, residue, or terminal material matrix. The repeated small curved marks inside the base suggest distributed material points, particles, granules, or residue units.
+
+root/base mass
+= terminal base / residue / stored material matrix
+
+A long green stem rises from this base into the upper diagram. This stem functions as a carrier path or conduit.
+
+vertical stem
+= carrier path / conduit / local process channel
+
+The large green paired upper structures function as expanded process fields or carrier matrices. They are not treated as decorative leaves only, but as diagrammatic fields where material may be held, opened, separated, or transformed.
+
+green upper fields
+= carrier matrix / local process fields / treated material zones
+
+The white curved openings inside the green fields function as apertures, channels, cleared zones, or collector paths.
+
+white openings
+= apertures / channels / collectors / cleared passage zones
+
+The pale upper central form functions as an output/collector field, while the small blue star-like sign near the top functions as a class marker, process label, or index sign.
+
+upper head / pale field
+= collector / output zone / final process field
+
+star marker
+= process label / class marker / index marker
+
+The image therefore supports the same logic as the text:
+
+base/root
+-> carrier/stem
+-> branching conduits
+-> green process fields
+-> openings/channels
+-> upper output/index marker
+3. The vertical operator column
+
+The left-side vertical column is the most important grammatical element on the page. It is separate from ordinary running text and appears to function as a compact operator guide.
+
+Working record of the vertical column:
+
+1   f49v.2      f / p
+2   f49v.4   1  o
+3   f49v.6   2  r
+4   f49v.8   3  y
+
+5   f49v.10  4  e / ch
+6   f49v.12  5  o
+7   f49v.14     k
+8   f49v.16     s
+9   f49v.18     p
+10  f49v.20     o
+11  f49v.22     r
+12  f49v.24     y
+
+13  f49v.26     e / ch
+14  f49v.28     o?
+15  f49v.30     s?
+16  f49v.32     p
+17  f49v.34     o
+18  f49v.36     r
+19  f49v.38     y
+
+20  f49v.40     ch
+21  f49v.42     o
+22  f49v.44     d
+23  f49v.46     y
+
+24  f49v.48     ch / e / s
+25  f49v.50     k
+26  f49v.52     y
+
+There is local uncertainty in a few glyphs. This uncertainty should be recorded rather than hidden. In particular, the column contains possible ambiguity around:
+
+f / p
+e / ch
+o?
+s?
+ch / e / s
+
+The rule used here is strict:
+
+A vertical-column glyph may be preferred only when:
+1. it fits the visible glyph form;
+2. it fits the local vertical sequence;
+3. it fits an already established operator value;
+4. it completes one of the five closure-delimited chains;
+5. it does not require changing the operator meaning ad hoc.
+
+The column is therefore not used to invent new meanings. It is used as a confirmation environment for values already derived from the corpus-level parser.
+
+4. Preferred five-chain grammatical reading
+
+Despite local glyph uncertainty, the vertical column resolves into five coherent closure-delimited chains:
+
+1. f  -> o -> r -> y
+
+2. ch -> o -> k -> s -> p -> o -> r -> y
+
+3. e  -> o -> s -> p -> o -> r -> y
+
+4. ch -> o -> d -> y
+
+5. ch -> k -> y
+
+A conservative notation retaining uncertainty is:
+
+1. f/p -> o -> r -> y
+
+2. e/ch -> o -> k -> s -> p -> o -> r -> y
+
+3. e/ch -> o? -> s? -> p -> o -> r -> y
+
+4. ch -> o -> d -> y
+
+5. ch/e/s -> k -> y
+
+The essential grammatical fact is stable: all five chains terminate in y.
+
+This matters because the parser independently assigns:
+
+y = boundary / closure / finalization
+
+The value of y was not derived from f49v alone. f49v confirms the closure value by arranging five operator chains that all terminate in y.
+
+5. Translation of the vertical operator chains
+Chain 1
+f/p -> o -> r -> y
+
+Structural-functional reading:
+
+preparation / variant or procedure-initiation
+-> process field
+-> output / relation
+-> closure
+
+Plain rendering:
+
+Prepare or initiate a process field, direct it toward output/relation, and close it.
+Chain 2
+ch -> o -> k -> s -> p -> o -> r -> y
+
+Structural-functional reading:
+
+active frame
+-> process field
+-> stabilization / fixation
+-> regulation / status
+-> procedure-initiation
+-> process field
+-> output / relation
+-> closure
+
+Plain rendering:
+
+Activate a process field, stabilize it, regulate it, initiate the next procedure, return it to the field, direct it toward output, and close it.
+Chain 3
+e -> o -> s -> p -> o -> r -> y
+
+Structural-functional reading:
+
+grade / intensity
+-> process field
+-> regulation / status
+-> procedure-initiation
+-> process field
+-> output / relation
+-> closure
+
+Plain rendering:
+
+Apply grading or intensity to the process field, regulate it, initiate procedure, return to field, direct to output, and close.
+Chain 4
+ch -> o -> d -> y
+
+Structural-functional reading:
+
+active frame
+-> process field
+-> transformation / processing
+-> closure
+
+Plain rendering:
+
+Activate the field, transform/process it, and close.
+Chain 5
+ch -> k -> y
+
+Structural-functional reading:
+
+active frame
+-> stabilization / fixation
+-> closure
+
+Plain rendering:
+
+Activate, stabilize/fix, and close.
+6. First running line as functional heading
+
+The first running line appears before the numbered operator demonstration and may function as a kind of functional heading or process declaration.
+
+f49v.2
+kshor shol cphokchol chcfhhy
+
+Witness variants:
+
+H/U: chcfhhy
+C/G: chcfhey
+F:   chcfh
+
+Token reading:
+
+kshor
+= k + sh + o + r
+= stabilized regulated-active field-output
+
+shol
+= sh + ol
+= regulated-active local carrier
+
+cphokchol
+= cph + ok + chol
+= active procedure/separation + stabilized field + active local carrier
+
+chcfhhy
+= ch + cfh + h + y
+= active frame + active variant/preparation + activation + closure
+
+If C/G are followed:
+
+chcfhey
+= ch + cfh + e + y
+= active frame + active variant/preparation + grade + closure
+
+Structural-functional rendering:
+
+Stabilized regulated output-field;
+regulated local carrier;
+active separation in a stabilized active carrier;
+active variant/preparation activated and closed.
+
+Plain functional rendering:
+
+A stabilized regulated carrier-output process is established.
+A local carrier is regulated.
+A separated or stabilized active carrier is prepared.
+The active variant/preparatory operation is brought to closure.
+
+This line can therefore be read as a compact page declaration:
+
+regulated carrier-output
++ active separation
++ stabilized carrier
++ variant/preparation
++ closure
+
+It is not a title in the ordinary sense, but it functions like a structural heading:
+
+This page demonstrates regulated carrier-output and closed active preparation.
+7. Translation of the running text
+
+The following translation uses H as the base witness unless otherwise noted. Witness variation is mentioned where it affects the structural-functional reading.
+
+f49v.4
+qokchy qokchod sho cthy
+
+Token reading:
+
+qokchy
+= q + ok + ch + y
+= initiated stabilized active field, closed
+
+qokchod
+= q + ok + ch + o + d
+= initiated stabilized active field, transformed
+
+sho
+= sh + o
+= regulated active field
+
+cthy / ckhy
+= cth + y or ckh + y
+= active transfer closed or active stabilization closed
+
+Translation:
+
+Initiate and close a stabilized active field.
+Initiate and transform the stabilized active field.
+Establish a regulated active field.
+Close it through active transfer or active stabilization.
+f49v.6
+chotchy chcthy cth koddy
+
+Token reading:
+
+chotchy
+= ch + ot + ch + y
+= active transfer-field, active closure
+
+chcthy
+= ch + cth + y
+= active transfer closed
+
+cth
+= active coupled transfer
+
+koddy
+= k + o + d + d + y
+= stabilized field, repeated transformation, closure
+
+Translation:
+
+Close the active transfer-field.
+Close the active transfer operation.
+Apply active transfer.
+Transform the stabilized field repeatedly and close it.
+f49v.8
+okeod sho chotshol dam
+
+Token reading:
+
+okeod
+= ok + e + o + d
+= stabilized field, graded, transformed
+
+sho
+= sh + o
+= regulated active field
+
+chotshol
+= ch + ot + shol
+= active transfer-field into regulated local carrier
+
+dam
+= d + am
+= transformation toward terminal base/mass
+
+Translation:
+
+Grade and transform the stabilized field.
+Establish a regulated active field.
+Move active transfer into a regulated local carrier.
+Transform the process toward terminal base or residue.
+f49v.10
+shol sho daiin qotchar
+
+Token reading:
+
+shol
+= regulated local carrier
+
+sho
+= regulated active field
+
+daiin
+= transformation toward phase
+
+qotchar
+= q + ot + ch + ar
+= initiate active transfer-field toward output/relation
+
+Translation:
+
+Regulate the local carrier.
+Regulate the active field.
+Transform toward phase.
+Initiate active transfer toward output.
+f49v.12
+qotchy chokchy choky
+
+Token reading:
+
+qotchy
+= q + ot + ch + y
+= initiated active transfer-field, closed
+
+chokchy
+= ch + ok + ch + y
+= active stabilized field, actively closed
+
+choky
+= ch + ok + y
+= active stabilized field, closed
+
+Translation:
+
+Initiate and close the active transfer-field.
+Close the active stabilized field.
+Close the active stabilized field again in compact form.
+f49v.14
+chotchy chodaiin dan
+
+Witness variants:
+
+C: otchy chodaiin dan
+F: chotchy chodaiin dar
+
+Token reading:
+
+chotchy / otchy
+= active transfer closure / transfer closure
+
+chodaiin
+= ch + o + daiin
+= active field transformed toward phase
+
+dan / dar
+= d + a + n or d + ar
+= transform toward phase boundary or transform toward output
+
+Translation:
+
+Close the active transfer.
+Transform the active field toward phase.
+Then transform it toward phase boundary or output.
+
+Comment:
+
+dan = phase-boundary target
+dar = output target
+
+The difference affects nuance, not the basic structure. Both readings fit a process moving through phase and toward endpoint/output.
+
+f49v.16
+qoteees cheo daiin dol
+
+Token reading:
+
+qoteees
+= q + ot + eee + s
+= initiate highly graded regulated transfer-field
+
+cheo
+= ch + e + o
+= active graded field
+
+daiin
+= transform toward phase
+
+dol
+= d + ol
+= transform into local carrier
+
+Translation:
+
+Initiate a highly graded regulated transfer-field.
+Activate the graded field.
+Transform it toward phase.
+Transform it into local carrier.
+f49v.18
+ochor sheeod ksheo dl
+
+Token reading:
+
+ochor
+= o + ch + o + r
+= field activated toward output
+
+sheeod
+= sh + ee + o + d
+= regulated graded field transformed
+
+ksheo
+= k + sh + e + o
+= stabilized regulated graded field
+
+dl
+= d + l
+= transformation toward local carrier/locality
+
+Translation:
+
+Activate the field toward output.
+Transform the regulated graded field.
+Establish a stabilized regulated graded field.
+Transform it toward local carrier.
+f49v.20
+qo ksho daiin shckhy dar
+
+Token reading:
+
+qo
+= q + o
+= initiate process field
+
+ksho
+= k + sh + o
+= stabilized regulated active field
+
+daiin
+= transformation toward phase
+
+shckhy
+= sh + ckh + y
+= regulated active stabilization closed
+
+dar
+= d + ar
+= transformation toward output/relation
+
+Translation:
+
+Initiate the process field.
+Stabilize the regulated active field.
+Transform it toward phase.
+Close it through regulated stabilization.
+Transform it toward output.
+f49v.22
+dchol cthol daiin choky
+
+Token reading:
+
+dchol
+= d + chol
+= transform active local carrier
+
+cthol
+= cth + ol
+= active transfer into local carrier
+
+daiin
+= transformation toward phase
+
+choky
+= ch + ok + y
+= active stabilized field closed
+
+Translation:
+
+Transform the active local carrier.
+Transfer into local carrier.
+Transform toward phase.
+Close the active stabilized field.
+f49v.24
+ochokeey ckhey daiin dain chokam
+
+Token reading:
+
+ochokeey
+= o + ch + ok + ee + y
+= active stabilized graded field closed
+
+ckhey
+= ckh + e + y
+= active stabilization graded and closed
+
+daiin
+= transformation toward phase
+
+dain
+= transformation toward phase endpoint
+
+chokam
+= ch + ok + am
+= active stabilized field toward terminal base/mass
+
+Translation:
+
+Close the active stabilized graded field.
+Grade and close the active stabilization.
+Transform toward phase.
+Transform toward phase endpoint.
+Move the active stabilized field toward terminal base or residue.
+f49v.26
+qokeol chokeeody otol kchos chol daiin
+
+Witness variants:
+
+F begins with keol instead of qokeol.
+U has kchor instead of kchos.
+
+Token reading:
+
+qokeol
+= q + ok + e + ol
+= initiate stabilized graded local carrier
+
+chokeeody
+= ch + ok + ee + o + d + y
+= active stabilized graded field transformed and closed
+
+otol
+= ot + ol
+= transfer into local carrier
+
+kchos
+= k + ch + o + s
+= stabilized active field regulated/status
+
+chol
+= ch + ol
+= active local carrier
+
+daiin
+= transformation toward phase
+
+Translation:
+
+Initiate a stabilized graded local carrier.
+Transform and close the active stabilized graded field.
+Transfer into local carrier.
+Stabilize the regulated active field.
+Establish active local carrier.
+Transform toward phase.
+f49v.28
+fcho chor shol tchol opcheodal dchsy chotchy
+
+Token reading:
+
+fcho
+= f + ch + o
+= preparatory/material active field
+
+chor
+= ch + o + r
+= active field-output
+
+shol
+= regulated local carrier
+
+tchol
+= t + chol
+= transfer active local carrier
+
+opcheodal
+= op + ch + e + o + d + al
+= procedure/extraction + active graded field + transformation toward local
+
+dchsy
+= d + ch + s + y
+= transform active regulated field to closure
+
+chotchy
+= ch + ot + ch + y
+= active transfer-field actively closed
+
+Translation:
+
+Prepare the active field.
+Route the active field toward output.
+Place it in regulated local carrier.
+Transfer through active local carrier.
+Extract or process the active graded field toward local form.
+Transform the active regulated field to closure.
+Close the active transfer-field.
+f49v.30
+dcho chol chokchodaiin chokchy tchol okcho kol
+
+Token reading:
+
+dcho
+= d + ch + o
+= transform active field
+
+chol
+= active local carrier
+
+chokchodaiin
+= ch + ok + ch + o + daiin
+= active stabilized field transformed toward phase
+
+chokchy
+= ch + ok + ch + y
+= active stabilized field closed
+
+tchol
+= transfer active local carrier
+
+okcho
+= stabilized active field
+
+kol
+= stabilized local carrier
+
+Translation:
+
+Transform the active field.
+Establish active local carrier.
+Transform the active stabilized field toward phase.
+Close the active stabilized field.
+Transfer through active local carrier.
+Stabilize the active field.
+Stabilize the local carrier.
+f49v.32
+tchotchey chokeeo dol rcheey otchodar dcho dchog
+
+Witness variants:
+
+F/G: dchom
+H/C/U: dchog
+
+Token reading:
+
+tchotchey
+= t + ch + ot + ch + e + y
+= transfer active transfer-field, grade, closure
+
+chokeeo
+= ch + ok + ee + o
+= active stabilized graded field
+
+dol
+= transformation into local carrier
+
+rcheey
+= r + ch + ee + y
+= output/relation, active grade, closure
+
+otchodar
+= ot + ch + o + dar
+= transfer active field transformed toward output
+
+dcho
+= transform active field
+
+dchog / dchom
+= transform active field toward uncertain terminal sign / terminal mass
+
+Translation:
+
+Transfer the active transfer-field, grade it, and close it.
+Establish the active stabilized graded field.
+Transform it into local carrier.
+Close the graded active output.
+Transfer the active field toward transformed output.
+Transform the active field.
+Transform the active field toward an uncertain terminal endpoint or mass.
+
+Correction note:
+
+If final m is correct, the token supports terminal mass/base.
+If final g is correct, the terminal value remains unresolved.
+f49v.34
+shocho oaiin sheo choty
+
+Token reading:
+
+shocho
+= sh + o + ch + o
+= regulated active field into active field
+
+oaiin
+= field toward phase
+
+sheo
+= regulated graded field
+
+choty
+= active transfer closure
+
+Translation:
+
+Move the regulated active field into active field.
+Move the field toward phase.
+Establish regulated graded field.
+Close through active transfer.
+f49v.36
+qotcho cheol chol cho chcthey dcheol chotchody
+
+Token reading:
+
+qotcho
+= q + ot + ch + o
+= initiate active transfer-field
+
+cheol
+= ch + e + ol
+= active graded local carrier
+
+chol
+= active local carrier
+
+cho
+= active field
+
+chcthey
+= ch + cth + e + y
+= active transfer graded and closed
+
+dcheol
+= d + ch + e + ol
+= transform active graded local carrier
+
+chotchody
+= ch + ot + ch + o + d + y
+= active transfer-field transformed and closed
+
+Translation:
+
+Initiate the active transfer-field.
+Place it into active graded local carrier.
+Establish active local carrier.
+Establish active field.
+Grade and close the active transfer.
+Transform the active graded local carrier.
+Transform and close the active transfer-field.
+f49v.38
+chokeo sho cheor cheo kchet chor aiin dy daiin qokg
+
+Witness variants:
+
+F/G: qokm
+H/C/U: qokg
+
+Token reading:
+
+chokeo
+= active stabilized graded field
+
+sho
+= regulated active field
+
+cheor
+= active graded field-output
+
+cheo
+= active graded field
+
+kchet
+= stabilized active graded transfer
+
+chor
+= active field-output
+
+aiin
+= toward phase
+
+dy
+= transformation + closure
+
+daiin
+= transformation toward phase
+
+qokg / qokm
+= initiated stabilized field toward uncertain terminal sign / terminal mass
+
+Translation:
+
+Establish active stabilized graded field.
+Regulate the active field.
+Route the active graded field toward output.
+Establish active graded field.
+Stabilize active graded transfer.
+Route the active field toward output.
+Move toward phase.
+Transform and close.
+Transform toward phase.
+Initiate a stabilized terminal or uncertain endpoint field.
+f49v.40
+oaiin chy daiin chol chaiin kshar dy chokchy
+
+Token reading:
+
+oaiin
+= field toward phase
+
+chy
+= active closure
+
+daiin
+= transformation toward phase
+
+chol
+= active local carrier
+
+chaiin
+= active frame toward phase
+
+kshar
+= stabilized regulated output target
+
+dy
+= transformation + closure
+
+chokchy
+= active stabilized field closed
+
+Translation:
+
+Move the field toward phase.
+Close actively.
+Transform toward phase.
+Establish active local carrier.
+Move active frame toward phase.
+Stabilize regulated output.
+Transform and close.
+Close the active stabilized field.
+f49v.42
+qokeaiin cheo chor choteey kcheol dain cho dairin
+
+Witness variants:
+
+C omits initial q: okeaiin.
+G/U: daisin instead of dairin.
+
+Token reading:
+
+qokeaiin
+= q + ok + e + aiin
+= initiate stabilized graded phase
+
+cheo
+= active graded field
+
+chor
+= active field-output
+
+choteey
+= active transfer graded and closed
+
+kcheol
+= stabilized active graded local carrier
+
+dain
+= transformation toward phase endpoint
+
+cho
+= active field
+
+dairin / daisin
+= transformation toward phase-output or regulated phase endpoint
+
+Translation:
+
+Initiate stabilized graded phase.
+Establish active graded field.
+Route active field toward output.
+Grade and close active transfer.
+Stabilize active graded local carrier.
+Transform toward phase endpoint.
+Establish active field.
+Transform toward phase-output or regulated phase endpoint.
+f49v.44
+chokaiin cho dls chariin daiin chain dy chetcho dy
+
+Witness variants:
+
+C: chnkaiin
+U: jls
+
+Token reading:
+
+chokaiin
+= active stabilized field toward phase
+
+cho
+= active field
+
+dls
+= transformation + local carrier + regulation/status
+
+chariin
+= active output/relation toward phase
+
+daiin
+= transformation toward phase
+
+chain
+= active frame toward phase endpoint
+
+dy
+= transformation + closure
+
+chetcho
+= active graded transfer active field
+
+dy
+= transformation + closure
+
+Translation:
+
+Move the active stabilized field toward phase.
+Establish active field.
+Transform through regulated local carrier.
+Move active output toward phase.
+Transform toward phase.
+Move active frame toward phase endpoint.
+Transform and close.
+Transfer through active graded field.
+Transform and close.
+f49v.46
+aiin cheky cho rchs eesy kchor sol chctho
+
+Witness variants:
+
+rchs / rchsh / rchse
+eesy / chsy / esy
+kchor / tchor
+
+Token reading:
+
+aiin
+= toward phase
+
+cheky
+= active graded stabilization closed
+
+cho
+= active field
+
+rchs
+= output/relation + active regulation/status
+
+eesy
+= graded regulation closed
+
+kchor
+= stabilized active field-output
+
+sol
+= regulated local carrier
+
+chctho
+= active transfer field
+
+Translation:
+
+Move toward phase.
+Close active graded stabilization.
+Establish active field.
+Route output through active regulation.
+Close graded regulation.
+Stabilize active output-field.
+Place it in regulated local carrier.
+Establish active transfer-field.
+f49v.48
+qotcheol chey chor chokaly chor dal chaiin
+
+Token reading:
+
+qotcheol
+= initiate transfer into active graded local carrier
+
+chey
+= active grade closed
+
+chor
+= active field-output
+
+chokaly
+= active stabilized field toward local closure
+
+chor
+= active field-output
+
+dal
+= transformation toward local
+
+chaiin
+= active frame toward phase
+
+Translation:
+
+Initiate transfer into active graded local carrier.
+Close the active grade.
+Route the active field toward output.
+Close the active stabilized field toward local form.
+Route the active field toward output again.
+Transform toward local carrier.
+Move active frame toward phase.
+f49v.50
+chol chor ches chkal chy chokeeoky chokoran
+
+Witness variants:
+
+F/G: cher instead of ches
+F: chkaf instead of chkal
+
+Token reading:
+
+chol
+= active local carrier
+
+chor
+= active field-output
+
+ches / cher
+= active grade + regulation or relation/output
+
+chkal
+= active stabilization toward local
+
+chy
+= active closure
+
+chokeeoky
+= active stabilized graded field, stabilized and closed
+
+chokoran
+= active stabilized field-output toward phase boundary
+
+Translation:
+
+Establish active local carrier.
+Route active field toward output.
+Grade and regulate it, or grade it toward relation/output.
+Stabilize it toward local carrier.
+Close actively.
+Stabilize and close the active stabilized graded field.
+Move the active stabilized output-field toward phase boundary.
+f49v.52
+ykchokeo cheey daiin
+
+Witness variant:
+
+C omits daiin.
+
+Token reading:
+
+ykchokeo
+= y + k + ch + ok + e + o
+= closed stabilized active stabilized graded field
+
+cheey
+= active grade closed
+
+daiin
+= transformation toward phase
+
+Translation:
+
+Mark the closed stabilized active graded field.
+Close the active intensified state.
+Transform toward phase.
+
+If C is followed, the page ends on closure/intensification. If H/F/G/U are followed, the page adds a final phase-directed transformation. The majority reading supports daiin.
+
+8. Continuous structural-functional rendering
+
+In continuous functional form, f49v reads as follows:
+
+A stabilized regulated carrier-output process is established.
+A regulated local carrier is prepared.
+An active separated or stabilized carrier is brought to closure.
+
+The stabilized active field is initiated, transformed, regulated, transferred, stabilized, and repeatedly closed.
+
+The process moves through carrier, transfer, output, local carrier, phase transformation, stabilization, and terminal base or residue.
+
+Active transfer fields are opened and closed.
+Stabilized fields are graded.
+Regulated carriers are transformed.
+Outputs are routed.
+Local carriers are fixed.
+Phase endpoints are reached.
+Terminal bases or residues are formed.
+
+The process repeatedly returns to the same functional grammar:
+field -> carrier -> transfer -> stabilization -> regulation -> output -> closure.
+9. Danish functional rendering
+Siden demonstrerer en reguleret herbal/proces-operation.
+
+Først etableres en stabiliseret, reguleret carrier/output-proces.
+Et lokalt carrierfelt reguleres.
+En aktiv separations- eller forberedelsesoperation føres til lukning.
+
+Derefter udfoldes processen i gentagne faser:
+aktive felter åbnes,
+stabiliseres,
+reguleres,
+overføres,
+transformeres,
+føres mod output,
+lukkes,
+og bringes tilbage i carrier- eller faseform.
+
+Billedet viser samme logik:
+en base/root-masse nederst,
+en lodret carrier/stem,
+forgreninger,
+grønne procesfelter,
+hvide åbninger eller kanaler,
+og en øvre index-/outputmarkør.
+
+f49v er derfor ikke blot en opskriftsside.
+Den demonstrerer hvordan herbal/process-regimet skal læses:
+som et system af carrier, field, transfer, stabilization, regulation,
+output, phase, residue/base og closure.
+10. Final interpretation
+
+f49v is the correct opening page for the translation demonstration because it shows the parser in use at three levels:
+
+1. key level:
+   the vertical column exposes operator chains;
+
+2. text level:
+   the running text expands those operators into compact procedural tokens;
+
+3. image level:
+   the plant-like diagram shows the same process as base, carrier, field, aperture, output, and index marker.
+
+The page does not merely contain a drawing and text. It functions as an internal guide to the reading system.
+
+Its main lesson is:
+
+Read this regime as process grammar:
+field, carrier, transfer, stabilization, regulation,
+procedure-initiation, transformation, output, phase, residue/base, and closure.
+
+In that sense, f49v is not only a page to be translated. It is also a page that teaches how translation is to be done.
