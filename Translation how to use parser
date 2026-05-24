@@ -4105,3 +4105,313 @@ a two-folio HERBAL/PROCESS sequence,
 showing how a recipe or procedure can unfold across folio boundaries.
 
 This makes the demonstration stronger than a single-page reading. It shows that the parser is not merely assigning meanings token by token. It is reading a larger process sequence.
+
+
+
+f76r — The Actual BALNEO Marginal Letter-Key Column
+1. Page function
+
+f76r is treated here as the actual BALNEO marginal letter-key page.
+
+This correction is important. The BALNEO section contains more than one key-like or demonstration-like page, but they are not the same kind of key:
+
+f75v = preceding BALNEO demonstration / test sequence
+f76r = actual BALNEO marginal letter-key column
+f83v = visual BALNEO fractionation demonstration
+
+Thus, f76r is the proper page to use as the BALNEO grammatical key in this translation-demonstration paper. f75v and f83v remain important, but they are not the primary letter-key column.
+
+f76r functions as a regime-specific reading guide. It shows how the same primitive operator inventory is reorganized in BALNEO mode: status, transformation, process initiation, field, carrier, stabilization, output, and final status.
+
+2. The f76r marginal key sequence
+
+The f76r left-margin labels are transcribed separately from the main running text as f76r.L. The witnesses agree strongly on the sequence, with one important ambiguity at label 24, where most witnesses read r while C reads k.
+
+Working sequence:
+
+s -> d -> q -> s -> o -> l -> k -> r/k -> s
+
+Preferred H-based reading:
+
+s -> d -> q -> s -> o -> l -> k -> r -> s
+
+The r/k ambiguity must not be silently normalized. It should be recorded explicitly:
+
+f76r.L.24 = r in H/F/V/U; k in C
+preferred = r
+status = witness ambiguity / possible graphic confusion
+
+The preferred reading is r, because the majority witnesses support it and because its position is structurally coherent: it follows local carrier + stabilization and precedes final status marking.
+
+3. Operator-by-operator reading
+s = regulated/status marker
+
+d = transformation / processing
+
+q = strong external initiation / process start / flow start
+
+s = regulated/status marker
+
+o = process field / node-base
+
+l = local carrier / locality
+
+k = stabilization / fixation
+
+r = output / relation
+
+s = final regulated/status marker
+
+Full structural sequence:
+
+s -> d -> q -> s -> o -> l -> k -> r -> s
+
+Structural-functional reading:
+
+regulated/status frame
+-> transformation
+-> strong process initiation
+-> regulated process field
+-> local carrier
+-> stabilization
+-> output/relation
+-> final regulated/status tag
+
+Plain functional rendering:
+
+A regulated transformation is initiated as an active BALNEO process.
+The process enters a regulated field, moves into local carrier,
+is stabilized, routed toward output/relation,
+and marked with final regulated status.
+
+More compactly:
+
+regulated transformation
+-> initiation
+-> regulated field
+-> carrier
+-> stabilization
+-> output
+-> final status
+4. Why q is diagnostic here
+
+The placement of q is especially important.
+
+The model assigns:
+
+q = strong external initiation / process start / flow start
+
+In the f76r BALNEO key, q does not appear randomly. It appears exactly where an initiation operator should appear:
+
+s -> d -> q -> s -> o -> l -> k -> r -> s
+
+That is:
+
+regulated/status
+-> transformation
+-> strong process initiation
+-> regulated process field
+-> local carrier
+-> stabilization
+-> output
+-> final status
+
+This is highly diagnostic. q appears after d transformation and before the regulated process-field/carrier/stabilization/output structure. In other words, it marks the point where the transformed state becomes an active BALNEO process.
+
+This supports the interpretation of q as a strong process-initiation operator, not as a freely distributed phonetic character.
+
+5. Why s frames the BALNEO key
+
+The sequence begins and ends with s:
+
+s -> ... -> s
+
+This is important because BALNEO does not always use y as the dominant final marker in the same way as PROCESS key environments such as f49v. In BALNEO, the relevant closure or boundary logic is often status/regulation rather than simple process-final closure.
+
+Thus:
+
+y = closure / finalization, especially in PROCESS-style closure chains
+
+s = regulated/status marker, especially important in BALNEO
+
+The f76r sequence therefore shows regime-specific grammar. It does not contradict the y closure rule. It demonstrates that BALNEO uses the same operator inventory under a different regime dispatcher.
+
+In BALNEO, the process is not merely “closed”; it is brought into a regulated/status state.
+
+6. Why the r/k ambiguity matters
+
+The ambiguous position is:
+
+s -> d -> q -> s -> o -> l -> k -> r/k -> s
+
+If the sign is read as k, the sequence becomes:
+
+local carrier
+-> stabilization
+-> stabilization
+-> final status
+
+If read as r, it becomes:
+
+local carrier
+-> stabilization
+-> output/relation
+-> final status
+
+The preferred reading is r:
+
+s -> d -> q -> s -> o -> l -> k -> r -> s
+
+because it produces the expected operational path:
+
+carrier
+-> stabilization
+-> output
+-> final regulated status
+
+This is also visually and functionally appropriate for BALNEO, where carrier/reservoir systems produce routed outputs, flows, fractions, or status-marked results.
+
+The ambiguity should still remain documented. It is not a free correction. It is a witness-based preference.
+
+7. Full BALNEO key translation
+
+The f76r BALNEO marginal key can be translated as:
+
+Regulate the process state.
+Transform it.
+Initiate the active process flow.
+Place it under regulated status.
+Enter the process field.
+Move into the local carrier.
+Stabilize the carrier state.
+Route it toward output or relation.
+Mark the final regulated status.
+
+Continuous rendering:
+
+A regulated state is transformed and then initiated as an active BALNEO process. 
+The initiated process enters a regulated field, passes into local carrier, is stabilized, 
+is routed toward output/relation, and ends as a regulated status-marked result.
+
+Technical rendering:
+
+regulated status
+-> transformation
+-> initiation
+-> regulated field
+-> carrier
+-> stabilization
+-> output
+-> status
+8. Why f76r is the correct BALNEO key
+
+f76r is the correct BALNEO key because it displays primitive operators vertically as marginal labels. It is not merely a visual scene, and it is not ordinary running text. It behaves like a BALNEO-specific operator column that teaches how the main text should be segmented by process role.
+
+Its structure is compact, but complete:
+
+s = status/regulation
+d = transformation
+q = initiation
+o = field
+l = carrier
+k = stabilization
+r = output
+s = final status
+
+This is exactly the kind of sequence expected if BALNEO pages encode hydraulic/reservoir/carrier procedures rather than ordinary bathing scenes.
+
+The page therefore demonstrates a regime-specific grammar:
+
+BALNEO = regulated transformation + process initiation + carrier-field flow + stabilization + output/status
+Comments on f75v and f83v
+f75v — preceding demonstration / test sequence
+
+f75v should not be treated as the actual BALNEO letter-key column. It is better understood as a preceding demonstration or test sequence.
+
+Its key-like sequence is:
+
+s -> l -> l -> o -> r -> s?
+
+Structural-functional reading:
+
+regulated/status marker
+-> local carrier
+-> repeated local carrier
+-> process field
+-> output/relation
+-> possible final regulated/status tag
+
+Plain rendering:
+
+A regulated carrier-field is demonstrated through repeated local carrier, process field, output/relation, and possible final status marking.
+
+f75v therefore prepares the BALNEO logic, but it does not replace f76r as the actual marginal letter-key.
+
+In this side paper, f75v should be described as:
+
+a preceding BALNEO demonstration / control environment
+
+not as the primary key.
+
+f83v — visual fractionation demonstration
+
+f83v should also not be treated as the actual BALNEO letter-key column.
+
+It is better understood as a visual demonstration of BALNEO fractionation:
+
+woman/vessel node
+-> green carrier reservoir
+-> scale/filter membrane
+-> liquid streams + discrete circle outputs
+-> green carrier reservoir
+-> woman/vessel node
+
+Structural-functional reading:
+
+local process node
+-> carrier reservoir
+-> separator/filter interface
+-> liquid transfer
+-> discrete fraction output
+-> carrier reservoir
+-> local process node
+
+f83v therefore functions as a visual control page. It shows how BALNEO diagrams encode reservoirs, separators, waves/flow, and circle outputs. It supports the same grammar as f76r, but it is not itself the letter-key column.
+
+In this side paper, f83v should be described as:
+
+a visual BALNEO fractionation demonstration / diagrammatic control
+
+not as the primary key.
+
+BALNEO key conclusion
+
+The correct BALNEO key is f76r.
+
+Its sequence:
+
+s -> d -> q -> s -> o -> l -> k -> r -> s
+
+gives a compact regime-specific grammar:
+
+regulated transformation
+-> strong initiation
+-> regulated field
+-> local carrier
+-> stabilization
+-> output/relation
+-> final status
+
+This is a strong confirmation of the parser because the operators appear in the expected order for a BALNEO process. Especially important is the placement of q: it occurs exactly where a strong process-initiation operator should occur, after transformation and before the regulated field/carrier/stabilization/output sequence.
+
+The final result is:
+
+f76r = actual BALNEO marginal letter-key column
+f75v = preceding BALNEO demonstration/test sequence
+f83v = visual BALNEO fractionation/control demonstration
+
+This distinction strengthens the model because the three pages do not have to be forced into the same category. They form a coherent BALNEO system:
+
+f75v prepares/demonstrates carrier-status logic.
+f76r gives the actual operator key.
+f83v visually demonstrates fractionation and carrier-output behavior.
