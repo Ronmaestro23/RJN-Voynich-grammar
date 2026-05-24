@@ -151,17 +151,75 @@ The key page explains how the system is used. The other pages show that the syst
 
 ---
 
-# 5. Demonstration I: f49v — PROCESS/operator key
+# 5. Demonstration I: f49v — HERBAL/PROCESS grammatical key
 
 ## 5.1 Regime
 
-PROCESS / operator demonstration.
+HERBAL/PROCESS reading key: vertical operator grammar beside running corpus text.
 
-## 5.2 Why this folio was selected
+## 5.2 Why this folio comes first
 
-f49v is selected because it appears to expose the closure grammar directly. It contains a numbered 1–5 structure corresponding to five y-closed vertical operator chains. The value of y as closure was derived before f49v was interpreted in this way; f49v therefore functions as a confirmation environment rather than the origin of the rule.
+f49v should open the translation demonstration because it explains how the parser is to be used on ordinary herbal/process pages. It is not treated as a normal recipe page. It is treated as an internal grammatical key: a vertical sequence of operator labels placed beside ordinary manuscript text.
 
-## 5.3 Vertical operator chains
+The function of the page is therefore practical. It appears to remind an initiated reader how to read compact tokens in this regime: preparation/variant, process field, output/relation, closure, active frame, stabilization, regulation, procedure-initiation, and transformation.
+
+This makes f49v the natural bridge between the parser paper and the first normal herbal-page translation.
+
+## 5.3 Transcription status of the vertical column
+
+The vertical column is not completely uniform across modern transcriptions. Individual glyph readings differ in a few places. In particular, Stolfi/Zandbergen-style readings do not always agree on whether a glyph should be read as `e`, `ch`, `s`, `p`, or another close form in the column.
+
+This uncertainty must be recorded explicitly. The present reading does not silently normalize the column. It uses the following rule:
+
+```text
+A vertical-column glyph may be preferred when:
+1. it fits the visible glyph form;
+2. it fits the local vertical sequence;
+3. it fits an already established operator value;
+4. it completes one of the five closure-delimited chains;
+5. it does not require changing the operator meaning ad hoc.
+```
+
+Thus, the page is not used as a free source for inventing new meanings. It is used as a confirmation environment for meanings already derived from the corpus-level parser.
+
+## 5.4 Raw vertical-column record
+
+The working record of the f49v vertical column is:
+
+```text
+1   f49v.2      f / p
+2   f49v.4   1  o
+3   f49v.6   2  r
+4   f49v.8   3  y
+5   f49v.10  4  e / ch
+6   f49v.12  5  o
+7   f49v.14     k
+8   f49v.16     s
+9   f49v.18     p
+10  f49v.20     o
+11  f49v.22     r
+12  f49v.24     y
+13  f49v.26     e / ch
+14  f49v.28     o?
+15  f49v.30     s?
+16  f49v.32     p
+17  f49v.34     o
+18  f49v.36     r
+19  f49v.38     y
+20  f49v.40     ch
+21  f49v.42     o
+22  f49v.44     d
+23  f49v.46     y
+24  f49v.48     ch / e / s
+25  f49v.50     k
+26  f49v.52     y
+```
+
+The numbered markers 1–5 are significant because they align with the five closure-delimited operator chains. The column is therefore not read as a random vertical list, but as a numbered grammatical demonstration.
+
+## 5.5 Preferred five-chain grammatical reading
+
+Despite local glyph uncertainty, the column resolves into five coherent closure-delimited chains:
 
 ```text
 1. f  -> o -> r -> y
@@ -171,23 +229,100 @@ f49v is selected because it appears to expose the closure grammar directly. It c
 5. ch -> k -> y
 ```
 
-## 5.4 Structural-functional translation
+A slightly conservative notation should retain the uncertain first signs where relevant:
 
 ```text
-1. variant/preparation -> field -> output/relation -> closure
-2. active frame -> field -> stabilize -> regulate -> procedure-init -> field -> output/relation -> closure
-3. grade/intensity -> field -> regulate -> procedure-init -> field -> output/relation -> closure
-4. active frame -> field -> transform/process -> closure
-5. active frame -> stabilize/fix -> closure
+1. f/p -> o -> r -> y
+2. e/ch -> o -> k -> s -> p -> o -> r -> y
+3. e/ch -> o? -> s? -> p -> o -> r -> y
+4. ch -> o -> d -> y
+5. ch/e/s -> k -> y
 ```
 
-## 5.5 Plain functional rendering
+However, the functional structure remains stable because the chains still terminate in `y`, and the internal operators fall into already established roles: field, output, stabilization, regulation, procedure-initiation, and transformation.
 
-The page demonstrates five completed process chains. Each chain presents a short operator path and terminates in y, the closure/finalization operator. The first chain moves from preparatory/variant initiation through field and output to closure. The second and third chains demonstrate regulated field-output procedures. The fourth chain demonstrates active transformation to closure. The fifth chain demonstrates active stabilization to closure.
+## 5.6 Structural-functional translation
 
-## 5.6 Demonstration value
+```text
+1. f/p -> o -> r -> y
+   preparation/variant or procedure-initiation
+   -> process field
+   -> output/relation
+   -> closure
 
-This page shows that y is not merely a frequent final sign. It functions as the explicit closure of completed operator chains. The numbered structure strengthens the reading because the page appears to expose five closure-delimited demonstrations in a visible sequence.
+2. ch -> o -> k -> s -> p -> o -> r -> y
+   active frame
+   -> process field
+   -> stabilization
+   -> regulation/status
+   -> procedure-initiation
+   -> process field
+   -> output/relation
+   -> closure
+
+3. e -> o -> s -> p -> o -> r -> y
+   grade/intensity
+   -> process field
+   -> regulation/status
+   -> procedure-initiation
+   -> process field
+   -> output/relation
+   -> closure
+
+4. ch -> o -> d -> y
+   active frame
+   -> process field
+   -> transformation/processing
+   -> closure
+
+5. ch -> k -> y
+   active frame
+   -> stabilization/fixation
+   -> closure
+```
+
+## 5.7 Plain functional rendering
+
+The page demonstrates five completed process chains.
+
+The first chain presents a simple preparation or procedure-start entering a process field, moving to output/relation, and closing. The second chain presents an active regulated procedure: an active frame enters a field, stabilizes it, regulates it, initiates a procedure, returns to a field, routes to output, and closes. The third chain presents a graded or intensified regulated procedure moving through field, procedure, output, and closure. The fourth chain presents active transformation inside a field followed by closure. The fifth chain presents active stabilization followed by closure.
+
+In plain terms, f49v says something like:
+
+```text
+Here are the basic process-chain forms for this regime:
+prepare or initiate a field and close it through output;
+activate, stabilize, regulate, operate, output, and close;
+grade, regulate, operate, output, and close;
+activate and transform a field to closure;
+activate and stabilize to closure.
+```
+
+## 5.8 Why this helps the herbal reading
+
+f49v is not simply another page to be translated. It is a reading aid for the surrounding regime. It shows how the manuscript expects tokens and sequences to be understood in this section.
+
+The key point is that the vertical column does not provide ordinary word meanings. It provides operator logic. Once the reader understands that the glyphs are process operators rather than alphabetic letters, the column becomes a compact guide to how ordinary herbal/process tokens should be read.
+
+This is why f49v should be followed immediately by a normal herbal folio in this side paper. The sequence of the demonstration should be:
+
+```text
+f49v = how to read the operator grammar
+normal herbal page = the operator grammar used in an actual recipe/process page
+```
+
+## 5.9 Demonstration value
+
+f49v supports the model in four ways:
+
+```text
+1. It exposes primitive and macro operators in vertical form.
+2. It organizes them into five closure-delimited chains.
+3. It aligns those chains with numbered structure.
+4. It uses the same operator values that the parser derives from the corpus.
+```
+
+The page therefore functions as an internal grammatical key. It does not create the parser values; it confirms and demonstrates them.
 
 ---
 
