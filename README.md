@@ -2,6 +2,14 @@
 Full decipherment with grammar on all sections
 # Recursive Structural Decipherment of Voynichese
 
+## Core reading principle
+
+**Voynich tokens are not words.  
+They are compressed operator-chains functioning as procedural instructions.**
+
+Voynichese is therefore not decoded word-by-word.  
+It is parsed sequence-by-sequence through a structural-functional operator grammar.
+
 ## A Hierarchical Functional Process-Operator Grammar
 
 This repository presents a mathematically and statistically derived structural decipherment of Voynichese as a recursive hierarchical process-operator grammar.
