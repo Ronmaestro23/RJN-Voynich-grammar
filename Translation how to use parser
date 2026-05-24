@@ -7821,3 +7821,1866 @@ procedure
 -> terminal mass / closure
 
 This makes f105v an essential final test case. It shows that the parser is not simply matching drawings. It is reading a compressed structural-functional notation system.
+
+f105v — Strict Parser Translation
+Mechanical structural-functional parse
+Method note
+
+This section gives the strict parser-level translation of f105v.
+
+The purpose is not to produce smooth prose. The purpose is to show that the same operator values are applied consistently across the STAR/TEXT section.
+
+The following fixed operator values are used:
+
+q  = strong initiation / process start
+p  = procedure / procedural initiation
+f  = preparation / variant preparation
+o  = process field / field-base
+a  = toward / into / transition
+d  = transformation / processing
+y  = closure / boundary / completed state
+e  = grade / intensity / internal differentiation
+i  = phase marker
+n  = phase endpoint
+l  = local carrier / locality
+r  = output / relation
+m  = terminal mass / base / residue
+k  = stabilization / fixation
+t  = transfer / routing
+s  = regulated/status marker
+h  = activation / execution / internal activation binder
+ch = active coupled frame
+sh = regulated activation / status-activation
+x  = separator / boundary / split marker
+
+Macro-family readings:
+
+aiin  = toward phase / phase sequence
+daiin = transformation toward phase
+dy    = transformation closure
+dal   = transformation toward local carrier
+dol   = transformation into local carrier
+dar   = transformation toward output/relation
+am    = terminal mass/base
+om    = terminal field/mass
+air   = phase-output relation
+ar    = output target
+or    = output/relation field
+ot    = transfer field
+ok    = stabilized field
+ol    = local carrier field
+op    = procedure/extraction field
+qok   = initiated stabilized field
+qot   = initiated transfer field
+qop   = initiated procedure field
+f105v.1
+polairy oair olpcheey ykaiin olpchedy opchedaiin dairody ypcheddy sairy
+
+Strict parse:
+
+polairy     = p + ol + air + y
+            = procedure + local carrier + phase-output relation + closure
+
+oair        = o + air
+            = process field + phase-output relation
+
+olpcheey    = ol + p + ch + ee + y
+            = local carrier + procedure + active grade + closure
+
+ykaiin      = y + k + aiin
+            = closed + stabilized + phase sequence
+
+olpchedy    = ol + p + ch + e + dy
+            = local carrier + procedure + active grade + transformation closure
+
+opchedaiin  = op + ch + e + daiin
+            = procedure field + active grade + transformation toward phase
+
+dairody     = d + ai + r + o + dy
+            = transformation + phase + output + field + transformation closure
+
+ypcheddy    = y + p + ch + e + dy
+            = closed + procedure + active grade + transformation closure
+
+sairy       = s + air + y
+            = regulated/status + phase-output relation + closure
+
+Mechanical translation:
+
+procedure-local-carrier phase-output closed;
+field phase-output;
+local procedural active-grade closed;
+closed stabilized phase;
+local procedural active transformation closed;
+procedure-field active-grade transformed toward phase;
+phase-output field transformed and closed;
+closed procedural active transformation;
+regulated phase-output closed.
+f105v.2
+ysheod ykeeedy keshed qodaiin oteodair or chkas otaiin chpor or otchy otor
+
+Strict parse:
+
+ysheod     = y + sh + e + o + d
+           = closed + regulated activation + grade + field + transformation
+
+ykeeedy    = y + k + eee + dy
+           = closed + stabilized grade + transformation closure
+
+keshed     = k + e + sh + e + d
+           = stabilized + grade + regulated activation + grade + transformation
+
+qodaiin    = q + o + daiin
+           = initiate + field + transformation toward phase
+
+oteodair   = ot + e + o + d + air
+           = transfer field + grade + field + transformation + phase-output relation
+
+or         = output/relation
+
+chkas      = ch + k + a + s
+           = active frame + stabilization + toward + status
+
+otaiin     = ot + aiin
+           = transfer field toward phase
+
+chpor      = ch + p + or
+           = active frame + procedure + output/relation
+
+or         = output/relation
+
+otchy      = ot + ch + y
+           = transfer field + active frame + closure
+
+otor       = ot + or
+           = transfer field + output/relation
+
+Mechanical translation:
+
+closed regulated active graded field transformed;
+closed stabilized grade transformed and closed;
+stabilized regulated grade transformed;
+initiate field-transformation toward phase;
+transfer-field graded transformation toward phase-output;
+output/relation;
+active stabilized status;
+transfer field toward phase;
+active procedural output;
+output/relation;
+active transfer-field closed;
+transfer field to output/relation.
+f105v.3
+dshedy qoedaiin ytoiin okair qotol dol okoldy qokedy opched oteedy qotaiin
+
+Strict parse:
+
+dshedy    = d + sh + e + dy
+          = transformation + regulated activation + grade + transformation closure
+
+qoedaiin  = q + o + e + daiin
+          = initiate + field + grade + transformation toward phase
+
+ytoiin    = y + t + o + iin
+          = closed + transfer + field + phase sequence
+
+okair     = ok + air
+          = stabilized field + phase-output relation
+
+qotol     = q + ot + ol
+          = initiate + transfer field + local carrier
+
+dol       = d + ol
+          = transform into local carrier
+
+okoldy    = ok + ol + dy
+          = stabilized field + local carrier + transformation closure
+
+qokedy    = q + ok + e + dy
+          = initiate + stabilized field + grade + transformation closure
+
+opched    = op + ch + e + d
+          = procedure field + active grade + transformation
+
+oteedy    = ot + ee + dy
+          = transfer field + grade + transformation closure
+
+qotaiin   = q + ot + aiin
+          = initiate + transfer field + phase sequence
+
+Mechanical translation:
+
+regulated active transformation closed;
+initiated graded field transformed toward phase;
+closed transfer-field phase sequence;
+stabilized phase-output field;
+initiated transfer into local carrier;
+transformed into local carrier;
+stabilized local carrier transformed and closed;
+initiated stabilized graded transformation closed;
+procedure-field active transformation;
+transfer-field graded transformation closed;
+initiated transfer-field toward phase.
+f105v.4
+olkeeol orchsey qokeedy chdor olar ol keeol chedaiin
+
+Strict parse:
+
+olkeeol   = ol + k + ee + ol
+          = local carrier + stabilization + grade + local carrier
+
+orchsey   = or + ch + s + e + y
+          = output/relation + active frame + status + grade + closure
+
+qokeedy   = q + ok + ee + dy
+          = initiate + stabilized field + grade + transformation closure
+
+chdor     = ch + d + or
+          = active frame + transformation + output/relation
+
+olar      = ol + ar
+          = local carrier + output target
+
+ol        = local carrier
+
+keeol     = k + ee + ol
+          = stabilized grade + local carrier
+
+chedaiin  = ch + e + daiin
+          = active grade + transformation toward phase
+
+Mechanical translation:
+
+local carrier stabilized into graded local carrier;
+output/relation active-status grade closed;
+initiated stabilized graded transformation closed;
+active transformation toward output;
+local carrier output-target;
+local carrier;
+stabilized graded local carrier;
+active graded transformation toward phase.
+f105v.5
+pchedal qopchdy daiin chedy daiin okaildy opchedaiin opcheo olkeedy sairom
+
+Strict parse:
+
+pchedal      = p + ch + e + dal
+             = procedure + active grade + transform toward local carrier
+
+qopchdy      = q + op + ch + dy
+             = initiate + procedure field + active frame + transformation closure
+
+daiin        = transformation toward phase
+
+chedy        = ch + e + dy
+             = active grade + transformation closure
+
+daiin        = transformation toward phase
+
+okaildy      = ok + ai + l + dy
+             = stabilized field + phase + local carrier + transformation closure
+
+opchedaiin   = op + ch + e + daiin
+             = procedure field + active grade + transformation toward phase
+
+opcheo       = op + ch + e + o
+             = procedure field + active grade + field
+
+olkeedy      = ol + k + ee + dy
+             = local carrier + stabilization + grade + transformation closure
+
+sairom       = s + air + om
+             = regulated/status + phase-output relation + terminal field/mass
+
+Mechanical translation:
+
+procedural active-grade transformation toward local carrier;
+initiated procedure-field active transformation closed;
+transformation toward phase;
+active graded transformation closed;
+transformation toward phase;
+stabilized phase-local transformation closed;
+procedure-field active transformation toward phase;
+procedure-field active graded field;
+local carrier stabilized graded transformation closed;
+regulated phase-output terminal mass.
+f105v.6
+dcheo fcheeody ckheey dar aiin al dar ar daiiidy otedy oteody ytaiin
+
+Strict parse:
+
+dcheo      = d + ch + e + o
+           = transformation + active grade + field
+
+fcheeody   = f + ch + ee + o + dy
+           = preparation + active grade + field + transformation closure
+
+ckheey     = ckh + ee + y
+           = active stabilization + grade + closure
+
+dar        = transformation toward output/relation
+
+aiin       = toward phase
+
+al         = toward local carrier
+
+dar        = transformation toward output/relation
+
+ar         = output target
+
+daiiidy    = d + aiii + dy
+           = transformation toward extended phase + transformation closure
+
+otedy      = ot + e + dy
+           = transfer field + grade + transformation closure
+
+oteody     = ot + e + o + dy
+           = transfer field + grade + field + transformation closure
+
+ytaiin     = y + t + aiin
+           = closed + transfer + phase sequence
+
+Mechanical translation:
+
+active field transformed;
+preparatory active graded field transformed and closed;
+active stabilization grade closed;
+transformed toward output;
+toward phase;
+toward local carrier;
+transformed toward output;
+output target;
+extended phase transformation closed;
+transfer-field graded transformation closed;
+transfer-field graded field transformed and closed;
+closed transfer toward phase.
+f105v.7
+ycheeo lkaiin otair ol olkaiin okairody lchedr
+
+Strict parse:
+
+ycheeo     = y + ch + ee + o
+           = closed + active grade + field
+
+lkaiin     = l + k + aiin
+           = local carrier + stabilization + phase sequence
+
+otair      = ot + air
+           = transfer field + phase-output relation
+
+ol         = local carrier
+
+olkaiin    = ol + k + aiin
+           = local carrier + stabilization + phase sequence
+
+okairody   = ok + air + o + dy
+           = stabilized field + phase-output relation + field + transformation closure
+
+lchedr     = l + ch + e + d + r
+           = local carrier + active grade + transformation + output/relation
+
+Mechanical translation:
+
+closed active graded field;
+local stabilized phase sequence;
+transfer-field phase-output relation;
+local carrier;
+local carrier stabilized phase sequence;
+stabilized phase-output field transformed and closed;
+local active-grade transformation toward output/relation.
+f105v.8
+fodal kedar olpchesd araiin ksheeol opchedy pchedy opcheddl pchdar air odar
+
+Strict parse:
+
+fodal      = f + o + dal
+           = preparation + field + transform toward local carrier
+
+kedar      = k + e + dar
+           = stabilization + grade + transform toward output
+
+olpchesd   = ol + p + ch + e + s + d
+           = local carrier + procedure + active grade + status + transformation
+
+araiin     = ar + aiin
+           = output target + phase sequence
+
+ksheeol    = k + sh + ee + ol
+           = stabilization + regulated activation + grade + local carrier
+
+opchedy    = op + ch + e + dy
+           = procedure field + active grade + transformation closure
+
+pchedy     = p + ch + e + dy
+           = procedure + active grade + transformation closure
+
+opcheddl   = op + ch + e + d + dl
+           = procedure field + active grade + transformation + local transformation
+
+pchdar     = p + ch + dar
+           = procedure + active frame + transformation toward output
+
+air        = phase-output relation
+
+odar       = o + dar
+           = field + transformation toward output
+
+Mechanical translation:
+
+preparatory field transformed toward local carrier;
+stabilized graded transformation toward output;
+local procedural active-status transformation;
+output target toward phase;
+stabilized regulated local carrier;
+procedure-field active transformation closed;
+procedural active transformation closed;
+procedure-field active local transformation;
+procedural active transformation toward output;
+phase-output relation;
+field transformed toward output.
+f105v.9
+lcheey qoeees daiin okairy otchedy ockhedy otchey daiin or ai ookam
+
+Strict parse:
+
+lcheey    = l + ch + ee + y
+          = local carrier + active grade + closure
+
+qoeees    = q + o + eee + s
+          = initiate + field + grade + status
+
+daiin     = transformation toward phase
+
+okairy    = ok + air + y
+          = stabilized field + phase-output relation + closure
+
+otchedy   = ot + ch + e + dy
+          = transfer field + active grade + transformation closure
+
+ockhedy   = o + ckh + e + dy
+          = field + active stabilization + grade + transformation closure
+
+otchey    = ot + ch + e + y
+          = transfer field + active grade + closure
+
+daiin     = transformation toward phase
+
+or        = output/relation
+
+ai        = toward phase
+
+ookam     = o + ok + am
+          = field + stabilized field + terminal mass
+
+Mechanical translation:
+
+local active grade closed;
+initiated graded status field;
+transformation toward phase;
+stabilized phase-output field closed;
+transfer-field active transformation closed;
+field active-stabilized transformation closed;
+transfer-field active grade closed;
+transformation toward phase;
+output/relation;
+toward phase;
+stabilized field terminal mass.
+f105v.10
+ykeey ky che oiiin dal kaiin okairo lkair chedy sodar air al oral odam
+
+Strict parse:
+
+ykeey    = y + k + ee + y
+         = closed + stabilized grade + closure
+
+ky       = k + y
+         = stabilization + closure
+
+che      = ch + e
+         = active grade
+
+oiiin    = o + iiin
+         = field + extended phase sequence
+
+dal      = transformation toward local carrier
+
+kaiin    = k + aiin
+         = stabilized phase sequence
+
+okairo   = ok + air + o
+         = stabilized field + phase-output relation + field
+
+lkair    = l + k + air
+         = local carrier + stabilization + phase-output relation
+
+chedy    = ch + e + dy
+         = active grade + transformation closure
+
+sodar    = s + o + dar
+         = status + field + transformation toward output
+
+air      = phase-output relation
+
+al       = toward local carrier
+
+oral     = or + al
+         = output/relation + toward local carrier
+
+odam     = o + dam
+         = field + transformation toward terminal mass/base
+
+Mechanical translation:
+
+closed stabilized grade closed;
+stabilization closed;
+active grade;
+field extended phase sequence;
+transform toward local carrier;
+stabilized phase sequence;
+stabilized phase-output field;
+local stabilized phase-output relation;
+active transformation closed;
+status-field transformed toward output;
+phase-output relation;
+toward local carrier;
+output/relation toward local carrier;
+field transformed toward terminal mass.
+f105v.11
+roees aiiin ol okaiin os aiin chckhoda qoteedy ckhddl aiis opar kaiishdy
+
+Strict parse:
+
+roees      = r + o + eee + s
+           = output/relation + field + grade + status
+
+aiiin      = toward extended phase
+
+ol         = local carrier
+
+okaiin     = ok + aiin
+           = stabilized field + phase sequence
+
+os         = field + status
+
+aiin       = toward phase
+
+chckhoda   = ch + ckh + o + d + a
+           = active frame + active stabilization + field + transformation + toward
+
+qoteedy    = q + ot + ee + dy
+           = initiate + transfer field + grade + transformation closure
+
+ckhddl     = ckh + d + dl
+           = active stabilization + transformation + local transformation
+
+aiis       = phase/status
+
+opar       = op + ar
+           = procedure field + output target
+
+kaiishdy   = k + aiis + h + dy
+           = stabilized phase/status + activation + transformation closure
+
+Mechanical translation:
+
+output-field graded status;
+toward extended phase;
+local carrier;
+stabilized phase field;
+field status;
+toward phase;
+active stabilized field transformed toward;
+initiated transfer-field graded transformation closed;
+active-stabilized local transformation;
+phase/status;
+procedure-output target;
+stabilized phase-status activated and transformed closed.
+f105v.12
+ysheedy aiin okeol ykedor ar ar alkair otos otaiin otal tair am
+
+Strict parse:
+
+ysheedy   = y + sh + ee + dy
+          = closed + regulated activation + grade + transformation closure
+
+aiin      = toward phase
+
+okeol     = ok + e + ol
+          = stabilized field + grade + local carrier
+
+ykedor    = y + k + e + dor
+          = closed + stabilized grade + transformation toward output/relation
+
+ar        = output target
+
+ar        = output target
+
+alkair    = al + k + air
+          = toward local + stabilization + phase-output relation
+
+otos      = ot + o + s
+          = transfer field + field + status
+
+otaiin    = ot + aiin
+          = transfer field toward phase
+
+otal      = ot + al
+          = transfer field toward local carrier
+
+tair      = t + air
+          = transfer + phase-output relation
+
+am        = terminal mass/base
+
+Mechanical translation:
+
+closed regulated graded transformation;
+toward phase;
+stabilized graded local carrier;
+closed stabilized transformation toward output;
+output target;
+output target;
+toward local stabilized phase-output relation;
+transfer-field status;
+transfer-field toward phase;
+transfer-field toward local carrier;
+transfer phase-output relation;
+terminal mass.
+f105v.13
+saiin opchedy qokchdy otar al kair okees lkeedal
+
+Strict parse:
+
+saiin     = s + aiin
+          = regulated/status + phase sequence
+
+opchedy   = op + ch + e + dy
+          = procedure field + active grade + transformation closure
+
+qokchdy   = q + ok + ch + dy
+          = initiate + stabilized field + active frame + transformation closure
+
+otar      = ot + ar
+          = transfer field + output target
+
+al        = toward local carrier
+
+kair      = k + air
+          = stabilized phase-output relation
+
+okees     = ok + ee + s
+          = stabilized field + grade + status
+
+lkeedal   = l + k + ee + dal
+          = local carrier + stabilization + grade + transform toward local carrier
+
+Mechanical translation:
+
+regulated phase sequence;
+procedure-field active transformation closed;
+initiated stabilized active transformation closed;
+transfer-field toward output;
+toward local carrier;
+stabilized phase-output relation;
+stabilized graded status field;
+local stabilized graded transformation toward local carrier.
+f105v.14
+pchedaiin chckhdy qokaiir olpchedy olord aiiin kail odar kard chtchy
+
+Strict parse:
+
+pchedaiin  = p + ch + e + daiin
+            = procedure + active grade + transformation toward phase
+
+chckhdy    = ch + ckh + dy
+            = active frame + active stabilization + transformation closure
+
+qokaiir    = q + ok + aiir
+            = initiate + stabilized field + phase-output relation
+
+olpchedy   = ol + p + ch + e + dy
+            = local carrier + procedure + active grade + transformation closure
+
+olord      = ol + or + d
+            = local carrier + output/relation + transformation
+
+aiiin      = toward extended phase
+
+kail       = k + ai + l
+            = stabilization + phase + local carrier
+
+odar       = o + dar
+            = field + transformation toward output
+
+kard       = k + ar + d
+            = stabilization + output target + transformation
+
+chtchy     = ch + t + ch + y
+            = active frame + transfer + active frame + closure
+
+Mechanical translation:
+
+procedural active transformation toward phase;
+active-stabilized transformation closed;
+initiated stabilized phase-output field;
+local procedural active transformation closed;
+local carrier output/relation transformed;
+toward extended phase;
+stabilized phase-local carrier;
+field transformed toward output;
+stabilized output target transformed;
+active transfer-frame closed.
+f105v.15
+ycheey kar ykeey otaiin otal dar chdos kal chedy opchdy daiin oraiin
+
+Strict parse:
+
+ycheey   = y + ch + ee + y
+         = closed + active grade + closure
+
+kar      = k + ar
+         = stabilized output target
+
+ykeey    = y + k + ee + y
+         = closed + stabilized grade + closure
+
+otaiin   = ot + aiin
+         = transfer field toward phase
+
+otal     = ot + al
+         = transfer field toward local carrier
+
+dar      = transformation toward output/relation
+
+chdos    = ch + d + o + s
+         = active transformation + field + status
+
+kal      = k + al
+         = stabilized toward local carrier
+
+chedy    = ch + e + dy
+         = active grade + transformation closure
+
+opchdy   = op + ch + dy
+         = procedure field + active frame + transformation closure
+
+daiin    = transformation toward phase
+
+oraiin   = or + aiin
+         = output/relation toward phase
+
+Mechanical translation:
+
+closed active grade closed;
+stabilized output target;
+closed stabilized grade closed;
+transfer-field toward phase;
+transfer-field toward local carrier;
+transformation toward output;
+active transformed status field;
+stabilized toward local carrier;
+active transformation closed;
+procedure-field active transformation closed;
+transformation toward phase;
+output/relation toward phase.
+f105v.16
+daiin cheey dal chl okair aiin cphe or aiin okal chodaiin otaiin opaiim
+
+Strict parse:
+
+daiin     = transformation toward phase
+
+cheey     = ch + ee + y
+          = active grade + closure
+
+dal       = transformation toward local carrier
+
+chl       = ch + l
+          = active local carrier
+
+okair     = ok + air
+          = stabilized field + phase-output relation
+
+aiin      = toward phase
+
+cphe      = cph + e
+          = active procedure/separation + grade
+
+or        = output/relation
+
+aiin      = toward phase
+
+okal      = ok + al
+          = stabilized field + toward local carrier
+
+chodaiin  = ch + o + daiin
+          = active field + transformation toward phase
+
+otaiin    = ot + aiin
+          = transfer field toward phase
+
+opaiim    = op + aiim
+          = procedure field + phase-terminal/mass sequence
+
+Mechanical translation:
+
+transformation toward phase;
+active grade closed;
+transformation toward local carrier;
+active local carrier;
+stabilized phase-output field;
+toward phase;
+active procedure/separation grade;
+output/relation;
+toward phase;
+stabilized field toward local carrier;
+active field transformed toward phase;
+transfer-field toward phase;
+procedure-field toward phase-terminal mass.
+f105v.17
+olr aiin chey lraiin lkl dl lklor daiii olkaiin
+
+Strict parse:
+
+olr      = ol + r
+         = local carrier + output/relation
+
+aiin     = toward phase
+
+chey     = ch + e + y
+         = active grade + closure
+
+lraiin   = l + r + aiin
+         = local carrier + output/relation + phase sequence
+
+lkl      = l + k + l
+         = local carrier + stabilization + local carrier
+
+dl       = d + l
+         = transform local carrier
+
+lklor    = l + k + l + or
+         = local carrier + stabilization + local carrier + output/relation
+
+daiii    = d + aiii
+         = transformation toward extended phase
+
+olkaiin  = ol + k + aiin
+         = local carrier + stabilized phase sequence
+
+Mechanical translation:
+
+local carrier output/relation;
+toward phase;
+active grade closed;
+local carrier output/relation toward phase;
+local-stabilized-local carrier;
+transform local;
+local-stabilized-local output/relation;
+transform toward extended phase;
+local carrier stabilized phase.
+f105v.18
+pchor chedaiin okaiin chol kal qolkaiin oltchdy qopchsd opair orair karaim
+
+Strict parse:
+
+pchor      = p + ch + or
+           = procedure + active frame + output/relation
+
+chedaiin   = ch + e + daiin
+           = active grade + transformation toward phase
+
+okaiin     = ok + aiin
+           = stabilized field + phase sequence
+
+chol       = ch + ol
+           = active local carrier
+
+kal        = k + al
+           = stabilized toward local carrier
+
+qolkaiin   = q + ol + k + aiin
+           = initiate + local carrier + stabilization + phase sequence
+
+oltchdy    = ol + t + ch + dy
+           = local carrier + transfer + active frame + transformation closure
+
+qopchsd    = q + op + ch + s + d
+           = initiate + procedure field + active frame + status + transformation
+
+opair      = op + air
+           = procedure field + phase-output relation
+
+orair      = or + air
+           = output/relation + phase-output relation
+
+karaim     = k + ar + aim
+           = stabilized output target + phase-terminal/mass
+
+Mechanical translation:
+
+procedural active output/relation;
+active transformation toward phase;
+stabilized phase field;
+active local carrier;
+stabilized toward local carrier;
+initiated local stabilized phase;
+local transfer-active transformation closed;
+initiated procedural active-status transformation;
+procedure-field phase-output relation;
+output/relation phase-output relation;
+stabilized output phase-terminal mass.
+f105v.19
+ycheey aiin otleey lkaiir cheeo taiin okeed ail kchey rokaix am
+
+Strict parse:
+
+ycheey   = y + ch + ee + y
+         = closed + active grade + closure
+
+aiin     = toward phase
+
+otleey   = ot + l + ee + y
+         = transfer field + local carrier + grade + closure
+
+lkaiir   = l + k + aiir
+         = local carrier + stabilization + phase-output relation
+
+cheeo    = ch + ee + o
+         = active grade + field
+
+taiin    = t + aiin
+         = transfer toward phase
+
+okeed    = ok + ee + d
+         = stabilized field + grade + transformation
+
+ail      = ai + l
+         = phase + local carrier
+
+kchey    = k + ch + e + y
+         = stabilized active grade closed
+
+rokaix   = r + ok + ai + x
+         = output/relation + stabilized field + phase + separator/boundary
+
+am       = terminal mass/base
+
+Mechanical translation:
+
+closed active grade closed;
+toward phase;
+transfer-field local grade closed;
+local stabilized phase-output relation;
+active graded field;
+transfer toward phase;
+stabilized graded field transformed;
+phase-local carrier;
+stabilized active grade closed;
+output-stabilized phase boundary;
+terminal mass.
+f105v.20
+porair chopchdy chedain otair otchod aiin alol cheo ypchedy kair odl lpaim
+
+Strict parse:
+
+porair     = p + or + air
+           = procedure + output/relation + phase-output relation
+
+chopchdy   = ch + op + ch + dy
+           = active frame + procedure field + active frame + transformation closure
+
+chedain    = ch + e + dain
+           = active grade + transformation toward phase endpoint
+
+otair      = ot + air
+           = transfer field + phase-output relation
+
+otchod     = ot + ch + o + d
+           = transfer field + active frame + field + transformation
+
+aiin       = toward phase
+
+alol       = al + ol
+           = toward local carrier + local carrier
+
+cheo       = ch + e + o
+           = active grade + field
+
+ypchedy    = y + p + ch + e + dy
+           = closed + procedure + active grade + transformation closure
+
+kair       = k + air
+           = stabilized phase-output relation
+
+odl        = o + d + l
+           = field + transformation + local carrier
+
+lpaim      = l + p + aim
+           = local carrier + procedure + phase-terminal/mass
+
+Mechanical translation:
+
+procedural output phase-output relation;
+active procedural field transformed and closed;
+active transformation toward phase endpoint;
+transfer-field phase-output relation;
+active transfer-field transformed;
+toward phase;
+toward local carrier into local carrier;
+active graded field;
+closed procedural active transformation;
+stabilized phase-output relation;
+field transformed into local carrier;
+local procedural phase-terminal mass.
+f105v.21
+ykeeo daiim sheey qokaiin cheot daiin qoek eey keody qopaiin or aiikam
+
+Strict parse:
+
+ykeeo     = y + k + ee + o
+          = closed + stabilized grade + field
+
+daiim     = d + aiim
+          = transformation toward phase-terminal/mass
+
+sheey     = sh + ee + y
+          = regulated activation + grade + closure
+
+qokaiin   = q + ok + aiin
+          = initiate + stabilized field + phase sequence
+
+cheot     = ch + e + ot
+          = active grade + transfer field
+
+daiin     = transformation toward phase
+
+qoek      = q + o + e + k
+          = initiate + field + grade + stabilization
+
+eey       = grade + closure
+
+keody     = k + e + o + dy
+          = stabilization + grade + field + transformation closure
+
+qopaiin   = q + op + aiin
+          = initiate + procedure field + phase sequence
+
+or        = output/relation
+
+aiikam    = aii + k + am
+          = phase + stabilization + terminal mass/base
+
+Mechanical translation:
+
+closed stabilized graded field;
+transformation toward phase-terminal mass;
+regulated grade closed;
+initiated stabilized phase field;
+active transfer field;
+transformation toward phase;
+initiated graded stabilized field;
+grade closed;
+stabilized graded field transformed closed;
+initiated procedure-field toward phase;
+output/relation;
+phase-stabilized terminal mass.
+f105v.22
+daiin cheodaiin chedal air okaiin cheey
+
+Strict parse:
+
+daiin      = transformation toward phase
+
+cheodaiin  = ch + e + o + daiin
+            = active grade + field + transformation toward phase
+
+chedal     = ch + e + dal
+            = active grade + transformation toward local carrier
+
+air        = phase-output relation
+
+okaiin     = ok + aiin
+            = stabilized field + phase sequence
+
+cheey      = ch + ee + y
+            = active grade + closure
+
+Mechanical translation:
+
+transformation toward phase;
+active graded field transformed toward phase;
+active graded transformation toward local carrier;
+phase-output relation;
+stabilized phase field;
+active grade closed.
+f105v.23
+tchol kaiin odal kl chees aiiin shees qopdaiin chodr alkeey paradam
+
+Strict parse:
+
+tchol      = t + ch + ol
+           = transfer + active local carrier
+
+kaiin      = k + aiin
+           = stabilized phase sequence
+
+odal       = o + dal
+           = field + transformation toward local carrier
+
+kl         = k + l
+           = stabilized local carrier
+
+chees      = ch + ee + s
+           = active grade + status
+
+aiiin      = toward extended phase
+
+shees      = sh + ee + s
+           = regulated activation + grade + status
+
+qopdaiin   = q + op + daiin
+           = initiate + procedure field + transformation toward phase
+
+chodr      = ch + o + d + r
+           = active field + transformation + output/relation
+
+alkeey     = al + k + ee + y
+           = toward local + stabilization + grade + closure
+
+paradam    = p + ar + a + dam
+           = procedure + output target + toward + terminal transformation mass/base
+
+Mechanical translation:
+
+transfer into active local carrier;
+stabilized phase;
+field transformed toward local carrier;
+stabilized local carrier;
+active grade status;
+toward extended phase;
+regulated grade status;
+initiated procedure-field transformation toward phase;
+active field transformed toward output;
+toward local stabilized grade closed;
+procedural output toward terminal mass/base.
+f105v.24
+alcheey okaiin otar oto daiin ckheol lkol fchedy paiin
+
+Strict parse:
+
+alcheey   = al + ch + ee + y
+          = toward local + active grade + closure
+
+okaiin    = ok + aiin
+          = stabilized field + phase sequence
+
+otar      = ot + ar
+          = transfer field + output target
+
+oto       = ot + o
+          = transfer field + field
+
+daiin     = transformation toward phase
+
+ckheol    = ckh + e + ol
+          = active stabilization + grade + local carrier
+
+lkol      = l + k + ol
+          = local carrier + stabilization + local carrier
+
+fchedy    = f + ch + e + dy
+          = preparation + active grade + transformation closure
+
+paiin     = p + aiin
+          = procedure + phase sequence
+
+Mechanical translation:
+
+toward local active grade closed;
+stabilized phase field;
+transfer-field toward output;
+transfer-field field;
+transformation toward phase;
+active-stabilized graded local carrier;
+local stabilized local carrier;
+preparatory active transformation closed;
+procedural phase sequence.
+f105v.25
+kchdaldy alfo lfcheedy ofaiis opchey fchedy qotor oeeeodr qopar aifhhy dl
+
+Strict parse:
+
+kchdaldy   = k + ch + dal + dy
+           = stabilized active transformation toward local + transformation closure
+
+alfo       = al + f + o
+           = toward local + preparation + field
+
+lfcheedy   = l + f + ch + ee + dy
+           = local carrier + preparation + active grade + transformation closure
+
+ofaiis     = o + f + aiis
+           = field + preparation + phase/status
+
+opchey     = op + ch + e + y
+           = procedure field + active grade + closure
+
+fchedy     = f + ch + e + dy
+           = preparation + active grade + transformation closure
+
+qotor      = q + ot + or
+           = initiate + transfer field + output/relation
+
+oeeeodr    = o + eee + o + d + r
+           = field + grade + field + transformation + output/relation
+
+qopar      = q + op + ar
+           = initiate + procedure field + output target
+
+aifhhy     = ai + f + h + h + y
+           = phase + preparation + activation + activation + closure
+
+dl         = d + l
+           = transform local carrier
+
+Mechanical translation:
+
+stabilized active local transformation closed;
+toward local preparatory field;
+local preparatory active transformation closed;
+preparatory field phase/status;
+procedure-field active grade closed;
+preparatory active transformation closed;
+initiated transfer-output field;
+graded field transformed toward output;
+initiated procedure-output target;
+phase-preparatory activation closed;
+transform local carrier.
+f105v.26
+lkl sheeodees otaiin otar otal or aiin chedor alkaiin chs alkaiin ry
+
+Strict parse:
+
+lkl        = l + k + l
+           = local carrier + stabilization + local carrier
+
+sheeodees  = sh + ee + o + d + ee + s
+           = regulated activation + grade + field + transformation + grade + status
+
+otaiin     = ot + aiin
+           = transfer field toward phase
+
+otar       = ot + ar
+           = transfer field toward output
+
+otal       = ot + al
+           = transfer field toward local carrier
+
+or         = output/relation
+
+aiin       = toward phase
+
+chedor     = ch + e + dor
+           = active grade + transformation toward output/relation
+
+alkaiin    = al + k + aiin
+           = toward local + stabilized phase
+
+chs        = ch + s
+           = active status
+
+alkaiin    = al + k + aiin
+           = toward local + stabilized phase
+
+ry         = r + y
+           = output/relation + closure
+
+Mechanical translation:
+
+local-stabilized-local carrier;
+regulated graded field transformed into graded status;
+transfer-field toward phase;
+transfer-field toward output;
+transfer-field toward local carrier;
+output/relation;
+toward phase;
+active transformation toward output;
+toward local stabilized phase;
+active status;
+toward local stabilized phase;
+output/relation closed.
+f105v.27
+sheoe arxor eesy qopcheoai or kchdy daiin oteedy kol kair otaiilody
+
+Strict parse:
+
+sheoe       = sh + e + o + e
+            = regulated activation + grade + field + grade
+
+arxor       = ar + x + or
+            = output target + separator/boundary + output/relation
+
+eesy        = ee + s + y
+            = grade + status + closure
+
+qopcheoai   = q + op + ch + e + o + ai
+            = initiate + procedure field + active grade + field + phase
+
+or          = output/relation
+
+kchdy       = k + ch + dy
+            = stabilized active transformation closure
+
+daiin       = transformation toward phase
+
+oteedy      = ot + ee + dy
+            = transfer field + grade + transformation closure
+
+kol         = k + ol
+            = stabilized local carrier
+
+kair        = k + air
+            = stabilized phase-output relation
+
+otaiilody   = ot + aii + l + o + dy
+            = transfer field + phase + local carrier + field + transformation closure
+
+Mechanical translation:
+
+regulated graded field;
+output target boundary output/relation;
+graded status closed;
+initiated procedural active field toward phase;
+output/relation;
+stabilized active transformation closed;
+transformation toward phase;
+transfer-field graded transformation closed;
+stabilized local carrier;
+stabilized phase-output relation;
+transfer-field phase-local field transformed and closed.
+f105v.28
+oeoar ar al odor aiil otaiin
+
+Strict parse:
+
+oeoar    = o + e + o + ar
+         = field + grade + field + output target
+
+ar       = output target
+
+al       = toward local carrier
+
+odor     = o + dor
+         = field + transformation toward output/relation
+
+aiil     = aii + l
+         = phase + local carrier
+
+otaiin   = ot + aiin
+         = transfer field toward phase
+
+Mechanical translation:
+
+graded field-output target;
+output target;
+toward local carrier;
+field transformed toward output;
+phase-local carrier;
+transfer-field toward phase.
+f105v.29
+tdol tor oaldar aiir otokeedy karody qoeedy sho qopchedy daiin opairam
+
+Strict parse:
+
+tdol       = t + dol
+           = transfer + transform into local carrier
+
+tor        = t + or
+           = transfer + output/relation
+
+oaldar     = o + al + dar
+           = field + toward local + transformation toward output
+
+aiir       = phase-output relation
+
+otokeedy   = ot + ok + ee + dy
+           = transfer field + stabilized field + grade + transformation closure
+
+karody     = k + ar + o + dy
+           = stabilized output target + field + transformation closure
+
+qoeedy     = q + o + ee + dy
+           = initiate + field + grade + transformation closure
+
+sho        = sh + o
+           = regulated activation + field
+
+qopchedy   = q + op + ch + e + dy
+           = initiate + procedure field + active grade + transformation closure
+
+daiin      = transformation toward phase
+
+opairam    = op + air + am
+           = procedure field + phase-output relation + terminal mass/base
+
+Mechanical translation:
+
+transfer transformed into local carrier;
+transfer output/relation;
+field toward local transformation toward output;
+phase-output relation;
+transfer-field stabilized graded transformation closed;
+stabilized output-field transformed closed;
+initiated graded field transformation closed;
+regulated activation field;
+initiated procedural active transformation closed;
+transformation toward phase;
+procedure-field phase-output terminal mass.
+f105v.30
+dchedy cheey qokor otaiin otair otair okeedy taiin aiin aiin sy
+
+Strict parse:
+
+dchedy   = d + ch + e + dy
+         = transformation + active grade + transformation closure
+
+cheey    = ch + ee + y
+         = active grade + closure
+
+qokor    = q + ok + or
+         = initiate + stabilized field + output/relation
+
+otaiin   = ot + aiin
+         = transfer field toward phase
+
+otair    = ot + air
+         = transfer field + phase-output relation
+
+otair    = ot + air
+         = transfer field + phase-output relation
+
+okeedy   = ok + ee + dy
+         = stabilized field + grade + transformation closure
+
+taiin    = t + aiin
+         = transfer toward phase
+
+aiin     = toward phase
+
+aiin     = toward phase
+
+sy       = s + y
+         = regulated/status + closure
+
+Mechanical translation:
+
+active transformation transformed and closed;
+active grade closed;
+initiated stabilized output/relation field;
+transfer-field toward phase;
+transfer-field phase-output relation;
+transfer-field phase-output relation;
+stabilized graded field transformed closed;
+transfer toward phase;
+toward phase;
+toward phase;
+regulated status closed.
+f105v.31
+ychtaiis aiichy dol aiin otaiin aiidy okchd otor daiin
+
+Strict parse:
+
+ychtaiis  = y + ch + t + aiis
+          = closed + active frame + transfer + phase/status
+
+aiichy    = aii + ch + y
+          = phase + active frame + closure
+
+dol       = transform into local carrier
+
+aiin      = toward phase
+
+otaiin    = ot + aiin
+          = transfer field toward phase
+
+aiidy     = aii + dy
+          = phase + transformation closure
+
+okchd     = ok + ch + d
+          = stabilized field + active frame + transformation
+
+otor      = ot + or
+          = transfer field + output/relation
+
+daiin     = transformation toward phase
+
+Mechanical translation:
+
+closed active transfer phase/status;
+phase-active closure;
+transform into local carrier;
+toward phase;
+transfer-field toward phase;
+phase transformation closed;
+stabilized active field transformed;
+transfer-field output/relation;
+transformation toward phase.
+f105v.32
+poar keeo daiin qoair ar aiphhey qoeed eody qokaiin qotedais aporair apy
+
+Strict parse:
+
+poar       = p + o + ar
+           = procedure + field + output target
+
+keeo       = k + ee + o
+           = stabilized grade + field
+
+daiin      = transformation toward phase
+
+qoair      = q + o + air
+           = initiate + field + phase-output relation
+
+ar         = output target
+
+aiphhey    = ai + f + h + h + e + y
+           = phase + preparation + activation + activation + grade + closure
+
+qoeed      = q + o + ee + d
+           = initiate + field + grade + transformation
+
+eody       = e + o + dy
+           = grade + field + transformation closure
+
+qokaiin    = q + ok + aiin
+           = initiate + stabilized field + phase sequence
+
+qotedais   = q + ot + e + dais
+           = initiate + transfer field + grade + transformation toward phase/status
+
+aporair    = a + p + or + air
+           = toward + procedure + output/relation + phase-output relation
+
+apy        = a + p + y
+           = toward + procedure + closure
+
+Mechanical translation:
+
+procedural field-output target;
+stabilized graded field;
+transformation toward phase;
+initiated field phase-output relation;
+output target;
+phase-preparatory activated grade closed;
+initiated graded field transformed;
+graded field transformed closed;
+initiated stabilized phase field;
+initiated graded transfer transformation toward phase/status;
+toward procedural output phase-output relation;
+toward procedure closure.
+f105v.33
+lsheody tair oteey oteeo ol otaiin okeey qokaiin ar aiir al dal
+
+Strict parse:
+
+lsheody  = l + sh + e + o + dy
+         = local carrier + regulated activation + grade + field + transformation closure
+
+tair     = t + air
+         = transfer + phase-output relation
+
+oteey    = ot + ee + y
+         = transfer field + grade + closure
+
+oteeo    = ot + ee + o
+         = transfer field + grade + field
+
+ol       = local carrier
+
+otaiin   = ot + aiin
+         = transfer field toward phase
+
+okeey    = ok + ee + y
+         = stabilized field + grade + closure
+
+qokaiin  = q + ok + aiin
+         = initiate + stabilized field + phase sequence
+
+ar       = output target
+
+aiir     = phase-output relation
+
+al       = toward local carrier
+
+dal      = transform toward local carrier
+
+Mechanical translation:
+
+local regulated active graded field transformed closed;
+transfer phase-output relation;
+transfer-field grade closed;
+transfer-field graded field;
+local carrier;
+transfer-field toward phase;
+stabilized grade field closed;
+initiated stabilized phase field;
+output target;
+phase-output relation;
+toward local carrier;
+transform toward local carrier.
+f105v.34
+sheeo daiin chsd qokeeey dair okaiin otaiin chedaiin olkal lkl dai
+
+Strict parse:
+
+sheeo     = sh + ee + o
+          = regulated activation + grade + field
+
+daiin     = transformation toward phase
+
+chsd      = ch + s + d
+          = active status transformation
+
+qokeeey   = q + ok + eee + y
+          = initiate + stabilized grade + closure
+
+dair      = d + air
+          = transformation + phase-output relation
+
+okaiin    = ok + aiin
+          = stabilized phase field
+
+otaiin    = ot + aiin
+          = transfer field toward phase
+
+chedaiin  = ch + e + daiin
+          = active grade + transformation toward phase
+
+olkal     = ol + k + al
+          = local carrier + stabilization + toward local carrier
+
+lkl       = local carrier + stabilization + local carrier
+
+dai       = transformation toward phase
+
+Mechanical translation:
+
+regulated graded field;
+transformation toward phase;
+active status transformation;
+initiated stabilized grade closed;
+transformation phase-output relation;
+stabilized phase field;
+transfer-field toward phase;
+active transformation toward phase;
+local carrier stabilized toward local;
+local-stabilized-local carrier;
+transformation toward phase.
+f105v.35
+doee okcheeo kaiin otcheedy chor aiin odaiin chedy otaiin al kaishd
+
+Strict parse:
+
+doee      = d + o + ee
+          = transformation + field + grade
+
+okcheeo   = ok + ch + ee + o
+          = stabilized field + active grade + field
+
+kaiin     = k + aiin
+          = stabilized phase sequence
+
+otcheedy  = ot + ch + ee + dy
+          = transfer field + active grade + transformation closure
+
+chor      = ch + or
+          = active output/relation
+
+aiin      = toward phase
+
+odaiin    = o + daiin
+          = field + transformation toward phase
+
+chedy     = ch + e + dy
+          = active grade + transformation closure
+
+otaiin    = ot + aiin
+          = transfer field toward phase
+
+al        = toward local carrier
+
+kaishd    = k + ai + sh + d
+          = stabilized phase + regulated activation + transformation
+
+Mechanical translation:
+
+graded field transformed;
+stabilized active graded field;
+stabilized phase;
+active transfer-field transformation closed;
+active output/relation;
+toward phase;
+field transformed toward phase;
+active transformation closed;
+transfer-field toward phase;
+toward local carrier;
+stabilized phase regulated transformation.
+f105v.36
+laiin sheod okeeody qoaiin ytaiin otair chdal dydaim chdaiin ockhhy
+
+Strict parse:
+
+laiin     = l + aiin
+          = local carrier + phase sequence
+
+sheod     = sh + e + o + d
+          = regulated activation + grade + field + transformation
+
+okeeody   = ok + ee + o + dy
+          = stabilized field + grade + field + transformation closure
+
+qoaiin    = q + o + aiin
+          = initiate + field + phase sequence
+
+ytaiin    = y + t + aiin
+          = closed transfer toward phase
+
+otair     = ot + air
+          = transfer field + phase-output relation
+
+chdal     = ch + dal
+          = active transformation toward local carrier
+
+dydaim    = dy + daim
+          = transformation closure + transformation toward phase-terminal mass
+
+chdaiin   = ch + daiin
+          = active transformation toward phase
+
+ockhhy    = o + ckh + h + y
+          = field + active stabilization + activation + closure
+
+Mechanical translation:
+
+local carrier phase sequence;
+regulated graded field transformed;
+stabilized graded field transformed closed;
+initiated field toward phase;
+closed transfer toward phase;
+transfer-field phase-output relation;
+active transformation toward local carrier;
+transformation closed toward phase-terminal mass;
+active transformation toward phase;
+field active-stabilization activated and closed.
+f105v.37
+yshey ckhy sheo qoeeo lkaiin chs okol tchdy sheeey okaiin ar aildy
+
+Strict parse:
+
+yshey    = y + sh + e + y
+         = closed + regulated activation + grade + closure
+
+ckhy     = ckh + y
+         = active stabilization + closure
+
+sheo     = sh + e + o
+         = regulated activation + grade + field
+
+qoeeo    = q + o + ee + o
+         = initiate + field + grade + field
+
+lkaiin   = l + k + aiin
+         = local carrier + stabilization + phase sequence
+
+chs      = ch + s
+         = active status
+
+okol     = ok + ol
+         = stabilized local carrier
+
+tchdy    = t + ch + dy
+         = transfer + active frame + transformation closure
+
+sheeey   = sh + eee + y
+         = regulated activation + grade + closure
+
+okaiin   = ok + aiin
+         = stabilized field + phase sequence
+
+ar       = output target
+
+aildy    = ai + l + dy
+         = phase + local carrier + transformation closure
+
+Mechanical translation:
+
+closed regulated grade closed;
+active stabilization closed;
+regulated graded field;
+initiated graded field;
+local stabilized phase;
+active status;
+stabilized local carrier;
+active transfer transformation closed;
+regulated grade closed;
+stabilized phase field;
+output target;
+phase-local carrier transformed closed.
+f105v.38
+cheody oaiir aiin okshey
+
+Strict parse:
+
+cheody   = ch + e + o + dy
+         = active grade + field + transformation closure
+
+oaiir    = o + aiir
+         = field + phase-output relation
+
+aiin     = toward phase
+
+okshey   = ok + sh + e + y
+         = stabilized field + regulated activation + grade + closure
+
+Mechanical translation:
+
+active graded field transformed and closed;
+field phase-output relation;
+toward phase;
+stabilized regulated graded field closed.
+Strict parser conclusion
+
+f105v does not require new operator meanings.
+
+The page repeatedly applies the same fixed primitives:
+
+procedure / preparation
+-> transfer
+-> field
+-> local carrier
+-> stabilization
+-> phase
+-> output/relation
+-> terminal mass
+-> closure/status
+
+The apparent looseness of the STAR/TEXT section comes from compression, not from grammatical freedom.
+
+In strict parser terms, f105v is dominated by:
+
+op / p / qop  = procedure/extraction
+ot / qot      = transfer
+ok / qok      = stabilization/initiation
+ol / l        = local carrier
+d / dy / daiin / dal / dol / dar = transformation family
+air / ar / or = output/relation family
+am / om       = terminal mass/base
+y / sy / sh   = closure/status/regulation
+x             = separator/boundary where present
+
+Thus f105v should be read as:
+
+a compressed indexed process sequence,
+not a freer or looser translation regime.
+
+It is the same grammar, stripped of most visual scaffolding and compressed into star-indexed text.
