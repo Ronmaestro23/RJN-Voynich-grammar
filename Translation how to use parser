@@ -5949,3 +5949,826 @@ phase transformation,
 output/relation,
 terminal base or mass,
 and closure/status.
+
+
+
+f99r — PHARMA / Vessel-Substance Demonstration
+1. Page function
+
+f99r is read here as a PHARMA / vessel-substance process page.
+
+Unlike the HERBAL pages, the main visual logic is not a single plant-process. Unlike BALNEO, the dominant structure is not bath/reservoir flow. Instead, f99r combines:
+
+1. red cylindrical vessels or containers;
+2. vessel labels;
+3. small substance/root/fraction drawings;
+4. text blocks associated with different containers and substances;
+5. lower plant/root material connected to leaf-like output or collection forms;
+6. a large lower segmented root/substance body with many projections.
+
+The page is therefore a strong PHARMA demonstration because it shows how the parser handles:
+
+vessel
+container
+substance
+residue/base
+extraction
+fractionation
+local carrier
+stabilization
+output/fraction
+terminal mass
+
+The H-witness text and labels contain repeated vessel-compatible operator families: ok, okar, ot, ol, op, cfh/cph, dam, am, om, ar, dar, yteoldy, and tsholdy. These are exactly the forms expected in a vessel/substance page.
+
+2. Visual analysis
+2.1 Red cylindrical vessels
+
+The red cylindrical objects on the left are read as vessels or containers.
+
+red vessels
+= prepared containers / storage vessels / treated substance carriers
+
+They are not merely decorative jars. They are labelled and placed beside separate text/process zones.
+
+Their color and shape support a PHARMA reading:
+
+red body
+= active prepared substance / treated material / contained mass
+
+green top
+= surface layer / prepared phase / residue or active content
+
+white bands
+= boundary / separation / vessel register
+
+The page contains several such vessels, suggesting a sequence of prepared substances or storage stages.
+
+2.2 Vessel labels
+
+The labels beside the vessels are important. They are short and label-like, not ordinary running text.
+
+The main container labels are:
+
+f99r.1   okoramog / okaramog
+f99r.19  op ara / possible oparal
+f99r.32  tsholdy
+f99r.45  yteoldy
+
+These labels should be treated as vessel-state labels, not as ordinary prose.
+
+2.3 Small substance drawings
+
+The page contains many small root-like, bulb-like, comb-like, tendril-like, and animal-like figures.
+
+small substance figures
+= ingredients / extracted fractions / roots / prepared material units
+
+They appear beside text and labels, suggesting that the page catalogues or processes multiple substance states.
+
+Many of these small forms have arms, prongs, tendrils, hooks, or multiple local projections. This is important because it suggests not simple botanical roots, but extracted, divided, or fractionated substance bodies.
+
+2.4 Lower plant/root structure
+
+The lower section contains a large root/plant form with green leaves or output structures.
+
+lower root/plant form
+= source material / extracted botanical substance / carrier-output plant matrix
+
+This is likely the source or botanical substrate from which vessel substances are prepared.
+
+The lower large form is especially important. It is long, segmented, and has many projections. It resembles a scolopender-like substance body rather than a simple plant root.
+
+large lower segmented form
+= terminal substance-body / residue manifold / local-carrier extraction body
+
+Thus, the whole page can be read as:
+
+source material
+-> extracted or transformed substance
+-> vessel storage
+-> labelled prepared states
+-> local carrier / fractionation
+-> terminal residue or substance-body
+3. Label analysis and proposed corrections
+3.1 First vessel label: f99r.1
+
+Corpus:
+
+H: okoramog
+V: okaramog
+U: okaroram
+
+Visual proposal:
+
+okaramog
+
+Assessment:
+
+This is plausible. The visual form and V witness support okaramog, while H has okoramog. The difference is small but meaningful.
+
+Preferred conservative notation:
+
+okoramog / okaramog
+
+Structural reading:
+
+okar = stabilized output target
+am/om = terminal mass / base / residue
+g = uncertain terminal sign
+
+Functional reading:
+
+stabilized output-target vessel containing terminal mass/base residue
+
+Plain rendering:
+
+A stabilized output container holding a terminal mass or prepared residue.
+
+Comment:
+
+okaramog is probably the better visual/corrected reading if the glyph after okar is visibly a rather than o. But the safe paper form should record both:
+
+H okoramog; V okaramog; visually okaramog is plausible.
+3.2 Second vessel label: f99r.19
+
+Corpus:
+
+H: op ara
+U: arch
+
+Visual proposal:
+
+oparal
+
+Assessment:
+
+This is plausible as a visual correction, but it should be marked as tentative.
+
+Why it fits structurally:
+
+op = procedure / extraction field
+ar = output / relation target
+al = toward local carrier
+
+If read as oparal, the label becomes:
+
+op + ar + al
+= extraction/procedure -> output -> local carrier
+
+Functional reading:
+
+extraction-output directed into local carrier
+
+Plain rendering:
+
+A vessel or substance state for extracted output directed into local carrier.
+
+Recommended paper notation:
+
+H: op ara
+visual possibility: oparal
+status: possible label ligature / spacing ambiguity
+
+Do not silently replace it. Use:
+
+op ara [possibly oparal]
+
+That is the strictest and strongest version.
+
+3.3 Third vessel label: f99r.32
+
+Corpus:
+
+H/V: tsholdy
+U: ol
+
+Visual proposal:
+
+tsholdy
+
+Assessment:
+
+Yes — tsholdy looks structurally excellent and is supported by H/V.
+
+Structural reading:
+
+t + shol + dy
+= transfer + regulated local carrier + transformation closure
+
+Functional reading:
+
+transfer of regulated local carrier, transformed and closed
+
+Plain rendering:
+
+A vessel state where regulated local carrier has been transferred and closed through transformation.
+
+This fits a container label extremely well.
+
+3.4 Lower vessel label: f99r.45
+
+Corpus:
+
+H: yteoldy
+V: yk alg
+
+Visual proposal:
+
+yteoldy
+
+Assessment:
+
+Yes — H gives yteoldy, and structurally it is very strong.
+
+Structural reading:
+
+y + t + e + ol + dy
+= closed/boundary + transfer + grade + local carrier + transformation closure
+
+Functional reading:
+
+closed graded transfer into local carrier, transformed and closed
+
+Plain rendering:
+
+A final vessel state: graded transfer into local carrier, closed by transformation.
+
+This is exactly the kind of label expected on the last/lower container.
+
+4. Label sequence as vessel-state grammar
+
+The four major vessel labels can be read as a descending vessel-state sequence:
+
+1. okoramog / okaramog
+   stabilized output vessel with terminal mass/base residue
+
+2. op ara [possibly oparal]
+   extraction/procedure output directed toward local carrier
+
+3. tsholdy
+   transferred regulated local carrier transformed and closed
+
+4. yteoldy
+   closed graded transfer into local carrier, transformed and closed
+
+In plain procedural form:
+
+A stabilized prepared mass or residue is held in a vessel.
+An extraction/output procedure is directed toward local carrier.
+The regulated local carrier is transferred and closed.
+The final vessel state is a graded transfer into local carrier, transformed and closed.
+
+This makes the labels internally coherent. They are not random jar captions. They describe vessel states.
+
+5. Additional visual observation: armed roots and the lower segmented substance body
+
+A striking feature of f99r is that many of the small root- or substance-like drawings are not simple roots. They have arms, prongs, legs, tendrils, hooks, or multiple projecting extensions. The lower large figure is especially important: it resembles a long segmented scolopender-like substance body rather than a simple botanical root.
+
+Under the structural-functional model, this is not treated as decorative fantasy. It is read as a visual sign of local extension, extraction, fractionation, and terminal substance-body formation.
+
+This visual observation corresponds closely to the text. f99r is dominated by local-carrier and local-transformation forms:
+
+ol
+al
+dal
+dol
+oldy
+ols
+olaiin
+sheol
+cfheol
+okeol
+ckhol
+qokol
+okoly
+okoldy
+qokoly
+qokal
+okchol
+qokold
+
+These forms describe local carrier, local direction, local transformation, stabilized local carrier, and local carrier closure. This is exactly what the image shows: material forms with many local extensions or extraction arms.
+
+The final lower form strengthens this reading. It resembles a large segmented terminal substance-body rather than a normal plant root. The final textual sequence also ends in terminal-mass and local-carrier language:
+
+ychor ols or am air om
+
+This can be read as:
+
+closed active output
+-> local carrier status
+-> output/relation
+-> terminal base/mass
+-> phase-output relation
+-> terminal mass
+
+Thus the lower image and the final line support each other. The page does not merely show vessels and roots. It shows prepared substances being divided, extended, routed through local carriers, and finally resolved into terminal mass or residue.
+
+6. Comparison with earlier scolopender / segmented forms
+
+The scolopender-like form on f99r is not isolated. Earlier HERBAL analysis identified a recurring class of scolopender-, woodlouse-, tentacle-, and multi-armed root forms. In the HERBAL regime, these forms often mark base/manifold, repeated local carrier, side-fraction, or terminal residue structures.
+
+The important difference is regime:
+
+HERBAL:
+scolopender-/woodlouse-like form often functions as the plant root/base or intermediate carrier structure.
+
+PHARMA f99r:
+scolopender-like form functions as a prepared substance-body, terminal residue manifold, or extraction/fractionation body associated with vessels.
+
+Thus, f99r appears to reuse the same visual classifier in the PHARMA/vessel-substance regime.
+
+6.1 Comparison type: multi-armed root/body forms
+
+In previous HERBAL pages, multi-armed or segment-like root forms were associated with:
+
+base/manifold
+local carrier
+side outputs
+terminal mass
+residue
+repeated extraction points
+
+This is the same kind of visual logic seen on f99r. The difference is that f99r places these forms next to red vessels and explicit vessel labels.
+
+On f99r, the armed figures appear as:
+
+small extracted substance units
++
+large terminal segmented substance-body
+
+This suggests two levels:
+
+small armed figures
+= local fraction/extraction points
+
+large scolopender body
+= terminal residue/substance manifold
+6.2 Control comparison: when there are no arms
+
+The comparison also provides a control.
+
+Pages without such armed or segmented forms tend to show simpler base-carrier-output logic:
+
+single root / smooth base
+= simpler base or residue
+
+single stem
+= direct carrier path
+
+few/no side-arms
+= less fractionation / fewer local extraction branches
+
+single output head
+= one primary output/collector
+
+Pages with many arms, legs, tendrils, or scolopender-like bodies should instead show stronger local-carrier, extraction, fractionation, and terminal-base language.
+
+That is exactly what f99r shows:
+
+ol / chol / sheol / qokol / okchol
+= local carrier / local vessel / local process field
+
+dal / dol / oldy / dald
+= transformation toward/into local carrier
+
+ar / or / dar / rar
+= output / relation / repeated output
+
+am / om / dam
+= terminal mass / base / residue
+
+op / cph / cfh
+= procedure / extraction / preparation / separation
+
+The image and text therefore converge.
+
+7. Main text: structural-functional translation by sections
+Section A — first vessel / upper substance group
+f99r.15
+pcheody oteody daiin cpheey tshol dal cfheol olaiin rar
+
+Structural reading:
+
+pcheody
+= p + ch + e + o + dy
+= procedure-initiation + active graded field + transformation closure
+
+oteody
+= ot + e + o + dy
+= transfer-field graded field transformed and closed
+
+daiin
+= transformation toward phase
+
+cpheey
+= cph + ee + y
+= active procedure/separation graded and closed
+
+tshol
+= t + shol
+= transfer regulated local carrier
+
+dal
+= d + al
+= transform toward local carrier
+
+cfheol
+= cfh + e + ol
+= active variant/preparation graded local carrier
+
+olaiin
+= ol + aiin
+= local carrier toward phase
+
+rar
+= r + ar
+= repeated output/relation target
+
+Structural-functional translation:
+
+Initiate a procedural active transformation and close it.
+Close the graded transfer-field.
+Transform toward phase.
+Close active procedure/separation in graded form.
+Transfer the regulated local carrier.
+Transform toward local carrier.
+Prepare active graded local carrier.
+Move local carrier toward phase.
+Mark repeated output/relation.
+
+Plain rendering:
+
+A prepared substance is processed through procedural transformation, transfer closure, phase movement, separation/preparation, and local carrier routing toward output.
+f99r.16
+raroshy shor sshor sheol kol sheol qoeol shol kol ckhol ckhory
+
+Structural-functional translation:
+
+Repeated output/relation is regulated and closed.
+Regulated output fields and local carriers are established.
+Stabilized local carriers recur.
+An initiated graded/local field is brought into regulated carrier.
+Active stabilization of local carrier leads toward output closure.
+
+Plain rendering:
+
+The output fraction is repeatedly regulated, placed into local carrier, stabilized, and closed toward a carrier-output state.
+f99r.17
+dcheor chs al yckhy okeol ckhor oraiin chor qokeeor chory
+
+Structural-functional translation:
+
+Active graded output is transformed.
+Active status is moved toward local carrier.
+Active stabilization is closed.
+A stabilized graded local carrier is established.
+Active stabilized output is marked.
+Output/relation moves toward phase.
+Active output is initiated and closed.
+
+Plain rendering:
+
+The substance is transformed toward active output, stabilized locally, routed toward phase-output, and closed as an active output state.
+f99r.18
+qokeor chol ykol cheey chody ckhol daiin okeoly daiin ckhy
+
+Structural-functional translation:
+
+Initiate stabilized graded output.
+Enter active local carrier.
+Close stabilized local carrier.
+Close active grade.
+Transform active field to closure.
+Stabilize active local carrier.
+Transform toward phase.
+Close stabilized local carrier.
+Transform toward phase again.
+Close active stabilization.
+
+Plain rendering:
+
+The first vessel group ends with repeated stabilization of local carrier and phase-directed transformation.
+8. Section B — second vessel / extraction-output group
+f99r.19 label
+op ara [possibly oparal]
+
+Functional label:
+
+procedure/extraction output directed toward local carrier
+f99r.28
+kodaiin opchey qoky dor otchor opsho okeol sheol oteoefol
+
+Structural-functional translation:
+
+Stabilize transformation toward phase.
+Close procedural active grade.
+Close initiated stabilized field.
+Transform toward output/relation.
+Transfer active output.
+Apply procedure/extraction to regulated field.
+Establish stabilized graded local carrier.
+Establish regulated local carrier.
+Transfer graded field into local/preparatory carrier.
+
+Plain rendering:
+
+The second vessel group begins as an extraction/output sequence: stabilized phase transformation is followed by procedural closure, active transfer, and local carrier preparation.
+f99r.29
+dsheol ckhey ckheol okeol ctheol qokey ckhol okeol okeey dald
+
+Plain rendering:
+
+Regulated local carrier is transformed, actively stabilized, transferred, initiated as stabilized grade, returned to active local carrier, and driven toward local transformation.
+f99r.30
+tol cheody qokol okoly okoldy qokoly qokal okchol qokold
+
+Plain rendering:
+
+Transfer enters active graded transformation, initiates stabilized local carrier, closes stabilized local carrier, repeats stabilized local initiation, and ends in stabilized active local carrier.
+
+This line is strongly vessel-compatible because of repeated local-carrier forms:
+
+qokol
+okoly
+okoldy
+qokoly
+qokal
+okchol
+qokold
+f99r.31
+chees okeey qotol sheol daiin qotol okeol
+
+Plain rendering:
+
+Active grade/status is closed, stabilized grade is closed, transfer into local carrier is initiated, regulated local carrier is established, transformation moves toward phase, and transfer into local carrier repeats.
+9. Section C — third vessel / regulated carrier label
+f99r.32 label
+tsholdy
+
+Functional label:
+
+transferred regulated local carrier, transformed and closed
+f99r.41
+tsheeor cpheol ckey pchol ckhey ypchol chor choly qotocthey qkory
+
+Plain rendering:
+
+Regulated transfer-output is processed through active preparation, stabilized grade, procedural local carrier, active stabilization, closed procedural carrier, active output, local-carrier closure, transfer-field activation, and initiated output closure.
+f99r.42
+sol sheol keshey qokeeey chs chey dol chey ctheey daiin cheom
+
+Plain rendering:
+
+Regulated local carrier and regulated carrier fields are stabilized and graded. The process initiates stabilized grade, marks active status, transforms into local carrier, closes active grade, transfers active grade, moves toward phase, and ends in active terminal mass.
+
+Important form:
+
+cheom
+= ch + e + om
+= active graded terminal mass/base
+
+This fits a pharma vessel/substance page extremely well.
+
+f99r.43
+daiin cheeokeey checkhey dor oldy sheey keody okeeey aiin ols
+
+Plain rendering:
+
+The process transforms toward phase, closes active stabilized grade, closes active stabilization, transforms toward output, closes local carrier, closes regulated grade, closes stabilized transformation, closes stabilized grade, moves toward phase, and ends in local regulated carrier.
+f99r.44
+qokey chkeey chey ckhey ckhey ykeey oiin air chody oeksa
+
+Plain rendering:
+
+Initiated stabilized grade is followed by active stabilization, repeated active grade closure, closed stabilized grade, field/phase movement, phase-output relation, active transformation closure, and stabilized/regulatory field marking.
+10. Section D — lower/final vessel label
+f99r.45 label
+yteoldy
+
+Functional label:
+
+closed graded transfer into local carrier, transformed and closed
+
+This is an excellent final vessel-state label.
+
+f99r.47
+tol keey ctheey
+
+Structural-functional translation:
+
+Transfer into local carrier.
+Close stabilized grade.
+Close active transfer grade.
+
+Plain rendering:
+
+The final vessel section opens with transfer into local carrier and closure through stabilization and active transfer.
+f99r.48
+ykeol okeol ckheo chol cheodal okeo olcheem orar
+
+Plain rendering:
+
+Closed stabilized local carrier is followed by stabilized graded local carrier, active stabilized field, active local carrier, active local transformation, stabilized graded field, active local terminal mass, and repeated output relation.
+
+Important form:
+
+olcheem
+= ol + ch + ee + m
+= local carrier + active graded terminal mass
+
+This strongly fits vessel/residue logic.
+
+f99r.49
+okeeey keey keeor okeey daiin okeol aiin olaiir olsal
+
+Plain rendering:
+
+Stabilized graded fields are closed repeatedly, output relation is stabilized, transformation moves toward phase, local carrier is stabilized, phase movement continues, and the process ends in local carrier phase/output and regulated local state.
+f99r.50
+qokeeo okeey qokeey okesy qokeeo sar sheseky or al
+
+Plain rendering:
+
+Stabilized graded fields are initiated and closed, regulated stabilized status is marked, output/status is regulated and closed, and the result moves toward output and local carrier.
+f99r.51
+yshain khey octhey dy daiin okor okeey shct sh
+
+Plain rendering:
+
+Closed regulated phase is stabilized and graded, active transfer is closed, transformation closure occurs, phase transformation follows, stabilized output field is established, stabilized grade closes, and regulated active transfer/status remains.
+f99r.52
+ychor ols or am air om
+
+Structural reading:
+
+ychor
+= y + ch + o + r
+= closed active output field
+
+ols
+= ol + s
+= local carrier status
+
+or
+= output/relation
+
+am
+= terminal base/mass
+
+air
+= phase-bearing output/relation
+
+om
+= terminal field/mass
+
+Structural-functional translation:
+
+Close active output field.
+Mark local carrier status.
+Mark output/relation.
+Move to terminal base/mass.
+Mark phase-output relation.
+End in terminal mass/field.
+
+Plain rendering:
+
+The page closes with active output, local carrier status, output relation, terminal mass/base, phase-output relation, and final terminal mass.
+
+This is an exceptionally strong PHARMA ending: the final line explicitly combines output, local carrier, mass/base, phase-output, and terminal mass.
+
+11. Continuous structural-functional rendering
+
+In continuous form, f99r reads as follows:
+
+The page presents a sequence of prepared vessel/substance states.
+
+A stabilized output vessel contains a prepared terminal mass or residue. The first substance group is processed through procedural transformation, transfer closure, phase movement, separation/preparation, local carrier routing, stabilization, and output closure.
+
+A second vessel group is marked as extraction/output directed toward local carrier. Its text develops repeated local-carrier and stabilized-vessel forms: qokol, okoly, okoldy, qokoly, qokal, okchol, and qokold. This is the grammar of container preparation, local carrier repetition, and stabilized vessel-state closure.
+
+The third vessel label, tsholdy, marks transferred regulated local carrier transformed and closed. The following text develops regulated local carrier, active preparation, terminal mass, output transformation, local closure, and phase movement.
+
+The final vessel label, yteoldy, marks closed graded transfer into local carrier, transformed and closed. The final text section moves through local carrier, stabilized grade, active transfer, terminal mass, output relation, and final mass/base.
+
+The page closes with:
+closed active output,
+local carrier status,
+output/relation,
+terminal base/mass,
+phase-output relation,
+and terminal mass.
+
+Thus f99r is a vessel-substance process page: substance is prepared, transferred, stabilized, localized, extracted, routed toward output, and finally held as terminal mass or residue.
+12. Danish functional rendering
+f99r demonstrerer PHARMA/vessel-substance-regimet.
+
+Siden viser flere røde beholdere, korte labels, små substans- eller rodfigurer og tekstblokke, som ser ud til at høre til de enkelte beholdere og substansgrupper.
+
+De røde beholdere læses som forberedte kar eller substans-containere.
+De grønne toppe læses som fase-, overflade- eller indholdslag.
+De hvide bånd læses som grænse-, separations- eller registreringszoner.
+De små figurer rundt omkring læses som ingredienser, fraktioner, roddele eller udskilte materialefaser.
+
+De vigtigste beholderlabels er:
+
+okoramog / okaramog
+= stabiliseret output-beholder med terminal masse/base
+
+op ara [muligvis oparal]
+= extraction/procedure-output rettet mod lokal carrier
+
+tsholdy
+= overført reguleret lokal carrier, transformeret og lukket
+
+yteoldy
+= lukket graderet transfer ind i lokal carrier, transformeret og lukket
+
+Teksten understøtter samme læsning. Den gentager former som qokol, okeol, sheol, olaiin, ols, opchey, cpheey, cfheol, dam, am, om, ar, dar og or.
+
+Det er præcis de former, man forventer i en vessel-substance-side:
+carrier,
+lokal beholder,
+stabilisering,
+extraction,
+preparation,
+output,
+residue/base,
+terminal mass.
+
+Siden har desuden et særligt vigtigt visuelt træk: næsten alle små rod-/substansfigurer har arme, udløbere, prongs, ben eller fangarme. Nederst ses en stor segmenteret form, der næsten ligner en skolopender. Den læses ikke som fri fantasi, men som en terminal substanskrop eller residue-manifold.
+
+Dette passer med tekstens massive brug af ol-, dal-, dol-, oldy-, am- og om-former. Siden handler derfor ikke kun om beholdere, men om prepared substances, extraction/fractionation, local carrier routing og terminal residue/mass.
+
+f99r viser derfor, at parseren ikke kun læser plantediagrammer og balneo-flow. Den læser også kar, substans, extraction, carrier, output og residue i et egentligt PHARMA-regime.
+13. Final interpretation
+
+f99r is the correct PHARMA/vessel-substance demonstration page because it combines visual vessel logic and textual vessel grammar.
+
+The image shows:
+
+red vessels
+green contents
+white boundary bands
+small substance/fraction drawings
+armed root/substance forms
+large lower scolopender-like substance body
+root/plant material
+labels beside containers
+
+The text gives:
+
+okar / oky / okeol / qokey
+= stabilized fields or output targets
+
+op / cpheey / cph / cfh
+= procedure, extraction, separation, preparation
+
+ol / sheol / cfheol / olaiin / ols
+= local carrier or vessel fields
+
+ot / qotol / otoldy
+= transfer fields
+
+daiin / dal / dol / dy
+= phase and local transformations
+
+am / om / dam
+= terminal mass, base, residue
+
+ar / dar / or / rar
+= output or relation
+
+This is a strong text-image convergence.
+
+The page-level reading is:
+
+prepared substance
+-> extraction/procedure
+-> transfer into vessel/local carrier
+-> stabilization
+-> phase movement
+-> output/fraction
+-> terminal residue/base
+
+The proposed visual corrections are mostly plausible:
+
+okoramog / okaramog:
+okaramog is visually plausible and supported by V.
+
+op ara / oparal:
+oparal is structurally strong, but should be marked tentative.
+
+tsholdy:
+strong; supported by H/V and visually plausible.
+
+yteoldy:
+strong; supported by H and structurally excellent as final vessel label.
+
+Thus f99r completes the fourth demonstration type:
+
+f49v = HERBAL/PROCESS key
+f22v–f23r = normal HERBAL sequence across folios
+f76r + f78r = BALNEO key and applied flow/reservoir page
+f99r = PHARMA/vessel-substance page
