@@ -4415,3 +4415,1537 @@ This distinction strengthens the model because the three pages do not have to be
 f75v prepares/demonstrates carrier-status logic.
 f76r gives the actual operator key.
 f83v visually demonstrates fractionation and carrier-output behavior.
+
+f78r — Applied BALNEO Flow, Reservoir, Transfer and Status Demonstration
+1. Page function
+
+f78r is read here as an applied BALNEO process page, not as the primary BALNEO key page.
+
+The key page remains f76r. f78r functions differently. It shows the BALNEO grammar in full visual and textual use: pipes, transfer tubes, reservoir basins, flow inlets, routed liquid, repeated local carrier fields, and status-marked process transformations.
+
+The page should therefore be placed after f76r in the demonstration sequence:
+
+f76r = actual BALNEO marginal operator key
+f78r = applied BALNEO flow/reservoir process page
+
+The dominant page logic is:
+
+upper source / collector
+-> pipes and transfer conduits
+-> cylindrical joints / filters
+-> routed flow
+-> reservoir basin with figures
+-> secondary basin / lower reservoir
+-> local carrier and phase/status closure
+
+This is exactly the visual regime expected after the f76r BALNEO key:
+
+s -> d -> q -> s -> o -> l -> k -> r -> s
+
+regulated status
+-> transformation
+-> initiation
+-> regulated field
+-> local carrier
+-> stabilization
+-> output/relation
+-> final status
+
+On f78r, the same grammar is no longer presented as a marginal key. It is now expanded into a complete BALNEO process scene.
+
+The corpus lines used below are the f78r H-witness readings, with C/F/V variants recorded where relevant.
+
+2. Visual and layout analysis
+
+The page contains one of the clearest BALNEO process diagrams in the manuscript.
+
+It is not a simple bathing scene. It is a flow system.
+
+2.1 Upper source structures
+
+At the top of the page are two umbrella-like or flower-like collecting structures. They connect to pipes and conduits.
+
+upper source structures
+= collectors / source reservoirs / intake nodes
+
+These structures appear to collect or distribute material into the pipe system.
+
+2.2 Pipe and tube network
+
+Across the upper part of the page, narrow blue and pale channels run horizontally and diagonally. They are interrupted by cylindrical sleeves or filter-like joints.
+
+pipes / blue channels
+= routed flow / transfer fields / conduits
+
+cylindrical sleeves
+= joints / filters / regulators / staged transfer modules
+
+This visual system strongly corresponds to repeated textual forms such as:
+
+otedy
+qotedy
+otar
+otal
+qotal
+tchedy
+cthdy
+chckhdy
+
+These are transfer, routed field, active transfer, and stabilized-transfer forms.
+
+2.3 Red inner socket points
+
+Several cylinders show red internal forms where pipes enter or leave them.
+
+red socket points
+= active input/output points / heated or activated transfer nodes
+
+They indicate that the transfer is not passive. It is activated, regulated, or transformed at specific joints.
+
+2.4 Main reservoir basin
+
+The large central green basin contains figures immersed in a shared green medium.
+
+large green basin
+= main local carrier reservoir / regulated process bath
+
+The human figures are not treated merely as narrative bathers. In BALNEO mode they function as local process bodies or state-markers inside a shared carrier medium.
+
+figures in basin
+= local process nodes / body-state markers / immersed fractions
+
+The blue inflow from above enters directly into this basin, supporting the reading of the basin as a receiving carrier field.
+
+2.5 Lower reservoir
+
+A second lower green basin appears below, also containing immersed figures and green medium.
+
+lower reservoir
+= secondary carrier field / downstream process basin
+
+The page therefore shows not one isolated bath but a multi-stage system:
+
+source
+-> transfer tubes
+-> active joints
+-> main reservoir
+-> secondary reservoir
+2.6 Visual conclusion
+
+The visual system of f78r is:
+
+source collection
+-> routed transfer
+-> regulated/filter joints
+-> active flow
+-> main local carrier reservoir
+-> secondary carrier reservoir
+-> repeated status/phase processing
+
+This is precisely the BALNEO regime: flow, carrier, reservoir, transformation, stabilization, and status marking.
+
+3. Text basis and witness rules
+
+The following translation uses H as the base witness unless otherwise noted.
+
+Important witness variations include:
+
+f78r.3: H/C have tshedor, F/V tshedar; H/C/V end oky, F oty.
+f78r.5: H/C dol, F/V dal.
+f78r.6: H chcthhy, C chcthey, F chcth; H otor, F/V otar.
+f78r.7: final kam/gam variation.
+f78r.9: H/C/V qokai, F qokaiin.
+f78r.10: H/C oiin, F/V aiin.
+f78r.13: C qotchdy instead of qoteedy.
+f78r.17: H/F/V pchey, C poshy.
+f78r.21: H/F qchedy, C/V lchedy.
+f78r.22: H/C/V lr, F ls.
+f78r.26: qeedar / qo dar variation.
+f78r.27: chckhal / eckhal and aldy / oldy variation.
+f78r.43: C drastically shorter: qokaiin dor.
+
+Correction rule:
+
+A variant may be preferred only when supported by witness distribution,
+local sequence, visible form, and the established operator inventory.
+No operator value is changed to force the reading.
+4. Dominant operator families on f78r
+
+f78r is dominated by BALNEO-compatible forms.
+
+Initiation and process-field forms
+qokedy
+qokeedy
+qokain
+qokol
+qotal
+qotedy
+qopchedy
+
+These mark repeated initiation of stabilized, local, transfer, or procedure/extraction fields.
+
+Transfer and routing forms
+otedy
+otar
+otal
+oted
+tchedy
+tedy
+cthdy
+taldy
+
+These correspond to the visible tubes, joints, routed channels, and flow transfers.
+
+Local carrier / reservoir forms
+ol
+olol
+olkedy
+olkain
+qokol
+sokol
+qol
+chol
+kchol
+
+These correspond to basins, reservoirs, local carrier zones, and repeated carrier states.
+
+Transformation and closure forms
+dy
+shedy
+dshedy
+chedy
+kedy
+keedy
+qokedy
+qokeedy
+daiin
+dal
+dol
+dam
+dar
+
+These mark transformations, closures, stabilized closures, phase transformations, local transformations, terminal base/mass, and output transformations.
+
+5. Line-by-line structural-functional translation
+f78r.3
+tshedor shedy qopchedy qokedy dy qokol oky
+
+Reading:
+
+tshedor = transfer-regulated transformation toward output
+shedy = regulated activation transformed/closed
+qopchedy = initiate procedure/extraction active transformation closure
+qokedy = initiate stabilized graded transformation closure
+dy = transformation closure
+qokol = initiate stabilized local carrier
+oky = stabilized field closed
+
+Translation:
+
+Transfer the regulated process toward output.
+Close the regulated activation.
+Initiate procedure/extraction and close the active transformation.
+Initiate a stabilized graded transformation and close it.
+Transform and close.
+Initiate stabilized local carrier.
+Close the stabilized field.
+
+Plain rendering:
+
+The page opens with regulated transfer toward output, followed by repeated closure of procedure, stabilized transformation, and local carrier. This matches the upper pipe-and-joint system feeding into a carrier reservoir.
+f78r.4
+qokeedy qokedy shedy tchedy otar olkedy dam
+
+Reading:
+
+qokeedy = initiate stabilized graded field, transformed/closed
+qokedy = initiate stabilized graded transformation closure
+shedy = regulated activation transformed/closed
+tchedy = transfer active graded transformation closure
+otar = transfer field toward output
+olkedy = local carrier stabilized graded closure
+dam = transformation toward terminal base/mass
+
+Translation:
+
+Initiate and close a stabilized graded field.
+Initiate and close a stabilized transformation.
+Close regulated activation.
+Close active transfer.
+Route the transfer field toward output.
+Close stabilized local carrier.
+Transform toward terminal base/mass.
+
+Plain rendering:
+
+A stabilized graded flow is processed through active transfer, routed toward output, closed in a local carrier, and directed toward a terminal base or residue state.
+f78r.5
+qckhedy cheky dol chedy qokedy qokain olkedy
+
+Variant:
+
+H/C: dol
+F/V: dal
+
+Reading:
+
+qckhedy = initiate active stabilization graded transformation closure
+cheky = active graded stabilization closure
+dol/dal = transform into/toward local carrier
+chedy = active graded transformation closure
+qokedy = initiate stabilized graded transformation closure
+qokain = initiate stabilized phase endpoint
+olkedy = local carrier stabilized graded closure
+
+Translation:
+
+Initiate active stabilized graded closure.
+Close active graded stabilization.
+Transform into or toward local carrier.
+Close active graded transformation.
+Initiate stabilized graded transformation.
+Initiate stabilized phase endpoint.
+Close stabilized local carrier.
+
+Plain rendering:
+
+The flow is stabilized, locally transformed, graded, closed, and moved into a stabilized phase endpoint inside the carrier/reservoir system.
+f78r.6
+yteedy qotal dol shedy qokedar chcthhy otor dor or
+
+Variants:
+
+chcthhy / chcthey / chcth
+otor / otar
+
+Reading:
+
+yteedy = closed transfer-graded transformation closure
+qotal = initiate transfer toward local
+dol = transform into local carrier
+shedy = regulated activation transformed/closed
+qokedar = initiate stabilized graded transformation toward output
+chcthhy = active transfer activation closure
+otor/otar = transfer field toward output/relation
+dor = transform toward output/relation
+or = output/relation field
+
+Translation:
+
+Close graded transfer.
+Initiate transfer toward local carrier.
+Transform into local carrier.
+Close regulated activation.
+Initiate stabilized graded transformation toward output.
+Close active transfer activation.
+Route the transfer field toward output.
+Transform toward output/relation.
+Mark output/relation field.
+
+Plain rendering:
+
+This line describes routed flow moving into local carrier, then toward output through active transfer and regulated closure.
+f78r.7
+qokal otedy qokedy qokedy dal qokedy qokedy kam
+
+Variant:
+
+kam/gam
+
+Reading:
+
+qokal = initiate stabilized local target
+otedy = transfer-field graded transformation closure
+qokedy qokedy = repeated initiated stabilized transformation closure
+dal = transform toward local carrier
+qokedy qokedy = repeated initiated stabilized transformation closure
+kam = stabilized terminal/base mass
+
+Translation:
+
+Initiate stabilized local target.
+Close transfer-field transformation.
+Repeat stabilized transformation closure.
+Transform toward local carrier.
+Repeat stabilized transformation closure.
+End in stabilized terminal mass/base.
+
+Plain rendering:
+
+The process repeatedly stabilizes and closes transferred material, directs it locally, then brings it toward a terminal mass/base state.
+
+Visual match:
+
+This corresponds to the repeated cylindrical modules and the eventual delivery of flow into reservoir/base states.
+f78r.8
+dshedy qokedy okar qokedy shedy ykedy shedy qoky
+
+Reading:
+
+dshedy = transform regulated activation and close
+qokedy = initiate stabilized graded transformation closure
+okar = stabilized output target
+qokedy = initiate stabilized graded transformation closure
+shedy = regulated activation transformed/closed
+ykedy = closed stabilized graded transformation closure
+shedy = regulated activation transformed/closed
+qoky = initiated stabilized field closed
+
+Translation:
+
+Transform and close regulated activation.
+Initiate stabilized graded transformation.
+Mark stabilized output target.
+Initiate stabilized graded transformation again.
+Close regulated activation.
+Close stabilized graded transformation.
+Close regulated activation again.
+Close initiated stabilized field.
+
+Plain rendering:
+
+The line is a repeated status/closure sequence: regulated activation and stabilized transformations are cycled toward an output target and closed.
+f78r.9
+schedy keedy qokedy chckhd qokai chedy qotedy dy
+
+Variant:
+
+F: qokaiin
+
+Reading:
+
+schedy = regulated active graded transformation closure
+keedy = stabilized graded transformation closure
+qokedy = initiated stabilized graded transformation closure
+chckhd = active stabilization/transformation compound
+qokai/qokaiin = initiate stabilized phase
+chedy = active graded transformation closure
+qotedy = initiate transfer-field graded transformation closure
+dy = transformation closure
+
+Translation:
+
+Close regulated active graded transformation.
+Close stabilized graded transformation.
+Initiate stabilized graded transformation.
+Apply active stabilization/transformation.
+Initiate stabilized phase.
+Close active graded transformation.
+Initiate transfer-field transformation.
+Transform and close.
+
+Plain rendering:
+
+The process moves from stabilized grade into phase, then into transfer-field closure.
+f78r.10
+dshedy deedy qokeedy otedy otal tedy otey ol oiin
+
+Variant:
+
+H/C: oiin
+F/V: aiin
+
+Reading:
+
+dshedy = transform regulated activation and close
+deedy = transform graded transformation closure
+qokeedy = initiate stabilized graded field closure
+otedy = transfer-field graded closure
+otal = transfer toward local
+tedy = transfer graded transformation closure
+otey = transfer field graded closure
+ol = local carrier
+oiin/aiin = field/transition toward phase
+
+Translation:
+
+Transform and close regulated activation.
+Close graded transformation.
+Initiate stabilized graded field.
+Close transfer-field transformation.
+Transfer toward local carrier.
+Close graded transfer.
+Close graded transfer-field.
+Enter local carrier.
+Move toward phase.
+
+Plain rendering:
+
+A regulated flow is transformed through repeated transfer closures and placed into local carrier, moving toward phase.
+f78r.11
+qoky okeedy sheety qoteedy otey shckhedy sokol or
+
+Reading:
+
+qoky = initiated stabilized field closed
+okeedy = stabilized graded field closure
+sheety = regulated graded transfer closure
+qoteedy = initiate transfer-field graded transformation closure
+otey = transfer-field graded closure
+shckhedy = regulated active stabilization graded closure
+sokol = regulated stabilized local carrier
+or = output/relation
+
+Translation:
+
+Close initiated stabilized field.
+Close stabilized graded field.
+Close regulated graded transfer.
+Initiate transfer-field graded closure.
+Close transfer-field grade.
+Close regulated active stabilization.
+Establish regulated stabilized local carrier.
+Mark output/relation.
+
+Plain rendering:
+
+The flow closes through stabilized fields and regulated transfer, then settles in a regulated local carrier and moves toward output/relation.
+f78r.12
+dor shekedy qokol kechdy otedy ol tedy chckhedy
+
+Reading:
+
+dor = transform toward output/relation
+shekedy = regulated stabilized graded transformation closure
+qokol = initiate stabilized local carrier
+kechdy = stabilized active graded transformation closure
+otedy = transfer-field graded transformation closure
+ol = local carrier
+tedy = transfer graded transformation closure
+chckhedy = active stabilization graded transformation closure
+
+Translation:
+
+Transform toward output.
+Close regulated stabilized grade.
+Initiate stabilized local carrier.
+Close stabilized active grade.
+Close transfer-field transformation.
+Enter local carrier.
+Close transfer-grade.
+Close active stabilized grade.
+
+Plain rendering:
+
+Output-directed transformation enters a stabilized local carrier and closes through active transfer/stabilization.
+f78r.13
+qokedy ol kedy qokain okedy kedy tol dy qoteedy dy
+
+Variant:
+
+C: qotchdy
+
+Reading:
+
+qokedy = initiated stabilized graded transformation closure
+ol = local carrier
+kedy = stabilized graded transformation closure
+qokain = initiate stabilized phase endpoint
+okedy = stabilized graded transformation closure
+kedy = stabilized graded transformation closure
+tol = transfer local carrier
+dy = transformation closure
+qoteedy/qotchdy = initiate transfer-field graded closure / active transfer closure
+dy = transformation closure
+
+Translation:
+
+Initiate stabilized graded transformation.
+Enter local carrier.
+Close stabilized grade.
+Initiate stabilized phase endpoint.
+Close stabilized grade.
+Close stabilized grade again.
+Transfer local carrier.
+Transform and close.
+Initiate transfer closure.
+Transform and close.
+
+Plain rendering:
+
+The process cycles between stabilized grade, local carrier, phase endpoint, transfer, and closure.
+f78r.14
+or checkhy or chckhdy dol kedy qokededy qokan ol
+
+Reading:
+
+or = output/relation
+checkhy = active graded stabilization closure
+or = output/relation
+chckhdy = active stabilization transformation closure
+dol = transform into local carrier
+kedy = stabilized graded transformation closure
+qokededy = initiated stabilized repeated graded transformation closure
+qokan = initiate stabilized phase boundary
+ol = local carrier
+
+Translation:
+
+Mark output/relation.
+Close active graded stabilization.
+Mark output/relation again.
+Close active stabilization transformation.
+Transform into local carrier.
+Close stabilized grade.
+Initiate repeated stabilized transformation closure.
+Initiate stabilized phase boundary.
+Enter local carrier.
+
+Plain rendering:
+
+Output is stabilized, transformed, and routed into local carrier, then moved toward a stabilized phase boundary.
+f78r.15
+chckhedy qokchdy qokedy okedy dal or okeed olkain
+
+Reading:
+
+chckhedy = active stabilization graded transformation closure
+qokchdy = initiate stabilized active transformation closure
+qokedy = initiate stabilized graded transformation closure
+okedy = stabilized graded transformation closure
+dal = transform toward local carrier
+or = output/relation
+okeed = stabilized graded transformation
+olkain = local carrier stabilized phase endpoint
+
+Translation:
+
+Close active stabilized grade.
+Initiate stabilized active transformation.
+Initiate stabilized graded transformation.
+Close stabilized grade.
+Transform toward local carrier.
+Mark output/relation.
+Establish stabilized grade.
+Enter stabilized phase endpoint in local carrier.
+
+Plain rendering:
+
+The process is actively stabilized, repeatedly transformed, directed locally, and brought to local carrier phase endpoint.
+f78r.16
+qokol oted okain ched or alory
+
+Reading:
+
+qokol = initiate stabilized local carrier
+oted = transfer-field transformation
+okain = stabilized phase endpoint
+ched = active graded transformation
+or = output/relation
+alory = toward local-output relation closed
+
+Translation:
+
+Initiate stabilized local carrier.
+Transform transfer-field.
+Establish stabilized phase endpoint.
+Transform active grade.
+Mark output/relation.
+Move toward local-output closure.
+
+Plain rendering:
+
+A local carrier is initiated, transfer is transformed, and the result moves toward a local output closure.
+f78r.17
+soiin kar kedy pchey tchdoltdy
+
+Variant:
+
+C: poshy
+
+Reading:
+
+soiin = regulated field/phase
+kar = stabilized output target
+kedy = stabilized graded transformation closure
+pchey = procedure active grade closure
+tchdoltdy = transfer active local transformation sequence closed
+
+Translation:
+
+Mark regulated phase.
+Stabilize output target.
+Close stabilized grade.
+Close procedural active grade.
+Transfer active local transformation to closure.
+
+Plain rendering:
+
+A regulated phase is stabilized toward output, then processed through procedural active local transfer.
+f78r.18
+ol chedy qokain dar ar okain
+
+Reading:
+
+ol = local carrier
+chedy = active graded transformation closure
+qokain = initiate stabilized phase endpoint
+dar = transform toward output
+ar = output target
+okain = stabilized phase endpoint
+
+Translation:
+
+Enter local carrier.
+Close active graded transformation.
+Initiate stabilized phase endpoint.
+Transform toward output.
+Mark output target.
+Establish stabilized phase endpoint.
+
+Plain rendering:
+
+Local carrier is processed into a stabilized phase endpoint and routed toward output.
+f78r.19
+che aiin okeedy qokain chl
+
+Variant:
+
+C: cheer
+
+Reading:
+
+che = active grade
+aiin = toward phase
+okeedy = stabilized graded field closure
+qokain = initiate stabilized phase endpoint
+chl = active local carrier / active locality
+
+Translation:
+
+Apply active grade.
+Move toward phase.
+Close stabilized graded field.
+Initiate stabilized phase endpoint.
+Enter active local carrier.
+
+Plain rendering:
+
+The process is graded, moved into phase, stabilized, and placed into active local carrier.
+f78r.20
+sol shedy dal shdy qokychdy
+
+Reading:
+
+sol = regulated local carrier
+shedy = regulated activation transformation closure
+dal = transform toward local carrier
+shdy = regulated activation transformation closure
+qokychdy = initiate stabilized closed active transformation
+
+Translation:
+
+Establish regulated local carrier.
+Close regulated activation.
+Transform toward local carrier.
+Close regulated activation again.
+Initiate stabilized closed active transformation.
+
+Plain rendering:
+
+A regulated local carrier is processed through repeated closure and stabilized active transformation.
+f78r.21
+qchedy qokain cheeky okeedy
+
+Variant:
+
+C/V: lchedy
+
+Reading:
+
+qchedy/lchedy = initiated or local active graded transformation closure
+qokain = initiate stabilized phase endpoint
+cheeky = active graded stabilization closure
+okeedy = stabilized graded field closure
+
+Translation:
+
+Initiate or localize active graded transformation.
+Initiate stabilized phase endpoint.
+Close active graded stabilization.
+Close stabilized graded field.
+
+Plain rendering:
+
+The process moves into phase endpoint and closes as active/stabilized grade.
+f78r.22
+yched qokain daiin chckhdy lr
+
+Variant:
+
+F: ls
+
+Reading:
+
+yched = closed active graded transformation
+qokain = initiate stabilized phase endpoint
+daiin = transform toward phase
+chckhdy = active stabilization transformation closure
+lr/ls = local-output relation or local-status
+
+Translation:
+
+Mark closed active transformation.
+Initiate stabilized phase endpoint.
+Transform toward phase.
+Close active stabilization transformation.
+End in local relation/status.
+
+Plain rendering:
+
+A closed active transformation moves through phase and active stabilization into local relation/status.
+f78r.23
+sai sheor ol kchdy roiin okeedy
+
+Variants:
+
+F: saiin
+V: ain
+
+Reading:
+
+sai/saiin = regulated phase
+sheor = regulated active graded output/relation
+ol = local carrier
+kchdy = stabilized active transformation closure
+roiin = output/relation toward phase
+okeedy = stabilized graded field closure
+
+Translation:
+
+Mark regulated phase.
+Route regulated active grade toward output.
+Enter local carrier.
+Close stabilized active transformation.
+Move output/relation toward phase.
+Close stabilized graded field.
+
+Plain rendering:
+
+Regulated phase is carried through output relation, local carrier, active stabilization, and closed graded field.
+f78r.24
+qokeedy kedy qokeey qokedy olol
+
+Reading:
+
+qokeedy = initiate stabilized graded field closure
+kedy = stabilized graded transformation closure
+qokeey = initiate stabilized grade closure
+qokedy = initiate stabilized graded transformation closure
+olol = repeated local carrier
+
+Translation:
+
+Initiate stabilized graded field closure.
+Close stabilized grade.
+Initiate stabilized graded closure.
+Initiate stabilized graded transformation closure.
+Establish repeated local carrier.
+
+Plain rendering:
+
+Repeated stabilized graded operations lead into repeated local carrier.
+
+Visual match:
+
+This corresponds well to repeated basin/carrier states.
+f78r.25
+sokeedy eol loroin olkeey aiin
+
+Variants:
+
+C: sheol lorain
+
+Reading:
+
+sokeedy = regulated stabilized graded field closure
+eol/sheol = graded or regulated local carrier
+loroin/lorain = local output/relation toward phase
+olkeey = local carrier stabilized grade closure
+aiin = toward phase
+
+Translation:
+
+Close regulated stabilized graded field.
+Enter graded/reguated local carrier.
+Move local output relation toward phase.
+Close stabilized graded local carrier.
+Move toward phase.
+
+Plain rendering:
+
+The reservoir state is regulated, stabilized, localized, and moved toward phase.
+f78r.26
+sol shey kary or csedy qeedar ai aol
+
+Variants:
+
+C/V/F vary between or/ar, csedy/shedy, qeedar/qo dar, ai/aiin
+
+Reading:
+
+sol = regulated local carrier
+shey = regulated grade closure
+kary = stabilized output target closed
+or/ar = output/relation
+csedy/shedy = active/reguated transformation closure
+qeedar/qo dar = initiated graded transformation toward output
+ai/aiin = toward phase
+aol = toward local carrier
+
+Translation:
+
+Regulate local carrier.
+Close regulated grade.
+Close stabilized output target.
+Mark output/relation.
+Close active/reguated transformation.
+Initiate graded transformation toward output.
+Move toward phase.
+Move toward local carrier.
+
+Plain rendering:
+
+Local carrier is regulated and output-marked, then routed through graded transformation toward phase and local carrier.
+f78r.27
+daiin chckhal daii aldy
+
+Variants:
+
+C: eckhal
+V: oldy
+
+Reading:
+
+daiin = transform toward phase
+chckhal/eckhal = active/stabilized local transfer or graded local stabilization
+daii = transform toward phase
+aldy/oldy = toward local transformation closure / local field transformation closure
+
+Translation:
+
+Transform toward phase.
+Apply active stabilized local transfer.
+Transform toward phase again.
+Move toward local transformation closure.
+
+Plain rendering:
+
+The process continues through phase and local stabilized transformation.
+f78r.28
+rai ol qokeedy kchol tchal olkee yfchey ofchedy taly
+
+Variants:
+
+C begins ai; F raiin.
+
+Reading:
+
+rai = output/relation toward phase
+ol = local carrier
+qokeedy = initiate stabilized graded field closure
+kchol = stabilized active local carrier
+tchal = transfer active local
+olkee = local carrier stabilized grade
+yfchey = closed preparatory active grade closure
+ofchedy = field/preparatory active grade transformation closure
+taly = transfer toward local closure
+
+Translation:
+
+Move output relation toward phase.
+Enter local carrier.
+Initiate stabilized graded closure.
+Stabilize active local carrier.
+Transfer active local carrier.
+Stabilize graded local carrier.
+Close preparatory active grade.
+Close preparatory active field transformation.
+Close transfer toward local carrier.
+
+Plain rendering:
+
+The output relation is localized, stabilized, actively transferred, and closed through preparatory local transformation.
+f78r.29
+sheky ol kedy chckhy dain oty qokor oky dain chy ol
+
+Variant:
+
+C: tain instead of dain
+
+Reading:
+
+sheky = regulated graded stabilization closure
+ol = local carrier
+kedy = stabilized graded transformation closure
+chckhy = active stabilization closure
+dain/tain = transform or transfer toward phase endpoint
+oty = transfer field closed
+qokor = initiate stabilized output/relation field
+oky = stabilized field closed
+dain = transform toward phase endpoint
+chy = active closure
+ol = local carrier
+
+Translation:
+
+Close regulated graded stabilization.
+Enter local carrier.
+Close stabilized grade.
+Close active stabilization.
+Move toward phase endpoint.
+Close transfer field.
+Initiate stabilized output/relation field.
+Close stabilized field.
+Transform toward phase endpoint.
+Close actively.
+Enter local carrier.
+
+Plain rendering:
+
+A local carrier is stabilized, closed, routed through phase endpoint and output, then returned to local carrier.
+f78r.30
+qokeedy qokey daiin olkain dal chedy ol ol dal chchty tedy
+
+Reading:
+
+qokeedy = initiate stabilized graded field closure
+qokey = initiate stabilized grade closure
+daiin = transform toward phase
+olkain = local carrier stabilized phase endpoint
+dal = transform toward local carrier
+chedy = active graded transformation closure
+ol ol = repeated local carrier
+dal = transform toward local carrier
+chchty = active frame active transfer closure
+tedy = transfer graded transformation closure
+
+Translation:
+
+Initiate stabilized graded closure.
+Initiate stabilized grade closure.
+Transform toward phase.
+Establish stabilized phase endpoint in local carrier.
+Transform toward local carrier.
+Close active graded transformation.
+Repeat local carrier.
+Transform toward local carrier again.
+Close active transfer.
+Close graded transfer transformation.
+
+Plain rendering:
+
+The line strongly emphasizes repeated local carrier and phase closure, matching the reservoir logic of the image.
+f78r.31
+sol keedy sheckhy qokedy otal shedy otar ol chedy cthdy
+
+Reading:
+
+sol = regulated local carrier
+keedy = stabilized graded closure
+sheckhy = regulated active stabilization closure
+qokedy = initiate stabilized graded transformation closure
+otal = transfer toward local
+shedy = regulated activation transformation closure
+otar = transfer toward output
+ol = local carrier
+chedy = active graded transformation closure
+cthdy = active transfer transformation closure
+
+Translation:
+
+Regulate local carrier.
+Close stabilized grade.
+Close regulated active stabilization.
+Initiate stabilized graded transformation.
+Transfer toward local carrier.
+Close regulated activation.
+Transfer toward output.
+Enter local carrier.
+Close active graded transformation.
+Close active transfer transformation.
+
+Plain rendering:
+
+Regulated local carrier is stabilized, transferred locally and toward output, then actively transformed and closed.
+f78r.32
+qokedy ckhdy qokain chedy dalky lkain ykeedy okaly dy
+
+Reading:
+
+qokedy = initiate stabilized graded transformation closure
+ckhdy = active stabilization transformation closure
+qokain = initiate stabilized phase endpoint
+chedy = active graded transformation closure
+dalky = transform toward local stabilization closure
+lkain = local carrier stabilized phase endpoint
+ykeedy = closed stabilized graded transformation closure
+okaly = stabilized local closure
+dy = transformation closure
+
+Translation:
+
+Initiate stabilized graded transformation.
+Close active stabilization transformation.
+Initiate stabilized phase endpoint.
+Close active graded transformation.
+Transform toward local stabilization closure.
+Establish local carrier phase endpoint.
+Close stabilized graded transformation.
+Close stabilized local field.
+Transform and close.
+
+Plain rendering:
+
+This line completes a local carrier phase endpoint through active stabilization and repeated closure.
+f78r.33
+ytedy daiin ykedy ol sheey qokchy okal ol keedy dyky
+
+Reading:
+
+ytedy = closed transfer graded transformation closure
+daiin = transform toward phase
+ykedy = closed stabilized graded transformation closure
+ol = local carrier
+sheey = regulated grade closure
+qokchy = initiate stabilized active closure
+okal = stabilized local target
+ol = local carrier
+keedy = stabilized graded closure
+dyky = transformation closure + stabilization closure
+
+Translation:
+
+Close transfer-grade transformation.
+Transform toward phase.
+Close stabilized graded transformation.
+Enter local carrier.
+Close regulated grade.
+Initiate stabilized active closure.
+Establish stabilized local target.
+Enter local carrier.
+Close stabilized grade.
+Close transformation and stabilization.
+
+Plain rendering:
+
+Transfer, phase, local carrier, regulation, and stabilization are brought to closure.
+f78r.34
+dshedy qokeedy qopchedy qokaly dar okaiin okeeal am
+
+Reading:
+
+dshedy = transform regulated activation and close
+qokeedy = initiate stabilized graded field closure
+qopchedy = initiate procedure/extraction active graded transformation closure
+qokaly = initiate stabilized local closure
+dar = transform toward output
+okaiin = stabilized phase
+okeeal = stabilized graded local target
+am = terminal base/mass
+
+Translation:
+
+Transform and close regulated activation.
+Initiate stabilized graded field.
+Initiate procedural active transformation closure.
+Initiate stabilized local closure.
+Transform toward output.
+Establish stabilized phase.
+Establish stabilized graded local target.
+End in terminal base/mass.
+
+Plain rendering:
+
+A procedure/extraction sequence is processed through local closure, output, stabilized phase, and terminal mass.
+f78r.35
+sain checkhy qokain cheeky daiin daiin tees ol
+
+Variants:
+
+C: oldy
+F/V: al
+
+Reading:
+
+sain = regulated phase endpoint
+checkhy = active graded stabilization closure
+qokain = initiate stabilized phase endpoint
+cheeky = active graded stabilization closure
+daiin daiin = repeated transformation toward phase
+tees = transfer graded status
+ol = local carrier
+
+Translation:
+
+Mark regulated phase endpoint.
+Close active graded stabilization.
+Initiate stabilized phase endpoint.
+Close active graded stabilization again.
+Transform toward phase twice.
+Mark transfer-grade status.
+Enter local carrier.
+
+Plain rendering:
+
+A regulated phase endpoint is stabilized, repeatedly transformed toward phase, and placed in local carrier.
+f78r.36
+qotchedy lchedy lchedy kedy qol saiin ckhain or
+
+Variant:
+
+F: cthain
+
+Reading:
+
+qotchedy = initiate active transfer-field graded transformation closure
+lchedy = local active graded transformation closure
+lchedy = repeated local active graded transformation closure
+kedy = stabilized graded transformation closure
+qol = initiate local carrier
+saiin = regulated phase
+ckhain/cthain = active stabilization/transfer toward phase endpoint
+or = output/relation
+
+Translation:
+
+Initiate active transfer-field closure.
+Close local active graded transformation.
+Repeat local active graded transformation.
+Close stabilized grade.
+Initiate local carrier.
+Mark regulated phase.
+Move active stabilization or transfer toward phase endpoint.
+Mark output/relation.
+
+Plain rendering:
+
+This line is highly BALNEO: transfer-field, local transformations, regulated phase, carrier, and output occur in one sequence.
+f78r.37
+osal ol aiin shes aiin oly
+
+Reading:
+
+osal = field/status toward local target
+ol = local carrier
+aiin = toward phase
+shes = regulated grade/status
+aiin = toward phase
+oly = local carrier closed
+
+Translation:
+
+Move field/status toward local target.
+Enter local carrier.
+Move toward phase.
+Mark regulated grade/status.
+Move toward phase again.
+Close local carrier.
+
+Plain rendering:
+
+A local carrier is moved through phase and regulated status, then closed.
+f78r.38
+aiin oteedy ol aiin chedy
+
+Reading:
+
+aiin = toward phase
+oteedy = transfer-field graded transformation closure
+ol = local carrier
+aiin = toward phase
+chedy = active graded transformation closure
+
+Translation:
+
+Move toward phase.
+Close transfer-field transformation.
+Enter local carrier.
+Move toward phase again.
+Close active graded transformation.
+
+Plain rendering:
+
+The process cycles phase, transfer closure, local carrier, and active graded closure.
+f78r.39
+qotaiin qokaiin okedy keedy
+
+Reading:
+
+qotaiin = initiate transfer-field toward phase
+qokaiin = initiate stabilized phase
+okedy = stabilized graded transformation closure
+keedy = stabilized graded closure
+
+Translation:
+
+Initiate transfer-field toward phase.
+Initiate stabilized phase.
+Close stabilized graded transformation.
+Close stabilized grade.
+
+Plain rendering:
+
+Transfer is initiated toward phase and closed as stabilized grade.
+f78r.40
+shedy qol shedy qokaiin rol
+
+Reading:
+
+shedy = regulated activation transformation closure
+qol = initiate local carrier
+shedy = regulated activation transformation closure
+qokaiin = initiate stabilized phase
+rol = output/relation local carrier
+
+Translation:
+
+Close regulated activation.
+Initiate local carrier.
+Close regulated activation again.
+Initiate stabilized phase.
+Move output/relation into local carrier.
+
+Plain rendering:
+
+Regulated activation enters local carrier and stabilized phase, ending as local output relation.
+f78r.41
+ykain chdar chedy qokai dy
+
+Variants:
+
+C/F: qokaiin
+
+Reading:
+
+ykain = closed stabilized phase endpoint
+chdar = active transformation toward output
+chedy = active graded transformation closure
+qokai/qokaiin = initiate stabilized phase
+dy = transformation closure
+
+Translation:
+
+Mark closed stabilized phase endpoint.
+Transform active frame toward output.
+Close active graded transformation.
+Initiate stabilized phase.
+Transform and close.
+
+Plain rendering:
+
+A closed phase endpoint is routed toward active output and closed again as stabilized phase.
+f78r.42
+dain chfaiin opaly kotaly
+
+Reading:
+
+dain = transform toward phase endpoint
+chfaiin = active preparatory frame toward phase
+opaly = procedure/extraction field toward local closure
+kotaly = stabilized transfer/local closure
+
+Translation:
+
+Transform toward phase endpoint.
+Move active preparatory frame toward phase.
+Close procedure/extraction toward local carrier.
+Close stabilized transfer/local field.
+
+Plain rendering:
+
+The process reaches a phase endpoint, enters preparatory/extraction mode, and closes through local transfer.
+f78r.43
+lchedy pchedy qokaiin dar
+
+Variant:
+
+C: qokaiin dor
+
+Reading:
+
+lchedy = local active graded transformation closure
+pchedy = procedural active graded transformation closure
+qokaiin = initiate stabilized phase
+dar/dor = transform toward output/relation
+
+Translation:
+
+Close local active graded transformation.
+Close procedural active graded transformation.
+Initiate stabilized phase.
+Transform toward output/relation.
+
+Plain rendering:
+
+The running text closes by moving local/procedural transformation into stabilized phase and output.
+6. Marginal / label-like entries
+
+The page also contains several label-like entries outside the main block:
+
+f78r.1  okchdldlo
+f78r.2  okchdy
+f78r.44 dar aloikhy
+f78r.45 dchedaly
+f78r.46 otaso dl ory orory
+f78r.47 okar al
+
+These should not be treated as ordinary running lines. They appear to label or annotate local visual structures.
+
+f78r.1
+okchdldlo
+
+Reading:
+
+ok + ch + d + l + d + l + o
+= stabilized active transformation through repeated local carrier into field
+
+Plain rendering:
+
+stabilized active transformation through repeated local carrier field
+f78r.2
+okchdy
+
+Reading:
+
+ok + ch + dy
+= stabilized active field transformed and closed
+
+Plain rendering:
+
+stabilized active transformation closed
+f78r.44
+dar aloikhy
+
+Reading:
+
+dar = transform toward output
+aloikhy = toward local/field stabilized active closure
+
+Plain rendering:
+
+output-directed transformation into stabilized local closure
+f78r.45
+dchedaly
+
+Reading:
+
+d + ch + e + dal + y
+= transform active graded local transformation and close
+
+Plain rendering:
+
+active graded local transformation closed
+f78r.46
+otaso dl ory orory
+
+Reading:
+
+otaso = transfer field toward regulated/status field
+dl = transform toward local
+ory = output/relation closed
+orory = repeated output/relation closure
+
+Plain rendering:
+
+transfer field moves into regulated status, local transformation, and repeated output closure
+f78r.47
+okar al
+
+Reading:
+
+okar = stabilized output target
+al = toward local
+
+Plain rendering:
+
+stabilized output target toward local carrier
+
+These labels match the visual system: pipes, cylinders, active transfer points, basins, and reservoir outputs.
+
+7. Continuous structural-functional rendering
+
+In continuous form, f78r reads as follows:
+
+A regulated BALNEO transfer process is initiated through upper source structures and routed through a system of pipes, joints, and transfer modules.
+
+The flow is repeatedly stabilized, graded, transformed, and closed. Transfer fields are routed toward local carriers and output targets. Local carrier reservoirs are initiated, stabilized, and phase-marked.
+
+The process repeatedly cycles through:
+
+initiation
+-> transfer field
+-> active/reguated transformation
+-> stabilized field
+-> local carrier
+-> phase endpoint
+-> output/relation
+-> terminal base or reservoir state
+-> closure/status
+
+The visual diagram matches this structure. The upper collectors feed pipes and cylindrical joints. These direct blue flow into the main green reservoir basin, where figures function as local process-state markers. The lower reservoir continues the same carrier logic at a second stage.
+
+The repeated textual forms qokedy, qokeedy, qokol, qokain, otedy, qotedy, shedy, chedy, kedy, ol, olol, dal, dol, dam, dar, and dy correspond to the visual system of initiated flow, routed transfer, regulated closure, local carrier, reservoir, phase endpoint, terminal base, and output.
+8. Danish functional rendering
+f78r demonstrerer en fuldt udfoldet BALNEO-proces.
+
+Siden viser ikke blot badende figurer. Den viser et teknisk flow-/reservoirsystem:
+øvre kilde- eller samlerstrukturer,
+rør,
+cylindriske led eller filtre,
+aktive indløbs- og udløbspunkter,
+et stort grønt reservoir,
+og et sekundært nedre reservoir.
+
+Teksten følger samme struktur.
+Den gentager former for initiering, transfer, stabilisering, lokal carrier, fase, output og lukning.
+
+qokedy og qokeedy markerer initierede stabiliserede transformationsfelter.
+otedy, qotedy, otar og otal markerer transfer- og rørføringsfunktioner.
+ol, qokol, qol, olol og olkain markerer lokale carriers eller reservoirfelter.
+daiin, dal, dol, dam og dar markerer transformation mod fase, lokal carrier, terminal masse/base og output.
+shedy, chedy, kedy og dy markerer forskellige former for transformation og closure.
+
+Billedet og teksten beskriver derfor samme proces:
+flow initieres,
+routed gennem rør og led,
+stabiliseres,
+føres ind i lokale reservoirer,
+behandles som fase/status,
+og lukkes som output eller carrier-resultat.
+
+f78r er derfor ikke BALNEO-nøglen selv.
+Den er den udfoldede anvendelse af BALNEO-nøglen.
+9. Final interpretation
+
+f78r is a strong applied BALNEO demonstration because it combines three layers:
+
+1. visual flow system:
+   collectors, pipes, joints, blue flow, basins, immersed figures;
+
+2. textual operator system:
+   q, ot, ok, ol, d, dy, dal, dol, dam, dar, s/sh, k, r/or;
+
+3. regime logic:
+   regulated flow, local carrier, reservoir, phase endpoint, output/status.
+
+The page confirms that BALNEO is not a separate unrelated code. It uses the same operator inventory as the rest of the manuscript, but dispatches it into a hydraulic/reservoir regime.
+
+The correct sequence of BALNEO demonstration is therefore:
+
+f76r = actual marginal BALNEO operator key
+f78r = applied BALNEO flow/reservoir page
+f83v = visual fractionation/control page
+
+This distinction strengthens the model. f76r gives the key. f78r shows the key in full use. f83v can then be used as an independent visual control showing fractionation, reservoirs, membranes, waves, and discrete outputs.
+
+The main conclusion is:
+
+f78r demonstrates that the BALNEO section encodes process flow:
+regulated transfer,
+stabilized field,
+local carrier reservoir,
+phase transformation,
+output/relation,
+terminal base or mass,
+and closure/status.
