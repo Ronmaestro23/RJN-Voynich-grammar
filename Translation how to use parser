@@ -2271,3 +2271,855 @@ field, carrier, transfer, stabilization, regulation,
 procedure-initiation, transformation, output, phase, residue/base, and closure.
 
 In that sense, f49v is not only a page to be translated. It is also a page that teaches how translation is to be done.
+
+
+
+f22v — Structural-Functional Translation and Image Analysis
+1. Page function
+
+f22v is read here as a normal HERBAL/PROCESS page. Unlike f49v, it is not primarily a grammatical key page. It is an applied process page: the operator grammar is now used inside ordinary running text, while the plant image functions as a vertical process diagram.
+
+The page combines:
+
+1. ordinary running text;
+2. a vertical plant/process diagram;
+3. a large red-brown root/base structure;
+4. green segmented carrier leaves;
+5. an upper flower/output structure;
+6. repeated striped or banded internal fields.
+
+The page is therefore ideal immediately after f49v:
+
+f49v = how to read the operator grammar
+f22v = the operator grammar applied to a normal herbal/process page
+
+The main visual logic of f22v is:
+
+red-brown root/base with hooks/spines
+-> pale root conduits
+-> green stem/carrier
+-> repeated segmented side-fields
+-> upper flower/output head
+
+Under the parser, this corresponds to:
+
+base/residue
+-> carrier/conduit
+-> transfer/local carrier
+-> regulated/stabilized process fields
+-> phase/output closure
+2. Visual and layout analysis
+
+The lower part of the image is dominated by a red-brown root-like structure with thorn-like projections and hook-like side elements. This is unlikely to be mere botanical realism. It functions as a diagrammatic base/residue/manifold.
+
+red-brown root/base
+= terminal base / residue / heavy material matrix / active lower conduit
+
+The hooked or thorned projections suggest a resistant, active, fixed, or extracted base. In the model’s visual grammar, red/brown structures often correspond to base, residue, terminal mass, active fixed material, or heavy fraction.
+
+The pale vertical root conduits rising from the red base into the stem are important.
+
+pale root conduits
+= carrier channels / extraction paths / transfer from base into process stem
+
+The green stem is the main carrier route.
+
+green stem
+= vertical carrier / process conduit / transport axis
+
+The side leaves are not smooth naturalistic leaves. They are striped, segmented, and repeated. Each side-field looks like a controlled carrier chamber or process segment.
+
+green segmented leaves
+= local carrier fields / repeated process chambers / staged transfer zones
+
+The white stripes inside the green leaves function as gaps, channels, separations, or measured subdivisions.
+
+white stripes
+= separation bands / apertures / internal phase divisions
+
+The upper flower/head has pale, blue, and yellow/brown internal areas. It functions as the upper output or collector zone.
+
+upper flower/head
+= output collector / final process field / classified result zone
+
+The whole image can therefore be read as a vertical process:
+
+base/residue matrix
+-> extraction/carrier conduits
+-> repeated local carrier fields
+-> segmented transfer phases
+-> upper output/collector
+
+This matches the dominant textual operators on the page: q, ot, ok, daiin, dam, dy, chol, shol, or, ytal, and repeated closure/phase forms.
+
+3. Text basis and witness rule
+
+The translation below uses H witness as the base reading unless otherwise noted. Variant readings are mentioned only where they affect the structural-functional interpretation.
+
+The most important witness issues on this page are:
+
+f22v.1: H/F/U end with qo, C omits qo.
+f22v.2: H has ytchyd, C/F/U have otchyd.
+f22v.3: H/C/F have ytchol, U has otchol.
+f22v.5: U has daii, others daiin.
+f22v.9: H/F teeol, C/U tchol.
+f22v.12: H/F/U ychky, C ykchy.
+f22v.14: H/C/F olshly, U olshey.
+f22v.15: H/C/F cthy, U ctho.
+
+Correction rule:
+
+A variant may be preferred only when:
+1. it is supported by multiple witnesses;
+2. it fits the visible glyph form;
+3. it fits the local sequence;
+4. it preserves an already established operator value;
+5. it does not require inventing a new meaning.
+4. Line-by-line structural-functional translation
+f22v.1
+pysaiinor ofchar oky tchy otdy sor shy qo
+
+Witness note:
+
+C omits final qo.
+H/F/U preserve qo.
+
+Token reading:
+
+pysaiinor
+= p + y + s + aiin + or
+= procedure-initiation + closure/status + regulation + phase + output/relation
+
+ofchar
+= o + f + ch + ar
+= field + preparatory/variant activation + active output target
+
+oky
+= ok + y
+= stabilized field closed
+
+tchy
+= t + ch + y
+= transfer active frame closed
+
+otdy
+= ot + dy
+= transfer field + transformation-closure
+
+sor
+= s + or
+= regulated output/relation field
+
+shy
+= sh + y
+= regulated activation closed
+
+qo
+= q + o
+= initiate process field
+
+Structural-functional translation:
+
+Procedure-initiation is carried through regulated phase-output.
+A preparatory active field is directed toward output.
+The stabilized field is closed.
+Active transfer is closed.
+The transfer field undergoes transformation-closure.
+Regulated output/relation is marked.
+Regulated activation is closed.
+A new process field is initiated.
+
+Plain functional rendering:
+
+The page opens by declaring a regulated procedural phase-output.
+A preparatory active field is routed toward output,
+then stabilized, transferred, transformed, and closed.
+The regulated output state is marked,
+and a new process field is initiated.
+
+Comment:
+
+The final qo is important. If retained, the line ends by initiating the next process field. If omitted, as in C, the line ends on regulated activation closure. Because H/F/U preserve qo, the preferred reading keeps it.
+
+f22v.2
+daiin ykaiin qotchy kchy ytchyd dshor ychy
+
+Witness note:
+
+H: ytchyd
+C/F/U: otchyd
+
+Token reading:
+
+daiin
+= transformation toward phase
+
+ykaiin
+= y + k + aiin
+= closed/boundaried stabilization toward phase
+
+qotchy
+= q + ot + ch + y
+= initiated active transfer-field closed
+
+kchy
+= k + ch + y
+= stabilized active closure
+
+ytchyd / otchyd
+= y/ot + t + ch + y + d
+= closed or transfer-active closure with transformation
+
+dshor
+= d + sh + or
+= transformation of regulated active output/relation
+
+ychy
+= y + ch + y
+= closed active frame closed
+
+Structural-functional translation:
+
+Transform toward phase.
+Close/stabilize toward phase.
+Initiate and close the active transfer-field.
+Stabilize and actively close.
+Close or transfer an active closure into transformation.
+Transform regulated active output/relation.
+Close the active frame.
+
+Plain functional rendering:
+
+The process enters a phase,
+is stabilized into that phase,
+then initiates and closes an active transfer.
+A stabilized active state is closed,
+then transformed through regulated output,
+ending in active closure.
+
+Comment:
+
+ytchyd / otchyd is a controlled ambiguity:
+
+ytchyd = closure-led active transfer/transformation
+otchyd = transfer-field active transformation/closure
+
+Both preserve the same local function: transfer/closure moving into transformation.
+
+f22v.3
+qoky kchorl otchy cthy otchy ky ytchol otam
+
+Witness note:
+
+U reads otchol instead of ytchol.
+
+Token reading:
+
+qoky
+= q + ok + y
+= initiated stabilized field closed
+
+kchorl
+= k + ch + o + r + l
+= stabilized active field-output into local carrier
+
+otchy
+= ot + ch + y
+= active transfer-field closed
+
+cthy
+= cth + y
+= active transfer closed
+
+otchy
+= active transfer-field closed
+
+ky
+= k + y
+= stabilization closed
+
+ytchol / otchol
+= y/ot + t/chol
+= closed or transfer active local carrier
+
+otam
+= ot + am
+= transfer toward terminal base/mass
+
+Structural-functional translation:
+
+Initiate and close a stabilized field.
+Stabilize active output into local carrier.
+Close the active transfer-field.
+Close active transfer.
+Close the active transfer-field again.
+Close stabilization.
+Move into closed or transferred active local carrier.
+Transfer toward terminal base/mass.
+
+Plain functional rendering:
+
+A stabilized field is initiated and closed.
+Its active output is fixed into local carrier.
+Transfer operations are repeatedly closed,
+then the stabilized carrier is routed toward terminal base or residue.
+
+Visual correspondence:
+
+This line matches the lower root/base logic: transfer and stabilization move toward terminal mass (otam), corresponding to the red-brown base/residue structure.
+
+f22v.4
+otchaiin shoty qoky saiin odaiin ytaiin
+
+Token reading:
+
+otchaiin
+= ot + ch + aiin
+= transfer active frame toward phase
+
+shoty
+= sh + ot + y
+= regulated active transfer closed
+
+qoky
+= initiated stabilized field closed
+
+saiin
+= s + aiin
+= regulated phase
+
+odaiin
+= o + daiin
+= field transformed toward phase
+
+ytaiin
+= y + t + aiin
+= closed transfer toward phase
+
+Structural-functional translation:
+
+Transfer the active frame toward phase.
+Close regulated active transfer.
+Initiate and close stabilized field.
+Mark regulated phase.
+Transform field toward phase.
+Close transfer toward phase.
+
+Plain functional rendering:
+
+The transfer system moves into phase,
+is regulated and closed,
+then a stabilized field is closed,
+marked as regulated phase,
+transformed further,
+and closed as phase-directed transfer.
+f22v.5
+dor ykcheor daiin
+
+Witness note:
+
+U: daii
+H/C/F: daiin
+
+Token reading:
+
+dor
+= d + or
+= transformation toward output/relation field
+
+ykcheor
+= y + k + ch + e + or
+= closed stabilized active graded output/relation
+
+daiin
+= transformation toward phase
+
+Structural-functional translation:
+
+Transform toward output/relation.
+Close and stabilize active graded output.
+Transform toward phase.
+
+Plain functional rendering:
+
+The material is transformed toward output,
+closed and stabilized as a graded active output,
+then moved into the next phase.
+f22v.6
+fshor shy tchor otaiin
+
+Token reading:
+
+fshor
+= f + sh + or
+= preparatory/material regulated active output
+
+shy
+= regulated activation closed
+
+tchor
+= t + ch + or
+= transfer active output
+
+otaiin
+= ot + aiin
+= transfer field toward phase
+
+Structural-functional translation:
+
+Prepare regulated active output.
+Close regulated activation.
+Transfer active output.
+Move transfer field toward phase.
+
+Plain functional rendering:
+
+A preparatory regulated output is formed,
+its activation is closed,
+and the active output is transferred into the next phase.
+f22v.7
+ychor chor qokchol chory
+
+Token reading:
+
+ychor
+= y + ch + o + r
+= closed active field-output
+
+chor
+= active field-output
+
+qokchol
+= q + ok + chol
+= initiate stabilized active local carrier
+
+chory
+= ch + o + r + y
+= active field-output closed
+
+Structural-functional translation:
+
+Closed active field-output.
+Active field-output.
+Initiate stabilized active local carrier.
+Close active field-output.
+
+Plain functional rendering:
+
+The output field is closed,
+then reasserted as active output,
+placed into a stabilized active local carrier,
+and closed again.
+f22v.8
+qotchy cthy qokol daiin dam
+
+Token reading:
+
+qotchy
+= initiated active transfer-field closed
+
+cthy
+= active transfer closed
+
+qokol
+= q + ok + ol
+= initiate stabilized local carrier field
+
+daiin
+= transformation toward phase
+
+dam
+= transformation toward terminal base/mass
+
+Structural-functional translation:
+
+Initiate and close active transfer-field.
+Close active transfer.
+Initiate stabilized local carrier field.
+Transform toward phase.
+Transform toward terminal base/mass.
+
+Plain functional rendering:
+
+The active transfer is initiated and closed,
+a stabilized local carrier is opened,
+then the process is transformed into phase
+and directed toward terminal base or residue.
+
+Visual correspondence:
+
+This line is one of the clearest matches to the page image: qokol and dam correspond to carrier-field and base/residue logic.
+
+f22v.9
+okshor shody chol teeol otaiin daiin
+
+Witness note:
+
+H/F: teeol
+C/U: tchol
+
+Token reading:
+
+okshor
+= ok + sh + or
+= stabilized regulated active output
+
+shody
+= sh + o + dy
+= regulated active field transformed and closed
+
+chol
+= active local carrier
+
+teeol / tchol
+= transfer graded local carrier / transfer active local carrier
+
+otaiin
+= transfer field toward phase
+
+daiin
+= transformation toward phase
+
+Structural-functional translation:
+
+Stabilize regulated active output.
+Transform and close the regulated active field.
+Establish active local carrier.
+Transfer into graded/active local carrier.
+Move transfer field toward phase.
+Transform toward phase.
+
+Plain functional rendering:
+
+The regulated output is stabilized.
+The active field is transformed and closed.
+The process is placed into local carrier,
+transferred into the phase system,
+and transformed further toward phase.
+
+Comment:
+
+teeol / tchol changes whether the carrier is read as graded-transfer or active-transfer. Both support a carrier-transfer function.
+
+f22v.10
+qokchy daiin or ytal
+
+Token reading:
+
+qokchy
+= initiated active stabilized field closed
+
+daiin
+= transformation toward phase
+
+or
+= output/relation field
+
+ytal
+= y + t + al
+= closed transfer toward local
+
+Structural-functional translation:
+
+Initiate and close active stabilized field.
+Transform toward phase.
+Mark output/relation field.
+Close transfer toward local carrier.
+
+Plain functional rendering:
+
+A stabilized active field is closed,
+moved into phase,
+routed through output/relation,
+and closed into local transfer.
+f22v.11
+sokaiin oty dy
+
+Token reading:
+
+sokaiin
+= s + ok + aiin
+= regulated stabilized phase
+
+oty
+= ot + y
+= transfer-field closed
+
+dy
+= transformation + closure
+
+Structural-functional translation:
+
+Regulate stabilized phase.
+Close transfer field.
+Transform and close.
+
+Plain functional rendering:
+
+The stabilized phase is regulated,
+the transfer field is closed,
+and the operation is transformed to closure.
+f22v.12
+ychky daiin cthy
+
+Witness note:
+
+C: ykchy
+
+Token reading:
+
+ychky / ykchy
+= y + ch/k + k/ch + y
+= closed active/stabilized closure
+
+daiin
+= transformation toward phase
+
+cthy
+= active transfer closed
+
+Structural-functional translation:
+
+Close the active/stabilized state.
+Transform toward phase.
+Close active transfer.
+
+Plain functional rendering:
+
+A closed stabilized-active state is marked,
+then transformed toward phase
+and closed through active transfer.
+f22v.13
+okchain chkoldy shotoly
+
+Token reading:
+
+okchain
+= ok + ch + ain
+= stabilized active phase endpoint
+
+chkoldy
+= ch + k + ol + dy
+= active stabilization of local carrier transformed and closed
+
+shotoly
+= sh + ot + ol + y
+= regulated active transfer into local carrier closed
+
+Structural-functional translation:
+
+Establish stabilized active phase endpoint.
+Actively stabilize the local carrier and transform-close it.
+Close regulated active transfer into local carrier.
+
+Plain functional rendering:
+
+The phase endpoint is stabilized,
+the local carrier is actively fixed and closed,
+and regulated transfer into the carrier is completed.
+f22v.14
+qotchy olshly shol daiin
+
+Witness note:
+
+U: olshey
+
+Token reading:
+
+qotchy
+= initiated active transfer-field closed
+
+olshly / olshey
+= ol + sh + l/e + y
+= local carrier under regulated activation, closed
+
+shol
+= regulated local carrier
+
+daiin
+= transformation toward phase
+
+Structural-functional translation:
+
+Initiate and close active transfer-field.
+Close regulated active local carrier.
+Establish regulated local carrier.
+Transform toward phase.
+
+Plain functional rendering:
+
+The active transfer is initiated and closed,
+the local carrier is regulated and closed,
+then re-established as regulated carrier
+and moved toward phase.
+f22v.15
+sho cthy chocthy qokchy dory
+
+Witness note:
+
+U: ctho instead of cthy.
+
+Token reading:
+
+sho
+= regulated active field
+
+cthy / ctho
+= active transfer closed / active transfer field
+
+chocthy
+= ch + o + cth + y
+= active field transferred and closed
+
+qokchy
+= initiated active stabilized field closed
+
+dory
+= d + or + y
+= transformation toward output/relation closed
+
+Structural-functional translation:
+
+Establish regulated active field.
+Close active transfer.
+Transfer active field and close it.
+Initiate and close active stabilized field.
+Transform toward output/relation and close.
+
+Plain functional rendering:
+
+The regulated active field is established,
+transferred and closed,
+then re-opened as a stabilized active field,
+and finally transformed toward output and closed.
+f22v.16
+saiin chy daldalol
+
+Token reading:
+
+saiin
+= regulated phase
+
+chy
+= active closure
+
+daldalol
+= dal + dal + ol
+= repeated transformation toward local carrier + local carrier
+
+Structural-functional translation:
+
+Regulated phase.
+Active closure.
+Repeated transformation toward local carrier and into local carrier.
+
+Plain functional rendering:
+
+The page ends with a regulated phase,
+active closure,
+and repeated transformation into local carrier.
+
+Final line function:
+
+This is a strong closing line. It ends not on a random token, but on repeated local-carrier transformation:
+
+dal-dal-ol
+= transform to local, transform to local, local carrier
+
+This fits the visual diagram, where the whole plant structure moves from red-brown base through carrier channels into repeated local fields.
+
+5. Continuous structural-functional rendering
+
+In continuous form, f22v reads as follows:
+
+A regulated procedural phase-output is opened.
+A preparatory active field is directed toward output,
+then stabilized, transferred, transformed, regulated, and closed.
+
+The process moves into phase,
+is stabilized into active carrier,
+and repeatedly closes transfer fields.
+
+The lower base/residue is activated through transfer,
+then moved into local carrier and terminal mass.
+
+Regulated active outputs are prepared,
+closed,
+transferred into phase,
+and transformed through local carriers.
+
+The page repeatedly cycles through:
+initiation,
+stabilized field,
+active transfer,
+regulated carrier,
+phase movement,
+terminal base/residue,
+output,
+and closure.
+
+The final movement closes the process as regulated phase
+and repeated transformation into local carrier.
+6. Danish functional rendering
+f22v demonstrerer en normal herbal/proces-operation.
+
+Siden begynder med en reguleret procedurefase,
+hvor et forberedende aktivt felt rettes mod output.
+Feltet stabiliseres, overføres, transformeres, reguleres og lukkes.
+
+Processen går derefter gennem gentagne carrier- og transfer-faser:
+stabiliserede felter lukkes,
+aktive transferfelter lukkes,
+lokale carriers etableres,
+og processen føres mod fase, output og terminal base/residue.
+
+Billedet viser samme logik:
+den røde/brune rod nederst fungerer som base, tung masse eller residue.
+De lyse rodkanaler fungerer som carrier- eller ekstraktionsveje.
+Den grønne stamme fører processen opad.
+De stribede grønne blade fungerer som gentagne lokale carrierfelter eller proceskamre.
+Den øvre blomst fungerer som output-, collector- eller klassifikationsfelt.
+
+Siden ender med:
+reguleret fase,
+aktiv lukning,
+og gentagen transformation ind i lokal carrier.
+
+f22v er derfor en god normal herbal-demonstration efter f49v:
+f49v viser nøglen,
+f22v viser nøglen anvendt i en faktisk processide.
+7. Final interpretation
+
+f22v confirms that the f49v grammar is not limited to key-page display. The same operator inventory reads an ordinary herbal page coherently.
+
+The dominant textual roles are:
+
+q     = initiation
+ot    = transfer field
+ok    = stabilized field
+chol  = active local carrier
+shol  = regulated local carrier
+daiin = transformation toward phase
+dam   = transformation toward terminal base/mass
+dy    = transformation closure
+or    = output/relation
+saiin = regulated phase
+
+The dominant visual roles are:
+
+red-brown root/base = terminal base / residue / heavy material matrix
+pale root channels = conduits / extraction paths
+green stem = carrier route
+striped leaves = repeated local carrier/process chambers
+upper flower = collector / output / classified result
+
+The page-level structure is therefore:
+
+base/residue
+-> carrier channels
+-> regulated transfer
+-> stabilized local carrier
+-> phase transformation
+-> output/closure
+
+This makes f22v a strong applied translation page: it shows the parser working not as an abstract theory, but as a practical reading method for ordinary herbal/process text.
