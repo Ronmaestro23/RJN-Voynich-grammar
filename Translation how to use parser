@@ -605,3 +605,446 @@ The selected demonstrations should therefore balance explanation and application
 The strongest conservative conclusion is that the manuscript contains both internal reading aids and applied recipe/procedure pages. The key pages show how an initiated reader should apply the grammar. The ordinary pages show the grammar in use. The final text-heavy pages may represent the most compressed form of the notation: minimal visual support, maximum structural encoding.
 
 The demonstration therefore supports the central claim of the main paper: Voynichese is complete at the structural-functional level, while remaining incomplete or refinable at the historical-lexical level.
+
+
+
+f49v — Structural-Functional Translation and Image Analysis
+1. Page function
+
+f49v is treated as a HERBAL/PROCESS grammatical key page, not as an ordinary recipe page.
+
+The page combines:
+
+ordinary running text,
+a left vertical numbered/operator column,
+a large plant-shaped process diagram,
+a small star/index marker above the plant form.
+
+Under the structural-functional parser, this page functions as an internal reading aid. It does not give ordinary word meanings. It shows how the operator grammar should be applied in this regime: field, output, closure, activation, stabilization, regulation, procedure-initiation, and transformation. This is consistent with the existing f49v interpretation as five y-closed operator demonstrations.
+
+2. Visual analysis
+
+The illustration is not read primarily as botanical realism. It is read as a vertical process diagram.
+
+2.1 Root / base
+
+The lower structure is a rounded root/base mass filled with repeated small curved marks.
+
+Structural reading:
+
+root/base mass
+= terminal base / residue / stored material matrix
+
+Functional interpretation:
+
+The process begins or terminates in a base/residue/mass field.
+The many small marks indicate discrete particles, units, granules, or distributed material points.
+
+This fits the wider visual grammar where brown/root/base structures correspond to terminal mass, residue, base, conduit, or material matrix, and dots/circles correspond to discrete fractions or particles.
+
+2.2 Stem / carrier
+
+A long green stem rises from the base into the upper plant body.
+
+Structural reading:
+
+vertical stem
+= carrier path / conduit / local process channel
+
+Functional interpretation:
+
+The material or process-state is carried upward from the base into a higher processing field.
+
+The stem is therefore not simply botanical. It is a carrier-route between base material and upper processing/output fields.
+
+2.3 Upper green fields
+
+The large green paired leaf-like structures dominate the upper diagram.
+
+Structural reading:
+
+green fields
+= carrier matrix / local process fields / treated material zones
+
+Functional interpretation:
+
+The upper part of the diagram shows expanded process fields where material is held, distributed, opened, or transformed.
+
+The two large side-fields are not identical decorative leaves. They behave like paired process chambers or carrier fields.
+
+2.4 White internal openings
+
+The white curved areas inside the green structures are important.
+
+Structural reading:
+
+white openings
+= apertures / channels / collectors / cleared passage zones
+
+Functional interpretation:
+
+The green carrier fields contain openings or channels through which material, flow, or output can be separated or directed.
+
+This supports the interpretation of the upper plant form as a diagrammatic process structure rather than a natural plant.
+
+2.5 Central flower / output head
+
+At the top center, a pale/white central form rises above the branching stem system.
+
+Structural reading:
+
+central upper head
+= collector / output zone / final process field
+
+Functional interpretation:
+
+Material carried upward through the stem and branches is organized toward an upper output or collector field.
+2.6 Small star marker
+
+A small blue star-like sign appears near the upper right.
+
+Structural reading:
+
+star
+= process label / class marker / index marker
+
+Functional interpretation:
+
+The star marks the page or diagram as belonging to a specific process class, component class, or indexed operator category.
+
+This is important because the manuscript later uses star-like markers in more compressed text/index contexts. On f49v, the star may already function as a small classifier or index sign attached to the process diagram.
+
+3. Vertical operator column
+
+The left vertical column is read as the key element of the page.
+
+Raw working record:
+
+1   f49v.2      f / p
+2   f49v.4   1  o
+3   f49v.6   2  r
+4   f49v.8   3  y
+
+5   f49v.10  4  e / ch
+6   f49v.12  5  o
+7   f49v.14     k
+8   f49v.16     s
+9   f49v.18     p
+10  f49v.20     o
+11  f49v.22     r
+12  f49v.24     y
+
+13  f49v.26     e / ch
+14  f49v.28     o?
+15  f49v.30     s?
+16  f49v.32     p
+17  f49v.34     o
+18  f49v.36     r
+19  f49v.38     y
+
+20  f49v.40     ch
+21  f49v.42     o
+22  f49v.44     d
+23  f49v.46     y
+
+24  f49v.48     ch / e / s
+25  f49v.50     k
+26  f49v.52     y
+
+There is local glyph uncertainty in the column. Some readings differ between transcription traditions, especially around f/p, e/ch, o?, s?, and ch/e/s. This uncertainty should be recorded, not hidden.
+
+The important point is that the sequence still resolves into five coherent y-closed operator chains.
+
+4. Preferred five-chain reading
+1. f  -> o -> r -> y
+
+2. ch -> o -> k -> s -> p -> o -> r -> y
+
+3. e  -> o -> s -> p -> o -> r -> y
+
+4. ch -> o -> d -> y
+
+5. ch -> k -> y
+
+Conservative notation with uncertainty retained:
+
+1. f/p -> o -> r -> y
+
+2. e/ch -> o -> k -> s -> p -> o -> r -> y
+
+3. e/ch -> o? -> s? -> p -> o -> r -> y
+
+4. ch -> o -> d -> y
+
+5. ch/e/s -> k -> y
+
+The five-chain reading is preferred because it produces five closed operator demonstrations, each ending in y. The parser already assigns y the value closure/finalization, so f49v does not create the rule; it confirms it in visible key-page form.
+
+5. Operator-by-operator translation
+Chain 1
+f/p -> o -> r -> y
+
+Structural reading:
+
+preparation / variant or procedure-initiation
+-> process field
+-> output / relation
+-> closure
+
+Plain rendering:
+
+Prepare or initiate a process field, direct it toward output/relation, and close it.
+
+Functional meaning:
+
+A simple complete process path:
+start/preparation -> field -> output -> closure.
+Chain 2
+ch -> o -> k -> s -> p -> o -> r -> y
+
+Structural reading:
+
+active frame
+-> process field
+-> stabilization/fixation
+-> regulation/status
+-> procedure-initiation
+-> process field
+-> output/relation
+-> closure
+
+Plain rendering:
+
+Activate a process field, stabilize it, regulate it, initiate the next procedure, return it to the field, direct it toward output, and close it.
+
+Functional meaning:
+
+An active regulated procedure:
+activate -> field -> stabilize -> regulate -> operate -> field -> output -> closure.
+Chain 3
+e -> o -> s -> p -> o -> r -> y
+
+Structural reading:
+
+grade / intensity
+-> process field
+-> regulation/status
+-> procedure-initiation
+-> process field
+-> output/relation
+-> closure
+
+Plain rendering:
+
+Apply grading or intensity to the process field, regulate it, initiate procedure, return to field, direct to output, and close.
+
+Functional meaning:
+
+A graded regulated process:
+grade -> field -> regulate -> operate -> field -> output -> closure.
+Chain 4
+ch -> o -> d -> y
+
+Structural reading:
+
+active frame
+-> process field
+-> transformation / processing
+-> closure
+
+Plain rendering:
+
+Activate the field, transform/process it, and close.
+
+Functional meaning:
+
+A compact active transformation chain:
+activate -> field -> transform -> closure.
+Chain 5
+ch -> k -> y
+
+Structural reading:
+
+active frame
+-> stabilization/fixation
+-> closure
+
+Plain rendering:
+
+Activate, stabilize/fix, and close.
+
+Functional meaning:
+
+A minimal active stabilization chain:
+activate -> stabilize -> closure.
+6. Full page-level functional rendering
+
+f49v can be rendered as an internal instruction page:
+
+This regime is read through closed process chains.
+
+A process may begin in preparation or procedure-initiation, enter a field, move toward output, and close.
+
+An active process may enter a field, stabilize, regulate, initiate a procedure, return to field, move to output, and close.
+
+A graded process may enter a field, become regulated, initiate procedure, return to field, move to output, and close.
+
+An active field may be transformed and closed.
+
+An active frame may be stabilized and closed.
+
+More compactly:
+
+prepare/initiate -> field -> output -> close
+activate -> field -> stabilize -> regulate -> operate -> field -> output -> close
+grade -> field -> regulate -> operate -> field -> output -> close
+activate -> field -> transform -> close
+activate -> stabilize -> close
+7. Relationship between column and image
+
+The vertical column and the plant diagram appear to explain each other.
+
+The column gives the grammar:
+
+field
+output
+closure
+activation
+stabilization
+regulation
+procedure
+transformation
+
+The image gives the diagrammatic field:
+
+root/base mass
+vertical carrier
+branching conduits
+green carrier/process fields
+white openings/channels
+upper collector/output area
+star/index marker
+
+Together they produce a coherent HERBAL/PROCESS key:
+
+The image shows the process-space.
+The column shows how to read operations inside that process-space.
+The running text applies the same grammar in compact token form.
+
+This is why f49v should come before the normal herbal-page translation. It tells the reader how to understand the next page.
+
+8. Treatment of uncertain glyphs
+
+The uncertain readings do not weaken the page. They should be used to show that the method is controlled.
+
+Rule:
+
+A glyph may be preferred only if it satisfies all relevant constraints:
+visible form,
+local vertical sequence,
+existing operator inventory,
+closure-chain structure,
+and no ad hoc semantic change.
+
+Examples:
+
+f / p
+
+Both are initiation-related operators in the model.
+
+f = material/preparatory/variant initiation
+p = procedure-initiation / subprocedure-start
+
+So the first chain remains functionally stable:
+
+f/p -> o -> r -> y
+= initiation/preparation -> field -> output -> closure
+
+Example:
+
+e / ch
+
+This uncertainty affects whether the chain begins with grading/intensity or active frame. But both readings still produce a coherent operator chain, and the rest of the sequence remains stable:
+
+e/ch -> o -> k/s... -> p -> o -> r -> y
+
+Example:
+
+o? and s?
+
+These are not arbitrary guesses. They are expected at exactly those positions:
+
+o = process field
+s = regulation/status
+
+The sequence:
+
+e -> o -> s -> p -> o -> r -> y
+
+is grammatically coherent and matches the parallel structure of the surrounding chains.
+
+Example:
+
+ch / e / s -> k -> y
+
+The final chain is still structurally coherent because:
+
+k = stabilization
+y = closure
+
+The uncertain first glyph changes the nuance, but not the chain’s core function:
+
+activation/grade/status -> stabilization -> closure
+9. Why this is a key page, not ordinary prose
+
+f49v differs from ordinary running text in several ways:
+
+1. It contains a vertical column separate from the running text.
+2. The column is associated with visible numbers.
+3. The column resolves into five closure-delimited chains.
+4. Each chain terminates in y.
+5. The same page contains a large process diagram.
+6. The diagram contains a star/index marker.
+7. The grammar matches operator values already derived from the corpus.
+
+This makes f49v an internal reading aid, not a normal text block.
+
+It is best understood as:
+
+a grammatical crib-sheet for HERBAL/PROCESS notation.
+
+It tells the initiated reader:
+
+Read this regime through process fields, outputs, closures,
+activation, stabilization, regulation, procedure-initiation,
+and transformation.
+10. Final f49v conclusion
+
+f49v is the correct first page for the translation demonstration because it shows how the system is meant to be used.
+
+It does not provide a conventional alphabetic key. It provides a functional operator key.
+
+The page demonstrates that:
+
+single glyphs can be exposed as primitive operators in key-page mode;
+ordinary tokens compress these operators into procedural instructions;
+y closes completed chains;
+o functions as process field;
+r functions as output/relation;
+k functions as stabilization;
+s functions as regulation/status;
+p/f mark initiation or preparation;
+d marks transformation;
+ch marks active frame.
+
+The image supports the same reading by showing a vertical process structure:
+
+base/root -> carrier/stem -> branching fields -> openings/channels -> upper output/index field.
+
+Therefore f49v should be read as:
+
+an internal HERBAL/PROCESS reading key:
+a page that teaches how to apply the operator grammar to the surrounding recipe/process pages.
+
+The next demonstration should be a normal herbal folio, because f49v gives the rule and the normal herbal folio shows the rule in actual use.
+
