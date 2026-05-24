@@ -40,6 +40,23 @@ The resulting reading principle is:
 Voynich tokens are not words.  
 They are compressed operator-chains functioning as procedural instructions.
 
+## Transcription noise and witness control
+
+A major obstacle in the development phase was transcription noise.
+
+Many early scripts failed or produced unstable results because the input layer was not neutral. Small transcription differences could change token splits, apparent suffixes, closure forms, and operator clusters. This made it necessary to separate grammatical failure from transcription instability.
+
+For this reason, the analysis adopted the H transcription as the primary working witness. When an H-form produced a structural anomaly, the form was not automatically corrected. Instead, it was checked against the other available witnesses. Only after witness comparison was the form tested against corpus behavior, local sequence logic, and visual or graphical context.
+
+The rule was therefore conservative:
+
+H is the working base.  
+Other witnesses may confirm, question, or refine an H-reading.  
+Corpus statistics may identify instability.  
+But no reading is corrected merely because the model would prefer it.
+
+This witness-control procedure became necessary because transcription noise had damaged many early scripts. It also helped distinguish real grammatical structure from artefacts created by transcription variation.
+
 
 
 
