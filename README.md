@@ -10,6 +10,110 @@ They are compressed operator-chains functioning as procedural instructions.**
 Voynichese is therefore not decoded word-by-word.  
 It is parsed sequence-by-sequence through a structural-functional operator grammar.
 
+## Reproducibility note: transcription baseline and witness control
+
+A reproduction attempt should use the same controlled transcription and witness protocol.
+
+The parser was not developed on an uncontrolled mixed transcription. A crucial intermediate step was the Herbal H rule-set and correction protocol, which stabilizes the input layer before grammar is tested.
+
+This matters because transcription artefacts can otherwise be mistaken for grammatical exceptions.
+
+In short:
+
+**Before the grammar can be tested, the transcription layer must be controlled.**
+
+### Reproducible Herbal H derivation baseline
+
+The reproducible derivation baseline used for the Herbal H rule-set is:
+
+- Herbal section only
+- H-lines only
+- up to and including f57r
+- f1r and f49v excluded as special/key pages
+- repeated `e` and `i` collapsed to single `e` / `i`
+- rule induction performed on baseline-H
+- whole corpus used only for error checking
+- `.py` and `.txt` used as the reproducible working file types
+
+This baseline was used to derive the operational module rules, positional behavior, stop logic, and generator evaluation.
+
+The Herbal H generator statistics belong to this defined baseline. They should not be blindly assumed to apply identically to every other manuscript section.
+
+### Correction rule
+
+A token may not be corrected freely or semantically.
+
+If an H-token breaks the operative H-line rules, it is checked against the whole corpus. If the token occurs only rarely, it may be treated as a possible transcription problem.
+
+It may only be replaced by a legal token from another witness on the same line and the same position.
+
+If no legal witness replacement exists, the form is retained as a problem token and may not be used to expand the grammar.
+
+The correction protocol is therefore conservative:
+
+- H is the primary working witness.
+- Other witnesses may confirm, question, or refine an H-reading.
+- Whole-corpus frequency may identify likely transcription instability.
+- No reading is corrected merely because the model would prefer it.
+- No rare anomaly may be promoted into a new grammar rule without independent support.
+
+A transcription problem must not be mistaken for a grammar problem.
+
+A grammar problem must not be solved by arbitrary transcription correction.
+
+### Corpus-wide use of the witness protocol
+
+The witness-control protocol is intended to be used across the whole corpus.
+
+The same principles apply beyond Herbal H:
+
+- do not correct freely or semantically
+- check anomalous H-forms against other witnesses
+- use whole-corpus frequency only as an error filter
+- accept replacement only from the same line and same position
+- retain unresolved forms as problem tokens rather than expanding the grammar
+
+However, the Herbal H generator statistics should not be treated as a universal frequency model for the whole manuscript.
+
+Other regimes such as BALNEO, PHARMA, ASTRO, and STAR/TEXT may preserve the same underlying operator grammar while using different frequency profiles, stop behavior, dominant token families, visual constraints, and section-specific bias.
+
+Therefore:
+
+**The witness protocol is corpus-wide.**  
+**The Herbal H baseline is the reproducible derivation base.**  
+**Regime transfer must be tested section by section.**
+
+### Operational level vs. deeper split level
+
+The Herbal H report distinguishes between two split levels:
+
+1. **Operational split level**  
+   The validated level used in the reproducible generator and rule evaluation.
+
+2. **Deeper hypothetical split level**  
+   A finer operator layer where forms such as `chol` may be analyzed as `ch + ol`, and `chey` as `ch + e + y`.
+
+The deeper split level is important for the final structural-functional parser, but it must not be confused with the earlier reproducible Herbal H baseline.
+
+The correct development path is:
+
+- first stabilize the transcription layer
+- then derive operational modules
+- then test positional and stop behavior
+- then evaluate generator reproduction
+- then move to deeper operator splitting
+- then test regime transfer across the manuscript
+
+### Why this matters
+
+Many early scripts failed or produced unstable results because transcription noise affected token forms, suffixes, apparent exceptions, and module boundaries.
+
+Without witness control, a reproduction attempt may accidentally test transcription noise rather than Voynich grammar.
+
+The purpose of the H-/witness protocol is not to make the model easier to fit. Its purpose is the opposite: to prevent arbitrary correction, preserve problematic forms, and stop transcription artefacts from becoming false grammar.
+
+This is why the parser should be tested only after the transcription layer has been controlled.
+
 ## A Hierarchical Functional Process-Operator Grammar
 
 This repository presents a mathematically and statistically derived structural decipherment of Voynichese as a recursive hierarchical process-operator grammar.
