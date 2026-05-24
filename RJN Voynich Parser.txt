@@ -1417,6 +1417,27 @@ dol    = transformation process into local carrier
 dam    = transformation to terminal base
 edy    = graded transform-closure
 
+### Rare / unresolved terminal signs
+
+#### g-rule
+
+The sign `g` is not assigned a stable primitive operator value in the present model.
+
+It is not attested in the main special/key-page operator sequences and does not behave like the productive closure operator `y`. Whereas `y` is frequent, productive, key-attested, and used in regular closure chains, `g` is rare and appears mainly as a terminal or label-like ending.
+
+Corpus checks indicate that `g` is strongly terminal: it occurs primarily at the end of tokens and often at the end of lines, labels, or diagram entries. It is therefore not treated as a normal productive primitive operator.
+
+Where `g` occurs, it is handled conservatively as an unresolved terminal/classifier candidate. It may mark a rare material, residue, vessel, or label-ending class, or it may reflect graphical/transcriptional instability near terminal `m`-like forms. It is not silently normalized to `m`, and it is not used to generate new semantic readings.
+
+Operational rule:
+
+`g` may be recorded.
+`g` may be discussed as a rare terminal/classifier candidate.
+`g` may not be used as a stable semantic operator unless independently confirmed by repeated structural, visual, and witness evidence.
+
+
+
+
 Appendix B: Vertical key-page sequences
 Page
 Sequence
