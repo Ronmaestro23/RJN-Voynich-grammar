@@ -13,6 +13,23 @@ For the current parser specification, read:
 
 This file documents the development path and provenance of the model.
 
+## Derivation by reduction
+
+The final operator model was not the starting assumption. It emerged as a consequence of the computational reduction process.
+
+The initial script phase tested corpus statistics, token behavior, positional roles, boundary behavior, module reuse, and short word-like units. These tests repeatedly pushed the analysis toward shorter units. At first, 3–4 glyph units appeared to capture much of the structure. When those units failed to produce a fully consistent translation, the analysis was reduced to 2–3 glyph units. This improved the model, but still left systematic inconsistencies.
+
+The decisive step was the reduction to the one-glyph level.
+
+At that level the remaining structure became coherent: individual glyphs behaved as primitive operators, not as letters or ordinary words. After that reduction, the system could be rebuilt upward in a controlled way through repeated phase and grade markers such as `ii` and `ee`, and through macro-bound forms such as `ch`, `sh`, `cph`, `cfh`, `cth`, and `ckh`.
+
+The final model therefore emerged through reduction and controlled rebuilding, not through arbitrary expansion. More than 95% of the model was a consequence of corpus statistics, token behavior, and positional regularities. The creative step was recognizing that the remaining inconsistencies required abandoning the word assumption entirely.
+
+The resulting reading principle is:
+
+Voynich tokens are not words.  
+They are compressed operator-chains functioning as procedural instructions.
+
 
 
 
