@@ -6818,3 +6818,1006 @@ f49v = HERBAL/PROCESS key
 f22v–f23r = normal HERBAL sequence across folios
 f76r + f78r = BALNEO key and applied flow/reservoir page
 f99r = PHARMA/vessel-substance page
+
+
+
+105v — Final STAR/TEXT Compressed Notation Demonstration
+1. Page function
+
+f105v is read here as a final STAR/TEXT compressed notation page.
+
+This page differs from the earlier demonstration regimes:
+
+f49v = HERBAL/PROCESS grammatical key
+f22v–f23r = HERBAL process continuation
+f76r/f78r = BALNEO key and applied flow/reservoir page
+f99r = PHARMA/vessel-substance page
+f105v = final STAR/TEXT compressed notation page
+
+The visual field is reduced. There are no large plant diagrams, no vessel system, and no balneo reservoir machinery. Instead, the page combines:
+
+star/index markers
+dense text blocks
+repeated process sequences
+minimal diagrammatic support
+reduced colour coding
+
+The star column functions as an index or class-marker system. The text beside it carries the process notation in compressed form.
+
+The corpus for this page is f105v, lines 1–38, with H/T/F witness readings. The H witness is used as the base reading below, with variants noted where relevant.
+
+2. Visual regime
+
+The star/text section shows a marked shift in visual language.
+
+Earlier regimes use strong visual carriers:
+
+HERBAL:
+green leaves, roots, stems, flowers, plant-carrier diagrams
+
+BALNEO:
+blue/green water, reservoirs, tubes, flow systems
+
+PHARMA:
+red vessels, green contents, small substance figures, residues
+
+f105v instead shows:
+
+repeated stars
+dense text
+limited colour variation
+no full plant/body/vessel diagram
+
+The colour regime is also reduced:
+
+preserved:
+white / pale
+brown
+red
+grey / light brown
+
+phased out or minimal:
+green
+blue
+
+This is structurally significant. Green and blue are the strongest colours of plant-carrier and water-flow regimes. Their reduction supports a regime change away from physical carrier diagrams and toward compressed index notation.
+
+Functional interpretation:
+
+stars = index/class markers
+red/brown/grey/pale = process-status or class colour
+text = compressed operator sequence
+
+Thus f105v is not primarily a picture-page. It is a compressed index-text page.
+
+3. Regime dispatch
+
+The page is dominated by process families already established elsewhere:
+
+p / op / qop / olp
+= procedure / extraction / initiated procedure / local procedure
+
+ot / qot / otaiin / otar / otal
+= transfer field / initiated transfer / transfer toward phase / transfer toward output/local
+
+ok / qok / okeol / okair / qokaiin
+= stabilized field / initiated stabilized field / stabilized local carrier / stabilized phase
+
+ol / l / lkaiin / olkaiin / olkeedy
+= local carrier / local field / local phase / stabilized local carrier
+
+d / dy / daiin / dal / dol / dar
+= transformation / closure / phase transformation / local transformation / output transformation
+
+ar / or / air / oair / sair / rar
+= output/relation / phase-output / regulated or repeated output relation
+
+am / om / odam / opairam / paradam
+= terminal mass / terminal base / prepared terminal residue
+
+This page therefore reuses the same operator inventory but in a much denser format.
+
+The key feature of f105v is compression:
+
+image support is minimal
+operator density is high
+sequence length is high
+visual classification is by star/index markers
+4. Dominant text pattern
+
+The page repeatedly cycles through this macro-structure:
+
+procedure/initiation
+-> transfer
+-> stabilized field
+-> local carrier
+-> phase movement
+-> output/relation
+-> terminal mass or closure
+
+In compressed form:
+
+p/op/qop
+-> ot/qot
+-> ok/qok
+-> ol/l
+-> aiin/daiin
+-> ar/or/air
+-> am/om
+
+This is exactly what a final compressed notation section should look like under the model: the page no longer needs large explanatory images because the operator language itself carries the sequence.
+
+5. Line-by-line structural-functional translation
+f105v.1
+polairy oair olpcheey ykaiin olpchedy opchedaiin dairody ypcheddy sairy
+
+Structural-functional reading:
+
+local procedure/output phase
+-> field-output phase
+-> local procedural active closure
+-> closed stabilized phase
+-> local procedural active transformation closure
+-> procedure active transformation toward phase
+-> transformation toward phase-output closure
+-> closed procedural active transformation
+-> regulated phase-output closure
+
+Plain rendering:
+
+A local procedure is opened through output/phase relation, stabilized into phase, processed through local procedural transformation, and closed as regulated phase-output.
+f105v.2
+ysheod ykeeedy keshed qodaiin oteodair or chkas otaiin chpor or otchy otor
+
+Reading:
+
+closed regulated transformation
+-> closed stabilized grade
+-> stabilized regulated transformation
+-> initiated transformation toward phase
+-> transfer-field transformation toward phase-output
+-> output/relation
+-> active stabilized status
+-> transfer toward phase
+-> active procedural output
+-> output/relation
+-> active transfer closure
+-> transfer field/output
+
+Plain rendering:
+
+A closed regulated state is stabilized, initiated toward phase, transferred toward output, and routed through active procedural output and transfer closure.
+f105v.3
+dshedy qoedaiin ytoiin okair qotol dol okoldy qokedy opched oteedy qotaiin
+
+Reading:
+
+regulated transformation closure
+-> initiated graded transformation toward phase
+-> closed transfer toward phase
+-> stabilized phase-output
+-> initiated transfer into local carrier
+-> transform into local carrier
+-> stabilized local carrier closed
+-> initiated stabilized transformation closure
+-> procedural active transformation
+-> transfer-field closure
+-> initiated transfer toward phase
+
+Plain rendering:
+
+The sequence moves from regulated closure into phase transformation, transfer, local carrier, stabilized closure, and initiated transfer toward phase.
+f105v.4
+olkeeol orchsey qokeedy chdor olar ol keeol chedaiin
+
+Reading:
+
+local stabilized carrier
+-> output-active regulated closure
+-> initiated stabilized graded closure
+-> active transformation toward output
+-> local output target
+-> local carrier
+-> stabilized local carrier
+-> active transformation toward phase
+
+Plain rendering:
+
+Local carrier is stabilized, routed toward output, re-entered as local carrier, and transformed toward phase.
+f105v.5
+pchedal qopchdy daiin chedy daiin okaildy opchedaiin opcheo olkeedy sairom
+
+Reading:
+
+procedural active transformation toward local
+-> initiated procedural active transformation closure
+-> transformation toward phase
+-> active transformation closure
+-> transformation toward phase
+-> stabilized phase/local closure
+-> procedural active transformation toward phase
+-> procedure active field
+-> local stabilized graded closure
+-> regulated phase-output terminal mass
+
+Plain rendering:
+
+A procedural transformation is directed locally, repeatedly transformed toward phase, stabilized in local carrier, and resolved as regulated phase-output mass.
+f105v.6
+dcheo fcheeody ckheey dar aiin al dar ar daiiidy otedy oteody ytaiin
+
+Reading:
+
+active field transformation
+-> preparatory active graded closure
+-> active stabilized grade closure
+-> transform toward output
+-> toward phase
+-> toward local
+-> transform toward output
+-> output target
+-> repeated transformation toward phase
+-> transfer closure
+-> transfer-field closure
+-> closed transfer toward phase
+
+Plain rendering:
+
+Prepared active material is stabilized, transformed toward output, directed into local/phase pathways, and closed through transfer.
+f105v.7
+ycheeo lkaiin otair ol olkaiin okairody lchedr
+
+Reading:
+
+closed active graded field
+-> local stabilized phase
+-> transfer toward phase-output
+-> local carrier
+-> local carrier phase
+-> stabilized phase-output transformation closure
+-> local active transformation toward relation
+
+Plain rendering:
+
+A closed active field enters local phase, passes through transfer/output, and returns to local active relation.
+f105v.8
+fodal kedar olpchesd araiin ksheeol opchedy pchedy opcheddl pchdar air odar
+
+Reading:
+
+preparatory transformation toward local
+-> stabilized transformation toward output
+-> local procedural active regulated transformation
+-> output relation toward phase
+-> stabilized regulated local carrier
+-> procedure active transformation closure
+-> procedural active transformation closure
+-> procedure active local transformation
+-> procedure active transformation toward output
+-> phase-output relation
+-> field transformation toward output
+
+Plain rendering:
+
+Preparation enters local transformation, stabilizes toward output, moves through local procedure, and resolves through repeated procedural active output.
+f105v.9
+lcheey qoeees daiin okairy otchedy ockhedy otchey daiin or ai ookam
+
+Reading:
+
+local active graded closure
+-> initiated graded status
+-> transformation toward phase
+-> stabilized phase-output closure
+-> active transfer transformation closure
+-> field-active stabilized transformation closure
+-> active transfer closure
+-> transformation toward phase
+-> output/relation
+-> toward phase
+-> field terminal mass
+
+Plain rendering:
+
+Local active grade is processed through phase, transfer closure, output relation, and terminal field mass.
+f105v.10
+ykeey ky che oiiin dal kaiin okairo lkair chedy sodar air al oral odam
+
+Reading:
+
+closed stabilized grade
+-> stabilized closure
+-> active grade
+-> field toward phase
+-> transform toward local
+-> stabilized phase
+-> stabilized phase-output
+-> local stabilized phase-output
+-> active transformation closure
+-> regulated transformation toward output
+-> phase-output
+-> toward local
+-> output-local relation
+-> field terminal mass/base
+
+Plain rendering:
+
+A closed stabilized grade moves through phase, local transformation, output relation, and terminal base.
+f105v.11
+roees aiiin ol okaiin os aiin chckhoda qoteedy ckhddl aiis opar kaiishdy
+
+Reading:
+
+output graded status
+-> toward phase
+-> local carrier
+-> stabilized phase
+-> field/status
+-> toward phase
+-> active stabilization field transformation
+-> initiated transfer-field closure
+-> active stabilized local transformation
+-> phase/status
+-> procedure-output target
+-> stabilized phase regulated closure
+
+Plain rendering:
+
+Output status moves into phase and local carrier, is stabilized, transferred, and closed through procedure-output.
+f105v.12
+ysheedy aiin okeol ykedor ar ar alkair otos otaiin otal tair am
+
+Reading:
+
+closed regulated grade transformation
+-> toward phase
+-> stabilized local carrier
+-> closed stabilized transformation toward output
+-> output
+-> output
+-> toward local stabilized phase-output
+-> transfer/status
+-> transfer toward phase
+-> transfer toward local
+-> transfer phase-output
+-> terminal mass
+
+Plain rendering:
+
+Regulated transformation is closed, stabilized in local carrier, routed through repeated output, and ends in terminal mass.
+f105v.13
+saiin opchedy qokchdy otar al kair okees lkeedal
+
+Reading:
+
+regulated phase
+-> procedural active transformation closure
+-> initiated stabilized active transformation closure
+-> transfer toward output
+-> toward local
+-> stabilized phase-output
+-> stabilized grade/status
+-> local stabilized transformation toward local
+
+Plain rendering:
+
+Regulated phase undergoes procedural active closure, transfer toward output, and local stabilized transformation.
+f105v.14
+pchedaiin chckhdy qokaiir olpchedy olord aiiin kail odar kard chtchy
+
+Reading:
+
+procedural active transformation toward phase
+-> active stabilization transformation closure
+-> initiated stabilized phase-output
+-> local procedural active transformation closure
+-> local output relation transformation
+-> toward phase
+-> stabilized local phase
+-> field transformation toward output
+-> stabilized output target transformation
+-> active transfer closure
+
+Plain rendering:
+
+A procedural phase transformation is actively stabilized, localized, routed toward output, and closed through transfer.
+f105v.15
+ycheey kar ykeey otaiin otal dar chdos kal chedy opchdy daiin oraiin
+
+Reading:
+
+closed active grade
+-> stabilized output target
+-> closed stabilized grade
+-> transfer toward phase
+-> transfer toward local
+-> transform toward output
+-> active transformation/status
+-> stabilized local
+-> active transformation closure
+-> procedural active transformation closure
+-> transformation toward phase
+-> output toward phase
+
+Plain rendering:
+
+A closed active/stabilized state is transferred toward phase and local carrier, transformed toward output, and returned to phase-output.
+f105v.16
+daiin cheey dal chl okair aiin cphe or aiin okal chodaiin otaiin opaiim
+
+Reading:
+
+transform toward phase
+-> active grade closure
+-> transform toward local
+-> active local carrier
+-> stabilized phase-output
+-> toward phase
+-> active procedure/separation
+-> output/relation
+-> toward phase
+-> stabilized local target
+-> active field transformation toward phase
+-> transfer toward phase
+-> procedure toward terminal phase/mass
+
+Plain rendering:
+
+Phase transformation moves through active grade, local carrier, separation/procedure, output relation, and terminal procedure-phase.
+f105v.17
+olr aiin chey lraiin lkl dl lklor daiii olkaiin
+
+Reading:
+
+local carrier output
+-> toward phase
+-> active grade closure
+-> local output toward phase
+-> repeated local-stabilized carrier
+-> transform local
+-> local-stabilized output relation
+-> repeated phase transformation
+-> local stabilized phase
+
+Plain rendering:
+
+Local carrier-output is routed into phase, local relation, local stabilization, and repeated phase transformation.
+f105v.18
+pchor chedaiin okaiin chol kal qolkaiin oltchdy qopchsd opair orair karaim
+
+Reading:
+
+procedure active output
+-> active transformation toward phase
+-> stabilized phase
+-> active local carrier
+-> stabilized local
+-> initiated local stabilized phase
+-> local transfer active transformation closure
+-> initiated procedural active status transformation
+-> procedure phase-output
+-> output phase-output
+-> stabilized output phase terminal mass
+
+Plain rendering:
+
+Procedure-output is transformed toward phase, localized, stabilized, transferred, and resolved as phase-output terminal mass.
+f105v.19
+ycheey aiin otleey lkaiir cheeo taiin okeed ail kchey rokaix am
+
+Reading:
+
+closed active grade
+-> toward phase
+-> transfer-local grade closure
+-> local stabilized phase-output
+-> active graded field
+-> transfer toward phase
+-> stabilized grade transformation
+-> toward phase/local
+-> stabilized active grade closure
+-> output-stabilized phase marked by x
+-> terminal mass
+
+Plain rendering:
+
+A closed active grade is transferred through local phase-output and ends in terminal mass after an x-marked relation.
+
+Important:
+
+rokaix
+= output/stabilized/phase relation with x boundary-marker
+
+Here x is consistent with separator/boundary marking rather than ordinary phonetic value.
+
+f105v.20
+porair chopchdy chedain otair otchod aiin alol cheo ypchedy kair odl lpaim
+
+Reading:
+
+procedure output-phase
+-> active procedural transformation closure
+-> active transformation toward phase
+-> transfer phase-output
+-> active transfer transformation
+-> toward phase
+-> toward repeated local carrier
+-> active field
+-> closed procedural active transformation
+-> stabilized phase-output
+-> field transformation local
+-> local-procedure phase terminal mass
+
+Plain rendering:
+
+Procedure-output is transformed through transfer, repeated local carrier, active field, and terminal local-procedure mass.
+f105v.21
+ykeeo daiim sheey qokaiin cheot daiin qoek eey keody qopaiin or aiikam
+
+Reading:
+
+closed stabilized field
+-> transformation toward terminal phase/mass
+-> regulated grade closure
+-> initiated stabilized phase
+-> active transfer field
+-> transformation toward phase
+-> initiated graded stabilization
+-> graded closure
+-> stabilized field transformation
+-> initiated procedure toward phase
+-> output/relation
+-> phase terminal mass
+
+Plain rendering:
+
+A closed stabilized field moves into terminal phase/mass, is regulated, re-initiated into stabilized phase, and ends in phase mass.
+f105v.22
+daiin cheodaiin chedal air okaiin cheey
+
+Reading:
+
+transform toward phase
+-> active field transformation toward phase
+-> active transformation toward local
+-> phase-output relation
+-> stabilized phase
+-> active grade closure
+
+Plain rendering:
+
+Phase transformation enters active field, local transformation, phase-output, and stabilized closure.
+f105v.23
+tchol kaiin odal kl chees aiiin shees qopdaiin chodr alkeey paradam
+
+Reading:
+
+transfer active local carrier
+-> stabilized phase
+-> field transformation toward local
+-> stabilized local
+-> active grade/status
+-> toward phase
+-> regulated grade/status
+-> initiated procedure transformation toward phase
+-> active field transformation toward relation
+-> toward local stabilized grade
+-> procedure-output terminal mass
+
+Plain rendering:
+
+Active local transfer is stabilized into phase, transformed locally, and resolved as procedure-output terminal mass.
+f105v.24
+alcheey okaiin otar oto daiin ckheol lkol fchedy paiin
+
+Reading:
+
+toward local active grade
+-> stabilized phase
+-> transfer toward output
+-> transfer field
+-> transform toward phase
+-> active stabilized local carrier
+-> local stabilized carrier
+-> preparatory active transformation closure
+-> procedure toward phase
+
+Plain rendering:
+
+Local active grade is stabilized, transferred toward output, transformed toward phase, and prepared procedurally.
+f105v.25
+kchdaldy alfo lfcheedy ofaiis opchey fchedy qotor oeeeodr qopar aifhhy dl
+
+Reading:
+
+stabilized active local transformation closure
+-> toward local/preparatory field
+-> local preparatory active transformation closure
+-> field/preparation phase status
+-> procedure active closure
+-> preparatory active transformation closure
+-> initiated transfer-output relation
+-> graded field transformation toward relation
+-> initiated procedure-output target
+-> phase/preparatory activation closure
+-> transform local
+
+Plain rendering:
+
+A stabilized local transformation enters preparatory/extraction mode, moves through transfer-output relation, and returns to local transformation.
+f105v.26
+lkl sheeodees otaiin otar otal or aiin chedor alkaiin chs alkaiin ry
+
+Reading:
+
+local-stabilized-local carrier
+-> regulated graded transformation/status
+-> transfer toward phase
+-> transfer toward output
+-> transfer toward local
+-> output/relation
+-> toward phase
+-> active transformation toward output
+-> toward local stabilized phase
+-> active status
+-> toward local stabilized phase
+-> relation closed
+
+Plain rendering:
+
+Local stabilized carrier is transferred through phase, output, local carrier, and closed relation.
+f105v.27
+sheoe arxor eesy qopcheoai or kchdy daiin oteedy kol kair otaiilody
+
+Reading:
+
+regulated graded field
+-> output-x-output relation
+-> graded status closure
+-> initiated procedure active field toward phase
+-> output/relation
+-> stabilized active transformation closure
+-> transform toward phase
+-> transfer-field graded closure
+-> stabilized local
+-> stabilized phase-output
+-> transfer phase-local transformation closure
+
+Plain rendering:
+
+A regulated field passes through x-marked output relation, procedure toward phase, active stabilization, and transfer/local closure.
+
+Important:
+
+arxor
+= output relation + x + output relation
+
+This is another strong compressed example of x as separator or boundary marker.
+
+f105v.28
+oeoar ar al odor aiil otaiin
+
+Reading:
+
+graded field-output relation
+-> output target
+-> toward local
+-> field transformation toward output
+-> phase-local
+-> transfer toward phase
+
+Plain rendering:
+
+A field-output relation is directed locally, transformed toward output, and transferred toward phase.
+f105v.29
+tdol tor oaldar aiir otokeedy karody qoeedy sho qopchedy daiin opairam
+
+Reading:
+
+transfer into local carrier
+-> transfer-output relation
+-> field/local transformation toward output
+-> phase-output relation
+-> transfer-stabilized graded transformation closure
+-> stabilized output transformation closure
+-> initiated graded closure
+-> regulated field
+-> initiated procedural active transformation closure
+-> transformation toward phase
+-> procedure phase-output terminal mass
+
+Plain rendering:
+
+Transfer into local carrier is routed toward output, stabilized, procedurally transformed, and ends as procedure phase-output terminal mass.
+f105v.30
+dchedy cheey qokor otaiin otair otair okeedy taiin aiin aiin sy
+
+Reading:
+
+active transformation closure
+-> active grade closure
+-> initiated stabilized output field
+-> transfer toward phase
+-> transfer phase-output
+-> repeated transfer phase-output
+-> stabilized graded transformation closure
+-> transfer toward phase
+-> toward phase
+-> toward phase
+-> regulated closure
+
+Plain rendering:
+
+Active transformation is closed, transferred repeatedly toward phase-output, and brought into regulated phase closure.
+f105v.31
+ychtaiis aiichy dol aiin otaiin aiidy okchd otor daiin
+
+Reading:
+
+closed active transfer phase/status
+-> phase-active closure
+-> transform into local carrier
+-> toward phase
+-> transfer toward phase
+-> phase transformation closure
+-> stabilized active transformation
+-> transfer-output field
+-> transform toward phase
+
+Plain rendering:
+
+Closed active transfer-status moves through local carrier, phase transformation, and transfer-output field.
+f105v.32
+poar keeo daiin qoair ar aiphhey qoeed eody qokaiin qotedais aporair apy
+
+Reading:
+
+procedure field-output
+-> stabilized graded field
+-> transformation toward phase
+-> initiated field phase-output
+-> output
+-> phase-preparatory active closure
+-> initiated graded transformation
+-> graded field transformation
+-> initiated stabilized phase
+-> initiated transfer transformation phase/status
+-> toward procedure-output phase-output
+-> toward procedure closure
+
+Plain rendering:
+
+Procedure-output is stabilized, transformed toward phase, routed through output and preparatory activation, then re-initiated into stabilized phase and transfer-status.
+f105v.33
+lsheody tair oteey oteeo ol otaiin okeey qokaiin ar aiir al dal
+
+Reading:
+
+local regulated transformation closure
+-> transfer phase-output
+-> transfer graded closure
+-> transfer graded field
+-> local carrier
+-> transfer toward phase
+-> stabilized grade closure
+-> initiated stabilized phase
+-> output target
+-> phase-output relation
+-> toward local
+-> transform toward local
+
+Plain rendering:
+
+Local regulated transformation enters transfer and phase, stabilizes, moves toward output, and returns to local transformation.
+f105v.34
+sheeo daiin chsd qokeeey dair okaiin otaiin chedaiin olkal lkl dai
+
+Reading:
+
+regulated graded field
+-> transformation toward phase
+-> active status transformation
+-> initiated stabilized graded closure
+-> transformation toward phase-output
+-> stabilized phase
+-> transfer toward phase
+-> active transformation toward phase
+-> local stabilized local target
+-> local-stabilized-local carrier
+-> transform toward phase
+
+Plain rendering:
+
+A regulated field is transformed toward phase, stabilized, transferred toward phase, and localized into repeated carrier structure.
+f105v.35
+doee okcheeo kaiin otcheedy chor aiin odaiin chedy otaiin al kaishd
+
+Reading:
+
+transformed graded field
+-> stabilized active graded field
+-> stabilized phase
+-> active transfer graded transformation closure
+-> active output
+-> toward phase
+-> field transformation toward phase
+-> active transformation closure
+-> transfer toward phase
+-> toward local
+-> stabilized phase regulated transformation
+
+Plain rendering:
+
+A graded field is stabilized, transferred actively, moved into phase and local carrier, and closed through regulated transformation.
+f105v.36
+laiin sheod okeeody qoaiin ytaiin otair chdal dydaim chdaiin ockhhy
+
+Reading:
+
+local phase
+-> regulated transformation
+-> stabilized graded transformation closure
+-> initiated field toward phase
+-> closed transfer toward phase
+-> transfer phase-output
+-> active transformation toward local
+-> transformation closure toward terminal mass
+-> active transformation toward phase
+-> field active stabilization closure
+
+Plain rendering:
+
+Local phase undergoes regulated transformation, transfer-output routing, local active transformation, and terminal phase/mass closure.
+f105v.37
+yshey ckhy sheo qoeeo lkaiin chs okol tchdy sheeey okaiin ar aildy
+
+Reading:
+
+closed regulated grade
+-> active stabilization closure
+-> regulated field
+-> initiated graded field
+-> local stabilized phase
+-> active status
+-> field stabilized local
+-> transfer active transformation closure
+-> regulated graded closure
+-> stabilized phase
+-> output
+-> phase-local transformation closure
+
+Plain rendering:
+
+A closed regulated grade is stabilized, localized into phase, transferred actively, and ends in phase-local closure.
+f105v.38
+cheody oaiir aiin okshey
+
+Reading:
+
+active graded transformation closure
+-> field phase-output relation
+-> toward phase
+-> stabilized regulated grade closure
+
+Plain rendering:
+
+The page closes with active transformation, field phase-output relation, phase movement, and stabilized regulated closure.
+6. Continuous rendering of f105v
+
+In continuous structural-functional form, f105v reads as follows:
+
+A sequence of indexed process classes is presented in compressed star/text form.
+
+The page opens with procedural and local-carrier operations moving through phase, transfer, stabilization, and regulated output. The process repeatedly cycles through procedure-initiation, transfer-field routing, stabilized local carrier, phase transformation, output/relation, and terminal mass.
+
+Unlike HERBAL, BALNEO, and PHARMA pages, the visual apparatus is reduced. The stars function as class or index markers, while the text carries most of the process information.
+
+Throughout the page, forms such as opchedy, qokedy, qotaiin, otaiin, okeol, olkaiin, daiin, dar, ar, air, and am recur. These are not random word-like units. They are compressed operator sequences.
+
+The page repeatedly performs the following grammar:
+
+procedure or initiation
+-> transfer
+-> stabilized field
+-> local carrier
+-> phase movement
+-> output/relation
+-> terminal mass or closure
+
+The final lines close the process through regulated field, local phase, transfer-active transformation, stabilized phase, output relation, and phase-local closure. The final token sequence ends in active transformation, field phase-output relation, phase movement, and stabilized regulated closure.
+7. Danish functional rendering
+f105v demonstrerer den afsluttende STAR/TEXT-komprimerede notationsform.
+
+Siden har ikke længere store plante-, balneo- eller kar-diagrammer. Den bruger i stedet stjerner som indeks- eller klassemarkører og meget tæt tekst som selve procesnotationen.
+
+Farveregimet er også ændret. Grøn og blå, som tidligere markerede plante-carrier, vækst, flow, vand og reservoir, er stort set udfaset. Tilbage står især hvid, brun, rød og grå/lysebrun. Det passer til en mere abstrakt eller komprimeret klassifikationssektion.
+
+Teksten gentager de samme operatorfamilier som i resten af manuskriptet:
+
+p / op / qop
+= procedure, extraction, initiation
+
+ot / qot / otaiin / otar / otal
+= transfer, routing, phase transfer, output/local transfer
+
+ok / qok / okeol / okair / qokaiin
+= stabilized field, stabilized phase, stabilized local carrier
+
+ol / l / lkaiin / olkaiin
+= local carrier, local phase, local process field
+
+d / dy / daiin / dal / dol / dar
+= transformation, closure, phase transformation, local transformation, output transformation
+
+ar / or / air
+= output/relation, phase-output
+
+am / om
+= terminal mass/base/residue
+
+Siden viser derfor ikke en ny grammatisk logik. Den viser den samme operatorgrammatik i ekstremt komprimeret form.
+
+Stjernerne fungerer som indeksmarkører.
+Teksten fungerer som processekvens.
+Billedsiden er reduceret til klassifikation.
+8. Why f105v matters
+
+f105v is the correct fifth demonstration because it tests the model under the hardest condition:
+
+minimal visual support
+dense text
+compressed notation
+star/index markers only
+
+The page confirms that the parser is not dependent on illustrated plants, vessels, or bath diagrams. The same operator inventory continues to work when the manuscript shifts into a highly compressed index-text regime.
+
+This is important because it shows regime portability:
+
+HERBAL:
+operators mapped onto plant diagrams
+
+BALNEO:
+operators mapped onto flow/reservoir diagrams
+
+PHARMA:
+operators mapped onto vessels/substances/residues
+
+STAR/TEXT:
+operators compressed into indexed process text
+
+Thus f105v demonstrates that the manuscript’s system is not merely pictorial. It is a structural-functional notation system capable of operating with or without full diagrams.
+
+9. Final conclusion for Demonstration V
+
+f105v completes the five-part demonstration series:
+
+1. f49v
+   HERBAL/PROCESS grammatical key
+
+2. f22v–f23r
+   HERBAL process continuation across folios
+
+3. f76r/f78r
+   BALNEO key and applied flow/reservoir process
+
+4. f99r
+   PHARMA/vessel-substance process
+
+5. f105v
+   final STAR/TEXT compressed notation
+
+The central conclusion is:
+
+The same operator grammar survives regime change.
+
+In f105v, the visual system is almost stripped down to star/index markers, yet the text continues to show the same procedural grammar:
+
+procedure
+-> transfer
+-> stabilization
+-> local carrier
+-> phase
+-> output
+-> terminal mass / closure
+
+This makes f105v an essential final test case. It shows that the parser is not simply matching drawings. It is reading a compressed structural-functional notation system.
