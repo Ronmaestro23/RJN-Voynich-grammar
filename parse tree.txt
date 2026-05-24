@@ -4,7 +4,29 @@ This file is not the final parser specification.
 
 It is a chronological development diary showing how the structural-functional operator model was derived through testing, failed hypotheses, intermediate models, corrections, and later simplification.
 
-Some early readings and semantic glosses are superseded by the stricter operator inventory in the main parser paper.
+# Development diary / derivation log
+
+This file is not the final parser specification.
+
+It is a chronological development diary documenting how the structural-functional operator model was derived.
+
+The model did not begin as a one-glyph theory. It emerged through reduction.
+
+The first computational phase consisted of extensive corpus and token testing, using more than one thousand scripts. These tests examined token length, positional behavior, repeated forms, line structure, boundary behavior, macro-sequences, closure patterns, and candidate grammatical units.
+
+The scripts repeatedly pushed the analysis toward shorter and shorter units. At first, much of the structure appeared to operate at the level of short 3–4 glyph units. When this did not produce a fully consistent translation, the analysis was reduced to 2–3 glyph units. This improved the model, but still left systematic inconsistencies.
+
+The decisive step was the reduction to the one-glyph level.
+
+At that level, the remaining structure became coherent: individual glyphs behaved as primitive functional operators rather than letters or ordinary words. Tokens could then be rebuilt upward as compressed operator-chains.
+
+Compound forms such as `ii`, `ee`, `ch`, `sh`, `cph`, `cfh`, `cth`, and `ckh` were not added arbitrarily. They were rebuilt as controlled macro-forms after the primitive operator layer had been derived.
+
+The final model therefore emerged through computational reduction, statistical pressure, and controlled rebuilding — not through arbitrary expansion.
+
+The statistical tests forced the analysis toward the correct level. The conceptual step was recognizing what that level meant: Voynich tokens are not words. They are compressed operator-chains functioning as procedural instructions.
+
+Some key confirmations, especially f49v, did not emerge directly from statistics alone. They became readable only after the operator layer had been derived. Their importance is that they confirm the same operator grammar in special visual/key-page environments.
 
 For the current parser specification, read:
 1. README.md
@@ -12,18 +34,6 @@ For the current parser specification, read:
 3. Translation how to use parser
 
 This file documents the development path and provenance of the model.
-
-## Derivation by reduction
-
-The final operator model was not the starting assumption. It emerged as a consequence of the computational reduction process.
-
-The initial script phase tested corpus statistics, token behavior, positional roles, boundary behavior, module reuse, and short word-like units. These tests repeatedly pushed the analysis toward shorter units. At first, 3–4 glyph units appeared to capture much of the structure. When those units failed to produce a fully consistent translation, the analysis was reduced to 2–3 glyph units. This improved the model, but still left systematic inconsistencies.
-
-The decisive step was the reduction to the one-glyph level.
-
-At that level the remaining structure became coherent: individual glyphs behaved as primitive operators, not as letters or ordinary words. After that reduction, the system could be rebuilt upward in a controlled way through repeated phase and grade markers such as `ii` and `ee`, and through macro-bound forms such as `ch`, `sh`, `cph`, `cfh`, `cth`, and `ckh`.
-
-The final model therefore emerged through reduction and controlled rebuilding, not through arbitrary expansion. More than 95% of the model was a consequence of corpus statistics, token behavior, and positional regularities. The creative step was recognizing that the remaining inconsistencies required abandoning the word assumption entirely.
 
 The resulting reading principle is:
 
