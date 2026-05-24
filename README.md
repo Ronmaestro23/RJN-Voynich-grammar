@@ -296,22 +296,32 @@ The primitive inventory is kept maximally consistent. A glyph retains its functi
 
 Core examples:
 
-| Glyph / family | Structural role |
-|---|---|
-| q | Strong external initiation / process start / flow start |
-| p | Operational initiation / procedure start / subprocedure start |
-| f | Material, preparatory, or variant initiation |
-| o | Process field / node / base field |
-| a | Transition toward a state or phase |
-| d | Transformation / processing / closure trigger |
-| y | Boundary / closure / finalization |
-| e | Grade, intensity, internal differentiation |
-| i / ii | Phase or sequence marking |
-| ch | Basal operator |
-| cth | Strengthened or full operator |
-| cph | Specialized parallel operator |
-| k | Prefix binder / left connector |
-| h | Internal binder |
+Glyph / family | Structural role
+---|---
+q | Strong external initiation / process start / flow start
+p | Operational initiation / procedure start / subprocedure start
+f | Material, preparatory, or variant initiation
+o | Process field / node / base field
+a | Transition / toward / into next state or phase
+d | Transformation / processing
+y | Boundary / closure / finalization
+e | Grade / intensity / internal differentiation
+i / ii / iin | Phase or sequence marking
+n | Phase boundary / stage endpoint
+l | Local carrier / locality
+r | Relation / output direction
+m | Terminal mass / base / residue
+k | Stabilization / fixation / left-binding connector
+t | Transfer / routing
+s | Regulation / status
+h | Activation / execution / internal activation binder
+ch | Active coupled frame
+sh | Activated regulation/status
+cth | Active coupled transfer
+ckh | Active coupled stabilization
+cph | Active coupled procedure/separation
+cfh | Active coupled variant/preparation
+x | Separator / divider / boundary / framing marker
 Compound forms are treated compositionally rather than as isolated lexical words.
 
 For example:
