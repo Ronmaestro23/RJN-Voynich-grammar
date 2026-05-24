@@ -328,4 +328,16 @@ Code and analysis scripts are licensed under the MIT License.
 
 Documentation, paper drafts, diagrams, interpretive framework, structural grammar model, and explanatory material are licensed under Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0), unless otherwise stated.
 
+## Citation / priority
+
+This repository presents the structural-functional process-operator grammar model of Voynichese developed by Ronny Juul Nielsen.
+
+If you use the operator inventory, parser model, token-as-operator-chain principle, regime dispatcher, or folio demonstrations from this repository, please cite this repository and the accompanying parser paper.
+
+Core model:
+Voynich tokens are not words. They are compressed operator-chains functioning as procedural instructions.
+
+Public working release: May 2026.
+Author: Ronny Juul Nielsen.
+
 © 2026 Ronny Juul Nielsen.
