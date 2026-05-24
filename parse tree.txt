@@ -1,3 +1,22 @@
+# Development diary / derivation log
+
+This file is not the final parser specification.
+
+It is a chronological development diary showing how the structural-functional operator model was derived through testing, failed hypotheses, intermediate models, corrections, and later simplification.
+
+Some early readings and semantic glosses are superseded by the stricter operator inventory in the main parser paper.
+
+For the current parser specification, read:
+1. README.md
+2. RJN Voynich Parser.txt
+3. Translation how to use parser
+
+This file documents the development path and provenance of the model.
+
+
+
+
+
 SEKVENS C
 └── P-MAKROSTART
     ├── ÅBNING
