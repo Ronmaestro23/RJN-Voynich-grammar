@@ -12,6 +12,8 @@ role model and the historical recipe interpretation.
 
 Abstract
 
+The essential reading principle is that Voynich tokens are not words. They are compressed operator-chains functioning as procedural instructions. 
+The parser therefore does not seek direct lexical word-equivalents. It decomposes tokens into primitive glyph-operators, macro-bound forms, and sequence-level process roles.
 This paper presents a complete structural decipherment of Voynichese as a recursive 
 hierarchical functional process-operator grammar. 
 The system was not derived from a prior linguistic, botanical, cryptographic, or alchemical theory. 
