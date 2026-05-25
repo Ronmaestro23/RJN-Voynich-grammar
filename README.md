@@ -24,6 +24,12 @@ In short:
 
 ### Reproducible Herbal H derivation baseline
 
+### Corpus source
+
+The working corpus is derived from the EVA/Takahashi transcription of the Voynich manuscript.
+
+This repository does not claim authorship of the raw transcription. The original contribution is the preprocessing, H-line/witness protocol, operator grammar, parser model, and structural-functional interpretation built on top of that corpus base.
+
 The reproducible derivation baseline used for the Herbal H rule-set is:
 
 - Herbal section only
