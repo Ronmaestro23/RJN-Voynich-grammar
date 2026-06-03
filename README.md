@@ -332,15 +332,19 @@ Compound forms are treated compositionally rather than as isolated lexical words
 
 For example:
 
-```text
-d + y    -> dy
-d + aiin -> daiin
-d + ar   -> dar
-d + ol   -> dol
-d + am   -> dam
-```
 
----
+### d-series internal composition
+
+The d-series follows the same internal-chain principle as the forms listed above.
+
+These forms are not ordinary words and are not treated as simple prefix + base constructions. They are analysed as compact operator chains:
+
+dy    = d + y
+daiin = d + a + ii + n
+dar   = d + a + r
+dol   = d + o + l
+dam   = d + a + m
+
 
 ## Diagrammatic Grammar
 
