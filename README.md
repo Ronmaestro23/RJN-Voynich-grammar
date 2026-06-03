@@ -259,7 +259,22 @@ The closure zone is usually not a single endpoint. It is often zonal and hierarc
 
 ```text
 CLOSURE_BLOCK = D_BLOCK+
-D_BLOCK = d + (y | aiin | ar | ol | am | other_closure_module)
+
+D_BLOCK = d + CLOSURE_TARGET
+
+CLOSURE_TARGET =
+
+    y
+
+  | a + ii + n
+
+  | a + r
+
+  | o + l
+
+  | a + m
+
+  | other_closure_module
 ```
 
 Representative closure hierarchy:
