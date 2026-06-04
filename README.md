@@ -348,7 +348,7 @@ a | Transition / toward / into next state or phase
 d | Transformation / processing
 y | Boundary / closure / finalization
 e | Grade / intensity / internal differentiation
-i / ii / iii | Phase or sequence marking
+i / ii / iii | Phase count / sequence number  
 n | Phase boundary / stage endpoint
 l | Local carrier / locality
 r | Relation / output direction
