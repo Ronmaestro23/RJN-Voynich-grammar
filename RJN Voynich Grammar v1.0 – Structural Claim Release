@@ -1,0 +1,17 @@
+This release freezes the first public structural claim version of RJN Voynich Grammar.
+
+Core claim:
+Voynichese is a recursive hierarchical process-operator grammar. Voynich tokens are not ordinary words, but compressed operator-chains parsed sequence-by-sequence.
+
+This release documents:
+- witness-control protocol
+- transcription baseline
+- conservative correction rule
+- primitive operator inventory
+- macro-sequence grammar
+- parser model
+- diagrammatic grammar
+- cross-regime claim hierarchy
+
+Author: Ronny Juul Nielsen
+Public release: June 2026
