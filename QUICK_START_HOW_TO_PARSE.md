@@ -164,7 +164,7 @@ Functional reading:
 
 activated regulation or status control
 Example 4: daiin
-d + aiin
+d + a + ii + n
 
 Components:
 
