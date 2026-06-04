@@ -35,7 +35,7 @@ Use this order:
    - `d`
    - `y`
    - `e`
-   - `i / ii / iin`
+   - `i / ii / iii`
    - `n`
    - `l`
    - `r`
@@ -70,7 +70,7 @@ They are not used to create new grammar rules.
 | `d` | Transformation / processing |
 | `y` | Boundary / closure / finalization |
 | `e` | Grade / intensity / internal differentiation |
-| `i / ii / iin` | Phase or sequence marking |
+| `i / ii / iii` | Phase count / sequence number |
 | `n` | Phase boundary / stage endpoint |
 | `l` | Local carrier / locality |
 | `r` | Relation / output direction |
@@ -170,7 +170,8 @@ Components:
 
 d    = transformation / processing
 a    = transition / toward next state
-iin  = phase or sequence marking
+ii  = Phase count / sequence number
+n   = Phase boundary / stage endpoint
 
 Functional reading:
 
@@ -183,7 +184,7 @@ Example 5: qokaiin
 
 Possible parse:
 
-q + o + k + a + iin
+q + o + k + a + ii + n
 
 Components:
 
@@ -191,7 +192,8 @@ q    = process start / flow start
 o    = process field / base field
 k    = stabilization / fixation
 a    = transition into next state
-iin  = phase or sequence marking
+ii  = Phase count / sequence number
+n   = Phase boundary / stage endpoint
 
 Functional reading:
 
@@ -200,7 +202,7 @@ Example 6: qotaiin
 
 Possible parse:
 
-q + o + t + a + iin
+q + o + t + a + ii + n
 
 Components:
 
@@ -208,7 +210,8 @@ q    = process start / flow start
 o    = process field / base field
 t    = transfer / routing
 a    = transition into next state
-iin  = phase or sequence marking
+ii  = Phase count / sequence number
+n   = Phase boundary / stage endpoint
 
 Functional reading:
 
@@ -276,9 +279,9 @@ qokaiin cth daiin dy
 
 Step-by-step parse:
 
-qokaiin = q + o + k + a + iin
+qokaiin = q + o + k + a + ii + n
 cth     = active coupled transfer
-daiin   = d + a + iin
+daiin   = d + a + ii + n
 dy      = d + y
 
 Structural reading:
@@ -399,7 +402,7 @@ qokaiin
 
 Parse:
 
-q + o + k + a + iin
+q + o + k + a + ii + n
 
 Roles:
 
@@ -407,7 +410,8 @@ q    process start / flow start
 o    process field / base field
 k    stabilization / fixation
 a    transition into next state
-iin  phase or sequence marking
+ii  = Phase count / sequence number
+n   = Phase boundary / stage endpoint
 
 Structural reading:
 
@@ -449,13 +453,14 @@ qokaiin
 Output:  
 
 qokaiin  
-= q + o + k + a + iin  
+= q + o + k + a + ii + n  
 
 q    = process start / flow start  
 o    = process field / base field  
 k    = stabilization / fixation  
 a    = transition into next state  
-iin  = phase or sequence marking  
+ii  = Phase count / sequence number
+n   = Phase boundary / stage endpoint 
 
 Structural reading:  
 start a process field, stabilize it, and move it into a marked phase-state  
