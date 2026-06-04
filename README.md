@@ -361,7 +361,9 @@ These forms are not used to create new grammar rules. They are flagged conservat
 In particular:
 
 - Standalone or reduced c is retained as a conservative coupling-stem form; likely transcription-sensitive when expected coupled continuation h/p/t/k/f is absent
+
 - terminal `g` is treated as a rare closure/residue variant, often occurring at token endings;
+
 - `z` and `v` are treated as rare exceptional or transcription-sensitive boundary/variant markers.
 
 These forms do not break the structural grammar. They are retained as flags for manuscript review, witness comparison, and possible transcription uncertainty.
