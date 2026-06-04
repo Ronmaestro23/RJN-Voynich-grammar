@@ -1,4 +1,16 @@
 # Voynich-Process-Operator-Grammar
+
+## Priority Statement
+
+This repository documents Ronny Juul Nielsen’s original structural model of Voynichese as a recursive hierarchical process-operator grammar.
+
+The central claim is that Voynich tokens are not ordinary words, but compressed operator-chains functioning as procedural instructions, parsed sequence-by-sequence through a structural-functional grammar.
+
+The original contribution consists of the preprocessing method, H-line/witness protocol, conservative correction rule, operator grammar, parser model, primitive operator inventory, macro-sequence grammar, regime dispatcher, and structural-functional interpretation of the Voynich manuscript as technical process notation.
+
+Public GitHub development: May–June 2026.  
+Author: Ronny Juul Nielsen.
+
 Full decipherment with grammar on all sections
 # Recursive Structural Decipherment of Voynichese
 
@@ -347,10 +359,10 @@ x | Separator / divider / boundary / framing marker
 
 Fallback / transcription-sensitive forms:
 
-c                  Standalone or reduced coupling stem; treated conservatively as transcription-sensitive when an expected coupled continuation h, t, k, p, or f is absent
-g                  Rare terminal residue / closure variant; likely transcription-sensitive or terminal scribal variant
-z                  Rare exceptional boundary marker; likely transcription-sensitive
-v                  Rare variant marker; likely transcription-sensitive
+c                  Standalone or reduced coupling stem; treated conservatively as transcription-sensitive when an expected coupled continuation h, t, k, p, or f is absent  
+g                  Rare terminal residue / closure variant; likely transcription-sensitive or terminal scribal variant  
+z                  Rare exceptional boundary marker; likely transcription-sensitive  
+v                  Rare variant marker; likely transcription-sensitive  
 
 ### Fallback and transcription-sensitive forms
 
