@@ -478,7 +478,7 @@ Do not force the line into an ordinary sentence.
 Do not invent new rules from rare forms.  
 Do not treat fallback forms as semantic discoveries.  
 
-15. Summary
+## 15. Summary
 
 The RJN model parses Voynichese as a recursive process-operator system.
 
