@@ -336,6 +336,7 @@ k | Stabilization / fixation / left-binding connector
 t | Transfer / routing
 s | Regulation / status
 h | Activation / execution / internal activation binder
+c | Structural coupling stem / compositional binder
 ch | Active coupled frame
 sh | Activated regulation/status
 cth | Active coupled transfer
@@ -343,6 +344,28 @@ ckh | Active coupled stabilization
 cph | Active coupled procedure/separation
 cfh | Active coupled variant/preparation
 x | Separator / divider / boundary / framing marker
+
+Fallback / transcription-sensitive forms:
+
+c                  Standalone or reduced coupling stem; treated conservatively as transcription-sensitive when an expected coupled continuation h, t, k, p, or f is absent
+g                  Rare terminal residue / closure variant; likely transcription-sensitive or terminal scribal variant
+z                  Rare exceptional boundary marker; likely transcription-sensitive
+v                  Rare variant marker; likely transcription-sensitive
+
+### Fallback and transcription-sensitive forms
+
+The grammar does not require free correction of the corpus. However, a small number of rare forms are treated as fallback or transcription-sensitive forms.
+
+These forms are not used to create new grammar rules. They are flagged conservatively as reduced, terminal, or witness-sensitive variants.
+
+In particular:
+
+- Standalone or reduced c is retained as a conservative coupling-stem form; likely transcription-sensitive when expected coupled continuation h/p/t/k/f is absent
+- terminal `g` is treated as a rare closure/residue variant, often occurring at token endings;
+- `z` and `v` are treated as rare exceptional or transcription-sensitive boundary/variant markers.
+
+These forms do not break the structural grammar. They are retained as flags for manuscript review, witness comparison, and possible transcription uncertainty.
+
 Compound forms are treated compositionally rather than as isolated lexical words.
 
 For example:
