@@ -132,6 +132,8 @@ The purpose of the H-/witness protocol is not to make the model easier to fit. I
 
 This is why the parser should be tested only after the transcription layer has been controlled.
 
+[QUICK_START_HOW_TO_PARSE.md](QUICK_START_HOW_TO_PARSE.md)
+
 ## A Hierarchical Functional Process-Operator Grammar
 
 This repository presents a mathematically and statistically derived structural decipherment of Voynichese as a recursive hierarchical process-operator grammar.
