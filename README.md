@@ -48,7 +48,12 @@ The reproducible derivation baseline used for the Herbal H rule-set is:
 - H-lines only
 - up to and including f57r
 - f1r and f49v excluded as special/key pages
-- repeated `e` and `i` collapsed to single `e` / `i`
+- Repeated `e` and `i` are collapsed only in the derivation baseline used for rule induction.    
+  They are not collapsed in the functional parser.
+
+  In the functional parser:  
+- `e / ee / eee` = grade / intensity / internal differentiation  
+- `i / ii / iii` = phase count / sequence number  
 - rule induction performed on baseline-H
 - whole corpus used only for error checking
 - `.py` and `.txt` used as the reproducible working file types
