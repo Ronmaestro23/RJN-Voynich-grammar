@@ -368,15 +368,7 @@ v                  Rare variant marker; likely transcription-sensitive
 
 The grammar does not require free correction of the corpus. However, a small number of rare forms are treated as fallback or transcription-sensitive forms.
 
-These forms are not used to create new grammar rules. They are flagged conservatively as reduced, terminal, or witness-sensitive variants.
-
-In particular:
-
-- Standalone or reduced c is retained as a conservative coupling-stem form; likely transcription-sensitive when expected coupled continuation h/p/t/k/f is absent
-
-- terminal `g` is treated as a rare closure/residue variant, often occurring at token endings;
-
-- `z` and `v` are treated as rare exceptional or transcription-sensitive boundary/variant markers.
+These forms are not used to create new grammar rules. They are flagged conservatively as reduced, terminal, or witness-sensitive variants.  
 
 These forms do not break the structural grammar. They are retained as flags for manuscript review, witness comparison, and possible transcription uncertainty.
 
