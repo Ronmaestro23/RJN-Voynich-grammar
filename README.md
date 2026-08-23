@@ -1,5 +1,7 @@
-Paper 1 — Functional process-operator grammar
-Paper 2 — Dual-layer functional and instructional notation
+## Papers
+
+- **[Paper 1 — Functional Process-Operator Grammar](LINK-TIL-PAPER-1)**
+- **[Paper 2 — Dual-Layer Functional and Instructional Notation](PAPER_2_Component_Grammar.md)**
 
 # Voynich-Process-Operator-Grammar
 
