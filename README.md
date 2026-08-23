@@ -1,3 +1,6 @@
+Paper 1 — Functional process-operator grammar
+Paper 2 — Dual-layer functional and instructional notation
+
 # Voynich-Process-Operator-Grammar
 
 ## Priority Statement
